@@ -1,0 +1,1 @@
+Collection of gods the people of Astrodia choose most often to worship. Led by an all-powerful creator, simply referred to as the Solemn, the lesser gods, called the Agents, are the gods with specialized domains most religious folks choose from as a primary deity. These gods as well as a collection of angels are said to reside in the Sanctuary in the Sky.

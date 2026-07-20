@@ -1,0 +1,1 @@
+ Not technically a part of the Kingdom of [[Artmegía]] but they have a good relationship as the island is largely inhabited by those that continue to venerate the Phoenix King, a Higher Being, and some temples to the Phoenixes can be found around Artmegia proper.

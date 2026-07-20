@@ -1,0 +1,7 @@
+All magic is strictly monitored within the borders of the [[Empire]]. Spellcasters can only learn certain types of approved magic at government run schools. Those with inherit magical capabilities are placed on registries and prevented from using magic except at pre-approved locations and times. Magical gems known as [[Keystones]] are distributed by the Empire’s government to local leaders to allow for the casting of approved spells to benefit the towns and cities by those not trained in magic. (Think of it like a magical welfare system). Some view this level of control as tyrannical and reprehensible, while others belief the harsh laws and support from the government have only made life better. However, the Empire is still somewhat reeling from a recent failed attempt to annex [[Marseille]].
+
+## Emperor Endymion, the Magistus
+
+The Empire is ruled from the **Citadel** by **Emperor Endymion** — revealed in Session 7 to be one of the **[[Magistus]]**, the spellcasters who stopped the **[[Great Cataclysm]]**, and the **only Magistus known to still be alive**. He is currently marching an army to **unify the continent**, and is considered possibly the **most powerful spellcaster in the world** — which is why no one dares ask questions about the Magistus, or about how the green **[[The Fourth Magic|fourth magic]]** now powers his Empire from the Citadel.
+
+Notably, **[[Pentamarone]]** — founded by *another* Magistus — sits inside the Empire's borders yet **outside its jurisdiction**, hinting at a falling-out among the Magistus.

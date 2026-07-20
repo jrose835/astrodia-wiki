@@ -1,0 +1,1 @@
+Play an important role in Astrodia. They are considered some of the most powerful beings in existence, almost to that of the gods, but they are rarely seen and rarely interact with mortals. 

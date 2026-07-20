@@ -1,0 +1,43 @@
+{
+  "name": "darkmode-dark-default",
+  "version": "1.0.0",
+  "description": "Fork of @quartz-community/darkmode that defaults new visitors to dark mode. Toggle and light theme still work; only the first-visit default changed (see dist/index.js: `var r=\"dark\"`).",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10.9.2"
+  },
+  "quartz": {
+    "name": "darkmode",
+    "displayName": "Dark Mode",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "Darkmode": {
+        "displayName": "Dark Mode",
+        "defaultPosition": "left",
+        "defaultPriority": 30
+      }
+    }
+  }
+}

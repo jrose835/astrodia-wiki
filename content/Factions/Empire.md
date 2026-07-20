@@ -1,0 +1,3 @@
+[[Endymion Empire]]
+
+All magic is strictly monitored within the borders of the Empire. Spellcasters can only learn certain types of approved magic at government run schools. Those with inherit magical capabilities are placed on registries and prevented from using magic except at pre-approved locations and times. Magical gems known as Keystones are distributed by the Empire’s government to local leaders to allow for the casting of approved spells to benefit the towns and cities by those not trained in magic. (Think of it like a magical welfare system). Some view this level of control as tyrannical and reprehensible, while others belief the harsh laws and support from the government have only made life better.

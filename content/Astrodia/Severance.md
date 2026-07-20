@@ -1,0 +1,5 @@
+A mysterious event that saw the disappearance of nearly all of the [[Primordial Beings]]. It has been lost to history what exactly the Severance was or how it caused the disappearance of the Higher Beings and the emergence of the mortals as the dominant force in Astrodia nearly 1000 years ago, but the Beings' lingering power can still be felt across the land.
+
+## Session 6 — Simone's Hypothesis
+
+During the [[S.A.T.O.]] meeting, Simone proposed that **arcane magic may not be native to Astrodia**. Before the Severance, there are **no records of mortal wizards** casting spells — all magic flowed from **divine or higher-being sources**. *After* the Severance, mortals could suddenly harness arcane magic on their own. This frames the Severance as the turning point that put arcane power into mortal hands. See [[Types of Magic]] and [[The Fourth Magic]].

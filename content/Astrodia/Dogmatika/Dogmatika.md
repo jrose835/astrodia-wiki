@@ -1,0 +1,3 @@
+A nation within the [[Closed Land]].
+
+Emerged shortly after the [[Great Cataclysm]], a surge of magical energy across [[Astrodia]] that corrupted and nearly destroyed everything in its path, around 100 years ago. The [[Nation]] is a theocracy, headed by the leader [[Maximus]] who calls the denizens to worship a new God, not found in the [[Solemn Pantheon]]. While they do not force conversions or proselytize, they parade their Saints, adorned with the holy marking, [[Stigmatas]], that allow them to perform miracles, convincing much of the central Closed Land to join willingly. The church has recently anointed its newest Saint, said to be the most perfect one yet.

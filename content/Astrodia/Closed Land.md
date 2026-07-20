@@ -1,0 +1,1 @@
+A continent of [[Astrodia]] located to the east

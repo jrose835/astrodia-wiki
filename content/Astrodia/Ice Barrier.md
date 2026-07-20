@@ -1,0 +1,1 @@
+Encapsulates the south pole of [[Astrodia]], home to a tribe of snowfarers who see to a great task

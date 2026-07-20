@@ -1,0 +1,39 @@
+# rsync exclude-list for publishing the Astrodia vault -> content/
+# This is the PRIMARY spoiler firewall: anything listed here is never copied
+# into the git repo, so it can never reach the public site.
+# Patterns are matched against paths relative to the vault root.
+
+# --- Vault/tooling internals ---
+.obsidian/
+.claude/
+.git/
+.gitignore
+CLAUDE.md
+.DS_Store
+
+# --- Private character workspace (Úlfr's backstory, build, secrets) ---
+MyCharacters/
+
+# --- DM prep / out-of-session notes (one leaks the Snorri/Kári secret) ---
+DM meetings/
+
+# --- Lore page that embeds secret analysis of the murder ---
+Astrodia/War Rock Mountains.md
+
+# --- Notes tagged #secret (Úlfr's hidden backstory) ---
+Characters/NPCs/Kári.md
+Characters/NPCs/Snorri.md
+Objects/Snorri's notebook.md
+
+# --- Loose DM-facing session notes (publish only the polished "* Recap *" files) ---
+Sessions/Session 0.md
+Sessions/Session 1 (Episode 2) Notes.md
+Sessions/Session 3.md
+Sessions/Session 4.md
+Sessions/Session 5.md
+Sessions/Session 6.md
+Sessions/Session 7.md
+
+# --- Images referenced only by secret notes (images bypass publish filters) ---
+Pasted image 20260202134910.png
+Pasted image 20260419232353.png
