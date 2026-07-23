@@ -27,6 +27,19 @@ All but [[Simone]] crossed paths with the party back at the Academy in **Session
 | [[Ersmatok Rostch]] | [[Witherbloom College|Witherbloom]] | Magic-labs / horticulture; theatrical streak | **[[Leif Kalanchoe\|Leif]] befriended him** in the [[Biblioplex]] (Session 3) |
 | [[Quintilius]] | [[Prismari]] | Performance & dead languages (Drama Guild) | **Talked with [[Úlfr Kveld\|Úlfr]]** in the [[Biblioplex]] (Session 3) |
 
+## Satyr Rolls — Remote Tasks (Session 8)
+
+Once [[The Fallen]] left the students behind at campus and set out north, the S.A.T.O. became usable as remote **"hirelings"** via a mechanic the table calls **Satyr Rolls**:
+
+- Each **in-game day**, any student assigned a task rolls a **d100** against a **hidden target number**.
+- Task **difficulty** sets the starting target and how fast it **drops each day** (easy: start ~50, fall ~10/day; hard: start ~90–95, fall ~2/day). Some tasks may be **secretly impossible** — the number never drops, forcing the party to eventually reassign that student.
+- Tasks must fit each student's **specialty** (see the Members table), and are only ever things the party **could do themselves** — this offloads legwork without removing player agency.
+- Work is assigned only via the **[[Sending Stones]]** — **one student per day**, and doing so **spends the stones' single daily use**.
+
+**Standing assignments (from Session 7 → tracked in Session 8):**
+- **[[Tobin]]** — investigate **what and how many** the "[[The Seeker of the Sinful Spoils|Sinful Spoils]]" are (and now, watch for the **dress/lance/book/chalice** the party's dreams flagged).
+- **[[Simone]]** — trace **who donated the star-tablet** [[Asha Nyvani Korré|Asha]] translated. *(The DM hinted the party may already hold the answers in visions and books they've been sent.)*
+
 ## Related
 
 - [[The Fourth Magic]] — the central mystery the S.A.T.O. is chasing

@@ -13,6 +13,10 @@
 - **[[Úlfr Kveld|Úlfr]]** prayed to his goddess for the entity's **true name**.
 - **[[The Orb]]** and its imprisoned creature remain the clearest physical link.
 
+## Session 8 — It May Be Reaching Through Howl
+
+In a dream on the road north, **[[Leif Kalanchoe|Leif]]** experienced his usual nightmare — everything **turning yellow**, the Whispering One's untranslatable voice in his head — but this time **the voice issued from his familiar, the owl Howl**, whose **eyes went completely yellow.** Leif now fears the entity is trying to **reach through, speak as, or take** his familiar (his [[Leif Kalanchoe|Pact of the Chain]] companion). [[Drolta Amara Tzuentes|Drolta]] urged him to make consulting **[[Nephthys]]** a priority. This is the first sign the Whispering One may act through a **vector other than direct whispers.**
+
 ## Related
 
 - [[Leif Kalanchoe]] — the warlock it reached

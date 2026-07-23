@@ -55,3 +55,10 @@ The party reached **Level 3**.
 - Offered to **ask her patron, [[Nephthys]], for information about [[The Whispering One]]** — the name [[Úlfr Kveld|Úlfr]] gave Leif's patron.
 - Shared more of her past en route planning: she was a **high priestess** at the [[Nephthys]] temple until [[Lady Nectaria]]'s vampires attacked it searching for *something*; she's been seeking the truth ever since. The party set the temple as their next destination (~6 days from [[Quandrix College]]).
 - Still intends to seek out the vampire dean **[[Professor Valentine]]** at [[Witherbloom College]] as a source on vampires and the [[Severance]] — deferred for now.
+
+### Session 8
+- At the Level 3 reintroductions, Drolta re-told her origin — orphan, **High Priestess of [[Nephthys]]**, the vampire massacre, her rebirth as a **dhampir** — and confirmed she now wields **celestial-patron warlock** healing. **Only [[Aren Greycloak|Aren]] and [[Leif Kalanchoe|Leif]] know her true nature**; [[Úlfr Kveld|Úlfr]] still does not.
+- Her **[[Drolta Amara Tzuentes|history roll]]** identified the midway town of **[[Freedale]]** and its devastation by the [[White Forest]] curse.
+- In the **bandit ambush**, she worked **Inflict Wounds, Hex, and Mind Sliver**, taking heavy dagger damage but finishing the **Muscle** alongside Úlfr; [[Aren Greycloak|Aren]] repeatedly healed her (*"sisters in arms"*).
+- **A haunting dream:** someone she **deeply loved at the [[Nephthys]] temple**, now with **blood-red eyes and fangs.** She confided to [[Leif Kalanchoe|Leif]] her fear that **vampires may still hold the temple** they're approaching, and that the homecoming will be *"a little rough."* She resolved to warn the group, and to ask [[Nephthys]] about Leif's [[The Whispering One|patron]].
+- Her **dhampir agility** let her free-climb to the tower's third-floor balcony and drop the rope for the others at **[[Morgana]]'s** tower.

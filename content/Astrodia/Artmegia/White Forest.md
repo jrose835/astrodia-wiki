@@ -22,3 +22,13 @@ Piecing together accounts from [[Myrna Nor|Myrna]], [[Quintilius]], the butler [
 - Even before the curse it was strange, with a persistent rumor of a **coven of witches** living within.
 - **Quintilius's warning:** a cursed place that "almost destroyed the continent," now holding the **largest store of divine power in the world**.
 - The Lathen priest knew nothing beyond the curse, and believed on faith it was ended by **divine intervention**; [[Archibald]] suggested finding a **scholar who studied the forest before the Academy's research ban**.
+
+## Session 8 — Freedale's Firsthand Account (July 22, 2026)
+
+At **[[Freedale]]** — one of the towns hit hardest by the curse — a tavern-keeper gave [[The Fallen]] the **clearest firsthand account yet** of how the curse *began*, adding new detail:
+
+- **Before the vines ever arrived**, there were omens: **children disappeared** for stretches of time and then **returned unharmed**, and the **trees around town started turning white.**
+- Only once the vines came within sight did the town flee; those who stayed **mostly died**. The vines later **receded on their own**, and returnees spent **years** clearing the decayed thorns.
+- New lead: the witch **[[Morgana]]** of Freedale **went into the forest to fight the curse before it reached the town — and never returned.** Rumor holds the vines later **dumped her body back at her tower**, which now reads as a **haunted** site with a **strong undead presence buried beneath it** (detected by [[Aren Greycloak|Aren]]'s pendant). The party entered the tower at session's end.
+
+The "vanishing children who came back" and "whitening trees *preceding* the vines" are the freshest threads for understanding what the curse actually *is*.

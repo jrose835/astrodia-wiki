@@ -42,6 +42,11 @@ Still processing the reveal, Leif described his patron to the party: he hears **
 
 Earlier, Leif had asked **[[Úlfr Kveld|Úlfr]]** to **name his unknown patron**. At dinner in [[Lathen]], Úlfr delivered: he named the entity **[[The Whispering One]]** — a working name, drawn from his people's belief in a time before names when older, vast powers spoke the world into being. Drolta offered to ask her own patron, [[Nephthys]], for more information about it. Leif recognized the [[Unseen Servant]] spell used by the butler [[Archibald]] over the meal.
 
+### Session 8
+At the Level 3 reintroductions, Leif declared himself plainly: **"a Warlock who has accepted it,"** **Pact of the Chain**, with his familiar **Howl**. In the **bandit ambush** he shut down two enemies with **Tasha's Hideous Laughter** (dropping one out of a tree) and picked away with **Eldritch Blast**.
+
+**A troubling dream deepened the [[The Whispering One|Whispering One]] thread.** In his recurring nightmare, everything **turns yellow** and he hears the patron's untranslatable voice — but this time **the voice came from Howl**, and the **owl's eyes went completely yellow.** Leif now fears the Whispering One may be trying to **reach through, or take, his familiar**. He confided this to **[[Drolta Amara Tzuentes|Drolta]]** on the road (bonding over shared warlock prejudice they've both had to unlearn); she urged him to make consulting **[[Nephthys]]** a priority. Leif joined the climb into **[[Morgana]]'s** tower at **[[Freedale]]**.
+
 ## Leif's Patron — The Whispering One
 
 As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. Its **true name is still unknown**. What little is established:

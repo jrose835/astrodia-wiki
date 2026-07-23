@@ -16,7 +16,9 @@ Forged by [[Leith Chantos]] himself and left on the forge anvil in his final lib
 
 ## Current Status
 
-Claimed by [[Úlfr Kveld|Úlfr]] in Session 6 (May 31, 2026). [[Asha Nyvani Korré|Asha]] detected its enchantment magic via a ritual Detect Magic in the forge; it was later fully identified once Asha learned the Identify spell. Úlfr is **still wielding his old greataxe** until he comes to trust the new weapon, and means to give it a new name.
+Claimed by [[Úlfr Kveld|Úlfr]] in Session 6 (May 31, 2026). [[Asha Nyvani Korré|Asha]] detected its enchantment magic via a ritual Detect Magic in the forge; it was later fully identified once Asha learned the Identify spell.
+
+**As of Session 8 (July 22, 2026), Úlfr has begun wielding it in combat** — swinging it during the bandit ambush on the road north (and using it to smash into [[Morgana]]'s tower) — a step toward retiring his old greataxe **[[Úlfr Kveld#Objects & Weapons|Last Word]]**. He still means to give the sentient axe a new name.
 
 ## First Referenced
 
