@@ -51,3 +51,22 @@ Traveling north from [[Quandrix College]], Asha fought the **bandit ambush** in 
 **Her dreams took center stage.** Asha connected several recurring visions into a theory about the **[[The Seeker of the Sinful Spoils|Sinful Spoils]]**: a **winged, taloned woman in black and red** holding the **[[Golden Chalice|chalice]]**, and a *second*, **godly woman robed all in white** who **drinks from the chalice** while holding a **book, a lance, and a white gown**. Tallying the objects — **chalice, lance, book, dress** — the party now suspects these *are* the Sinful Spoils. Crucially, **neither woman matches the Academy's wanted poster** of the Seeker. The party relayed the item list to [[Tobin]] via the [[Sending Stones]].
 
 At **[[Freedale]]**, Asha investigated the town's buildings (spotting the private residence, the stable, and the tavern) and joined the break-in at **[[Morgana]]'s** wizard tower — though she and [[Aren Greycloak|Aren]] were **left stranded below** when the climbing rope snapped. The party reached the town **17 days** out from the chalice's repossession.
+
+### Session 9
+**Asha's session, and the biggest personal development of the campaign so far.**
+
+Inside **[[Morgana's Tower]]** she was the party's interpreter for everything magical. Running **Detect Magic** continuously, she found the **evocation cloak** in the third-floor chest that everyone else had dismissed as laundry (she checked whether it matched the robed figure from her dreams — it didn't), identified the fourth-floor storage room as a witch's **spell-component stock** worth up to **500 gp of material components**, and turned up **three spell scrolls** in the library: **Leomund's Tiny Hut**, **Sleet Storm**, and **Erupting Earth** (all 3rd level — held to transcribe once she can cast them at level 5). She also identified and **copied the runes of the roof's teleportation circle.**
+
+**The orb corridor.** Wearing the cloak, Asha walked into the second-floor ring alone, **pacing herself with the patrolling orbs**, and forced open the inner door. An orb caught her with a **lightning bolt** — and the cloak revealed itself: **resistance to lightning damage**, halving the hit. Behind the door was the **scrying pool** from Morgana's journal, built so anyone Arcana-proficient may use it **once per day, free.**
+
+**She found her mother.** Between how well she knows her and the **mother's notebook** she has carried since Session 1, the save was at **-9**, and it failed:
+
+> Her mother is **alive**, in the **[[White Forest]]**, **tied to a tree** in a clearing near the forest's edge — beside a second captive, a **woman all in white with long blonde hair**, also bound.
+
+The thread the [[S.A.T.O.]] promised to "watch for leads" on in Session 6 is now a **rescue with a location.** The party's answer was immediate: *"We're definitely going to save your mom, Asha."*
+
+**The amulet.** In the basement, her Detect Magic caught a faint emanation from the dead witch's pocket — the **[[Guardian Command Amulet]]**. She **cast Identify on it for free** using the components found upstairs, walked up to the shield guardian holding it out, and **shut the construct down**. Her follow-up history check produced the session's other major revelation: the guardian is an **older model of the constructs posted throughout [[The Academy of Arcane Arts|the Academy]]**, and since each amulet binds one guardian, the Academy must keep a **control room holding all of them.** She wears the amulet now.
+
+She also **spotted the barred basement door** while the rest of the party was busy congratulating itself on sneaking past the guardian, and rounded out the night with a bad dream roll and a **library in Freedale she never got to enter.** Her hawk **Astra** landed the killing blow on the ghast.
+
+*(Asha, like [[Úlfr Kveld|Úlfr]], came out of the night with something she hasn't yet told the party.)*

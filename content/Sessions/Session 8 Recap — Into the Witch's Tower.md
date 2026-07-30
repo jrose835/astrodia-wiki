@@ -147,3 +147,5 @@ The front door was locked and unyielding. Spotting a **third-floor balcony**, **
 ## Next Session
 ![[Pasted image 20260722230601.png]]
 [[The Fallen]] stand inside **[[Morgana]]'s tower** — Drolta, Úlfr, Red, and Leif on the upper floor amid a witch's abandoned rooms, Asha and Aren still stranded below — with something **undead stirring beneath the foundations.** *Into the witch's tower.*
+
+→ **[[Session 9 Recap — What the Witch Left Behind]]** *(the undead beneath the tower turned out to be **ghouls feeding on Morgana's body**; the tower also held her papers, a scrying pool, and a construct the party can now command — see [[Morgana's Tower]].)*

@@ -34,6 +34,19 @@ The grand central library of the Academy. Majestic marble archways, tomes for mi
 
 An **Oracle of the Academy** exists somewhere within — supposedly the most powerful being at the school.
 
+### The Watchmen — and Who Really Built Them
+
+The constructs standing guard at the Biblioplex doors were **not designed at the Academy.** Correspondence recovered from **[[Morgana's Tower]]** in Session 9 established that they descend from the guardian line built by the Freedale witch **[[Morgana]]** (the forge) and her Academy colleague **[[Verelda]]** (the "animating lattice" theory). Both women deliberately hid the origin:
+
+> *"Tell your colleagues at the Biblioplex their new watchmen owe more to a witch in the hills than they'll ever know, and let's keep it that way — I'd rather not explain myself to a room full of deans."* — Morgana to Verelda
+
+Two facts make this campaign-relevant rather than trivia:
+
+1. Per [[Asha Nyvani Korré|Asha]]'s history check, these guardians are posted **throughout the Academy**, not only at the library.
+2. Each is a **shield guardian** bound to a single **[[Guardian Command Amulet|command amulet]]** — so the Academy almost certainly maintains a **control room holding every amulet.** Whoever holds those amulets controls Academy security.
+
+The party recovered a working amulet for the (older) Freedale guardian and knows exactly how the mechanism works. The open question is whether these constructs are also the muscle the **[[Arcane Reclamation Initiative]]** will send after the [[Golden Chalice]].
+
 ## Campus Locations
 
 - **[[Bow's End Tavern]]** — Popular on-campus tavern. Owned by **[[Tulk]]** ("the Bulk"), a full orc. Known for Dwarven Ales and more exotic options.

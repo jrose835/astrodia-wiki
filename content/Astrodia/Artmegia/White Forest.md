@@ -32,3 +32,25 @@ At **[[Freedale]]** — one of the towns hit hardest by the curse — a tavern-k
 - New lead: the witch **[[Morgana]]** of Freedale **went into the forest to fight the curse before it reached the town — and never returned.** Rumor holds the vines later **dumped her body back at her tower**, which now reads as a **haunted** site with a **strong undead presence buried beneath it** (detected by [[Aren Greycloak|Aren]]'s pendant). The party entered the tower at session's end.
 
 The "vanishing children who came back" and "whitening trees *preceding* the vines" are the freshest threads for understanding what the curse actually *is*.
+
+## Session 9 — Morgana's Decade of Watching (July 29, 2026)
+
+[[The Fallen]] cleared **[[Morgana's Tower]]** and recovered the witch's own papers — the first sustained **firsthand study** of the forest the party has ever had. Morgana watched it through a **scrying font for roughly ten years** before going in.
+
+- **The trees.** Her word was *"wrong"* — *"not sick, not dying, just wrong, the way a face is wrong when it's smiling and shouldn't be."* **Whiter every season**, and **the birds stopped landing in them.**
+- **The animals.** She reported them *"behaving as though they no longer recognize this as home"* — and *"the silence where the deer used to be."*
+- **Her conclusion, and the key new claim:** ***"Something in that forest is not just decaying. Something in that forest is reaching."*** The curse is not framed as spreading blight but as something with **intent**.
+- **She grew up in it.** Morgana and her friend **[[Yssa]]** were *"girls together in that forest"* **before the whitening.** Yssa stayed and was likely part of the **coven**; her fate was unknown even to Morgana. This establishes the forest was an ordinary, inhabited place within living memory.
+- **The old story.** **[[Dia]]** told the child Morgana a tale of *"someone who fell before anyone else ever fell — someone the forest itself is supposed to remember even if no one else does."* Morgana dismissed it her whole life, then stopped: *"I'm no longer certain of that."*
+
+### What Killed Her
+
+Her body was in her own basement, dead ~two decades. **Her eyes were gouged out before she died**, and her corpse carries the marks of a **prolonged magical battle**. Whatever is in the forest **casts spells, fights extended engagements, and takes eyes.**
+
+### Someone Is Alive In There
+
+Using Morgana's scrying pool, **[[Asha Nyvani Korré|Asha]] found her missing mother** — the mother who vanished leaving only *"I told you the truth would cost you."*
+
+> She is **in the White Forest**, **tied to a tree** in a **clearing** near the forest's edge — alongside a second bound captive, a **woman dressed all in white with long blonde hair.** Both alive. Hundreds of miles away.
+
+The forest is no longer only a mystery to investigate. It is a **rescue**, and someone in there **takes prisoners.**

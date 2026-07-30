@@ -83,3 +83,14 @@ The party reached **Level 3**, and Red joined the others in adopting the name **
 - **Sniffed out the ambush:** traveling with his raven **Bama** (plus Leif's owl Howl and Asha's hawk **Astra**) and having cast **Speak with Animals**, he caught a **faked bird-call** — a signal to hidden attackers — and sent Bama to scout, exposing the bandits before they struck.
 - **Wild-shaped into a giant spider** and dominated the fight — his **poison bites finished both the Eyes and the Slicer** (*"That was for Bama"*) — but the form triggered **[[Aren Greycloak|Aren]]'s spider phobia**, and she spent much of the battle (and days afterward) treating him as a monster to be burned. Red tried repeatedly to reassure her (*"it's me, I'm your friend"*) and got nothing back but *"spiders are abominations."*
 - Rolled a **Nat 20** on the night's dream check, gaining **Inspiration**. Chose horses over horse-theft at **[[Freedale]]** and climbed into **[[Morgana]]'s** tower with the others. Afterward he **swapped one of his Wild Shape forms** (dropping the giant toad option due to its swimming speed).
+
+### Session 9
+**Red's investigation roll opened the whole session.** On the tower's third floor he picked up the book on Morgana's writing table, rolled a **natural 20**, and recognized it as **[[Morgana]]'s journal** — plus the detail that mattered: *everything else in the room had been untouched for decades, but this book had been opened recently.* (*"Someone's here."*)
+
+**Bama earned his keep repeatedly.** The raven scouted the ground floor and came back with the session's best line — *"Big metal guy, big metal guy"* — giving the party warning before the shield guardian rounded the corner. Later Bama proved the fourth-floor fire trap was **floor-triggered** by flying over it along the ceiling, then **ferried Morgana's papers out of the trapped workroom in his talons**, trip after trip, until [[Asha Nyvani Korré|Asha]] had the whole pile to read.
+
+Red spent most of the session **wild shaped as a tiger** (with a [[Úlfr Kveld|Úlfr]] Bardic Inspiration behind the stealth retreat up the stairs), knocked a ghoul prone in the basement, and — unable to work a doorknob with paws — had to fetch Úlfr to open the roof door for him.
+
+He also examined **[[Morgana]]'s body**, reading its ~two-decade decomposition against flesh eaten *within the last few days*, and **pulled the mask off her face with a retractable claw** to reveal the hollowed-out eye sockets beneath.
+
+*(Notably, [[Aren Greycloak|Aren]] tolerated the tiger without comment — "cool, there's a cat" — a marked thaw after the giant spider.)*

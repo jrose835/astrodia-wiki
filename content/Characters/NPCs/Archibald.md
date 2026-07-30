@@ -11,9 +11,20 @@
 
 On the **[[White Forest]]**, Archibald offered the session's most useful lead: there was **research into the forest's history before [[The Academy of Arcane Arts|the Academy]] banned the subject**, and the party should seek out a **scholar or professor who studied it prior to the restriction**. On reaching [[Pentamarone]], he advised **traveling by ship up the river** that runs the [[Endymion Empire]]–[[Artmegía|Artmegia]] border.
 
+## Session 9 Developments
+
+Summoned by [[Myrna Nor|Myrna]] (via [[Sending Stones]] and a successful Satyr roll) to the roof of **[[Morgana's Tower]]** in [[Freedale]], where [[The Fallen]] had copied a teleportation circle's runes and sent them along.
+
+He stepped through onto a dead witch's rooftop entirely unruffled — *"Hello, adventurers. My master, Myrna, informed me that you needed teleportation somewhere"* — established that the [[Nephthys]] temple has **no permanent circle**, borrowed **[[Drolta Amara Tzuentes|Drolta]]'s plume** as an associated object, and cast **Teleportation Circle** on the spot. The roll came within a hair of scattering the party across the map and landed **dead on target.**
+
+His parting offer stands as an ongoing party resource: *"Should you need me again, just ask Myrna"* — provided there's a teleportation circle to post to.
+
+*(Another data point on how far past "butler" he actually is: casting Teleportation Circle to a location he has never visited, off a borrowed feather, on request.)*
+
 ## Related
 
 - [[Myrna Nor]] · the Nor family — his employers
+- [[Morgana's Tower]] — where he collected the party in Session 9
 - [[Lathen]] — the beach house he keeps
 - [[S.A.T.O.]] · [[The Fallen]] — those he teleports
 - [[Quandrix College]] — where he sent the party in Session 7

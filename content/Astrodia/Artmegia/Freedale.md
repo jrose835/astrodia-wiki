@@ -19,7 +19,7 @@ Freedale sits on a **river** with unusually good fishing, including a prized **f
 
 ## Notable Places
 
-- **The Wizard's Tower** — home of the late witch **[[Morgana]]**; rumored **haunted**, and confirmed by [[Aren Greycloak|Aren]]'s pendant to hold a **strong undead presence buried beneath it**. *(Entered by the party at the close of Session 8 — see below.)*
+- **[[Morgana's Tower|The Wizard's Tower]]** — home of the late witch **[[Morgana]]**; long rumored **haunted**. **Cleared by [[The Fallen]] in Session 9** — the haunting was ghouls in the basement, feeding on Morgana's twenty-year-old body. The tower now holds a **teleportation circle**, a **scrying pool**, and a **shield guardian** the party can command.
 - **The Temple of Saturn** — dedicated to **Saturn, the [[Agents|Agent]] of Judgment**, whose winged, crowned statue stands in the courtyard.
   ![[Pasted image 20260722230747.png]]
 - **The Stable** — six horses (**75 gp to buy**, **25 gp/week to rent**); secured at night by a single simple padlock.
@@ -27,14 +27,29 @@ Freedale sits on a **river** with unusually good fishing, including a prized **f
 - **The Smithy** — basic wares; a place to sell salvaged weapons.
 - **The General Goose Store** — general goods and fishing supplies.
 - **A private residence** — noticeably nicer than the rest of town, with a sunroom.
+- **A library** — spotted next to the stables on the party's way out in Session 9. **Never entered.**
 
 ## Session 8 — The Fallen Arrive (July 22, 2026)
 
 [[The Fallen]] reached Freedale about **2.5 days** into their journey north. They scoped the town, weighed (and ultimately rejected) [[Úlfr Kveld|Úlfr]]'s repeated plan to **steal the stable's horses** — the town was too battered to rob — and learned the curse's history from the tavern-keeper. Drawn by talk of the "haunted" **wizard's tower**, they detected the undead presence beneath it and **broke in via a third-floor balcony**, ending the session inside.
 
+## Session 9 — The Tower Cleared (July 29, 2026)
+
+[[The Fallen]] spent the rest of the day and that night inside **[[Morgana's Tower]]**, and slept there rather than pay for lodging. What they took out of Freedale reframes the town as more than a waypoint:
+
+- **[[Morgana]]'s body**, her **journal**, her **letter to [[Verelda]]**, and **Verelda's unread reply** — the fullest account yet of how the [[White Forest]] curse began and what happened to someone who went to face it.
+- A **permanent teleportation circle** on the tower roof, runes copied. Freedale is now a place the party can return to instantly.
+- A **scrying pool**, usable once a day by anyone proficient in Arcana — which is how [[Asha Nyvani Korré|Asha]] discovered her **missing mother is alive and held captive in the White Forest.**
+- The **[[Guardian Command Amulet]]**, and with it a working war construct still standing in the tower's entry hall.
+
+In the morning the party abandoned the horse plan entirely — 300 gp was their whole purse — and used the [[Sending Stones]] to have **[[Myrna Nor|Myrna]]** send **[[Archibald]]** through the tower's circle instead. He teleported them the last leg to the [[Nephthys]] temple, turning a two-day walk into a morning.
+
+*(The stable's horses survived Úlfr's ambitions a second time, though only because everyone forgot about them.)*
+
 ## Related
 
 - [[Morgana]] — the witch of the tower
+- [[Morgana's Tower]] — the tower itself, floor by floor
 - [[White Forest]] — the source of the curse that gutted the town
 - [[Nephthys]] — the temple further north, the party's next destination
 - [[Artmegía]] — the kingdom Freedale belongs to

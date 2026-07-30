@@ -47,6 +47,13 @@ At the Level 3 reintroductions, Leif declared himself plainly: **"a Warlock who 
 
 **A troubling dream deepened the [[The Whispering One|Whispering One]] thread.** In his recurring nightmare, everything **turns yellow** and he hears the patron's untranslatable voice — but this time **the voice came from Howl**, and the **owl's eyes went completely yellow.** Leif now fears the Whispering One may be trying to **reach through, or take, his familiar**. He confided this to **[[Drolta Amara Tzuentes|Drolta]]** on the road (bonding over shared warlock prejudice they've both had to unlearn); she urged him to make consulting **[[Nephthys]]** a priority. Leif joined the climb into **[[Morgana]]'s** tower at **[[Freedale]]**.
 
+### Session 9
+**Warlock solidarity, in practice.** In the basement's first fight Leif's **Eldritch Blast crit** killed the second ghoul in the same round [[Drolta Amara Tzuentes|Drolta]]'s dropped the first — the pair ended the encounter before it properly started (*"Warlock power"*). He put another **12 damage** into the ghast in the second fight, with **Howl** running the help action.
+
+His table-side moment came in [[Morgana]]'s workroom. Examining the symbols chalked on the floor, Leif worked out that they aren't merely **abjuration** marks but an **infusion circle** — something placed at the center gets **imbued with protective magic**. Morgana had been **warding something** in her final months, which reframes her last year from research into preparation.
+
+He also spent part of the session working out aloud how warlock casting compares to the party's other spellcasters (*"we get all these spells back on a short rest and we literally only have two spell slots"*), and rolled poorly on the night's dream check, **taking a level of exhaustion** into the arrival at [[Nephthys]].
+
 ## Leif's Patron — The Whispering One
 
 As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. Its **true name is still unknown**. What little is established:

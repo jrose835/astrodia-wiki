@@ -62,3 +62,11 @@ The party reached **Level 3**.
 - In the **bandit ambush**, she worked **Inflict Wounds, Hex, and Mind Sliver**, taking heavy dagger damage but finishing the **Muscle** alongside Úlfr; [[Aren Greycloak|Aren]] repeatedly healed her (*"sisters in arms"*).
 - **A haunting dream:** someone she **deeply loved at the [[Nephthys]] temple**, now with **blood-red eyes and fangs.** She confided to [[Leif Kalanchoe|Leif]] her fear that **vampires may still hold the temple** they're approaching, and that the homecoming will be *"a little rough."* She resolved to warn the group, and to ask [[Nephthys]] about Leif's [[The Whispering One|patron]].
 - Her **dhampir agility** let her free-climb to the tower's third-floor balcony and drop the rope for the others at **[[Morgana]]'s** tower.
+### Session 9
+**Drolta's dhampir mobility solved the tower's hardest obstacle.** When the fourth-floor statues incinerated a rolled barrel with crossing cones of fire, and Bama proved the trap was floor-triggered, Drolta **walked up the wall and across the ceiling** over it — *"vampire shit"* — and opened the far door into [[Morgana]]'s workroom, where she found the **potions** (still unidentified) and the abjuration glyphs chalked on the floor. She made the crossing repeatedly as the party worked the floor.
+
+In the basement she was one half of the warlock pair that ended the first fight almost immediately — her **Eldritch Blast killed the bloodied ghoul** outright, and later the second ghoul as well — followed by a triple fist bump with [[Leif Kalanchoe|Leif]].
+
+She also, unknowingly, provided the party's exit. Her **plume** — the Phoenix Queen's feather from the [[Nephthys]] temple — served as **[[Archibald]]'s associated object** for the teleport, letting him target a temple he had never seen and land the party **a full day early.**
+
+Which means Drolta reaches her homecoming **sooner than she expected**, with her vampire dream still hanging over it. *"I just want to get to the temple and get traumatized."*

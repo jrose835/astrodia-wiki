@@ -49,3 +49,13 @@ The party reached **Level 3** on returning to [[The Academy of Arcane Arts|the A
 - **Her spider phobia collided with [[Harlan "Red" Reed|Red]]'s new form.** When Red (now **Circle of the Moon**) wild-shaped into a **giant spider** during the bandit ambush, Aren repeatedly hurled **Sacred Flame at her own ally** — *"abominations should not be tolerated"* — even after being told, repeatedly, that the spider was Red. She refused every reassurance, and on the road afterward gave Red nothing but *"Spiders are abominations. They must be dealt with,"* declining to explain the root of it. (See Sessions 0 & 6 for the phobia's history.)
 - Fought the ambush otherwise as the party's healer, keeping **[[Drolta Amara Tzuentes|Drolta]]** up (*"sisters in arms"*) and cutting down the fleeing **Cutthroat** with Sacred Flame. She **noticed the bandit Boss fled with purpose** — straight toward someone waiting in the woods.
 - At **[[Freedale]]**, she used her pendant to **Detect Undead** at the wizard's tower and sensed a **strong undead presence buried beneath it** — *"there's something unnatural beneath the earth here."* She and [[Asha Nyvani Korré|Asha]] were **left stranded below** when the climbing rope snapped.
+### Session 9
+**Aren ran the undead half of the session, and it was the closest thing she's had to a holy mission.**
+
+Stranded at the tower's front door with [[Asha Nyvani Korré|Asha]], she failed the rope climb twice before [[Úlfr Kveld|Úlfr]] hauled her up in a one-man tug of war. Once inside, she was the one who **sensed necromancy** through the barred basement door and volunteered to open it: *"I'm opening it, because I will not regret killing whatever's in there."*
+
+In the basement she opened with **Sacred Flame**, summoned a **Spiritual Weapon** for the first time, and took the ghast's **leg off at the knee** with it. She **barred doors behind the party** as they advanced, and re-barred the basement on the way out — nobody knows how the ghouls got in. When her amulet finally went quiet she called it: *"We have cleansed this place, as is our holy duty."*
+
+**Her religion check identified the roof shrine** — nine winged statues, nine [[Agents]] — picking out [[Earth (Agent of Mysteries)|Earth]], Saturn, [[Venus]], and [[Pluto]] (she spent her inspiration to get there). She then stopped mid-dungeon-crawl to **pray at Pluto's statue**, and later paused again at a door to **ask Pluto for strength** before opening it.
+
+Her most characteristic beat came last. On finding **[[Morgana]]'s corpse**, she ran a **medicine check** that read the remnants of a **prolonged magical battle** across the body — establishing the witch **died fighting** — and then **spoke last rites over her** so she might rest.

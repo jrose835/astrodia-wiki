@@ -47,6 +47,14 @@ Myrna had a research partner named **[[Powell]]**, a skilled wizard. They parted
 - Confirmed her family runs a **cross-continental shipping / supply-chain business** through the port; may be able to arrange **passage by sea/river** toward [[Pentamarone]].
 - **S.A.T.O. tasks going forward:** [[Simone]] will trace **who donated the star-tablet [[Asha Nyvani Korré|Asha]] translated** (the artifact that got her expelled); [[Tobin]] will dig into the **[[The Seeker of the Sinful Spoils|Sinful Spoils]]** (how many, what they are). Contact via the [[Sending Stones]] (once/day).
 
+## Session 9 Developments
+
+**Her first Satyr task, and she nailed it.** With four horses at 75 gp threatening to drain the party's entire purse, [[The Fallen]] used the [[Sending Stones]] to send Myrna the **teleportation runes they had copied from the roof of [[Morgana's Tower]]** and a request for a lift — squeezed into the stones' 25-word limit, with 10 of those words spent on the runes themselves.
+
+**She succeeded**, and sent **[[Archibald]]** through the circle, who teleported the party the last leg to the [[Nephthys]] temple and turned a two-day walk into a morning. His parting terms make her an ongoing logistics line: *"Should you need me again, just ask Myrna"* — wherever there's a circle to post to.
+
+She is now **free for a new assignment.**
+
 ## Fellow Satyrs
 
 [[Simone]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]]. Served by the family butler [[Archibald]].
