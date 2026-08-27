@@ -28,6 +28,24 @@ It remains unknown whether the Seeker is a **threat or an ally** — and why she
 
 The party relayed the four-item list to **[[Tobin]]** via the [[Sending Stones]] to cross-check against Academy records (see [[S.A.T.O.]]). That **neither dream-woman matches the Academy's poster** of the Seeker is itself a mystery — are they the Seeker at different times, rivals for the Spoils, or something else?
 
+### Session 10 — Four Confirmed, and One Already Taken
+
+**[[Tobin]]** reported back from Academy records via the [[Sending Stones]] (Session 10, August 26, 2026):
+
+> *"Tobin here. Checked Academy. Knows of four Sinful Spoils. Spear, book, chalice, dress. They think Seeker already has one. Will continue to investigate."*
+
+This **confirms Asha's dream list against the Academy's own records** — four items, and the same four: **spear/lance, book, chalice, dress.** The new and unwelcome part is that **the Academy believes the Seeker already holds one of them.** Which one is unknown; the party knows only that it isn't the [[Golden Chalice]], which they carry.
+
+**[[Genni]]** of the [[WitchCrafters]] in [[Pentamarone]] independently recognized the phrase *"Sinful Spoils"* and produced **the Seeker's title** from her own library — so the name circulates **outside** the Academy as well. She knew nothing beyond it.
+
+### Asha's Undisclosed Vision, Now Told
+
+Also in Session 10, [[Asha Nyvani Korré|Asha]] finally shared a vision she had been sitting on since her exhausted rest in Session 9:
+
+> A figure **matching the Seeker's poster — white hair with red tips** — **hurling magic at a man**: long **blond-grey beard**, heavily built, in a **whitish-yellow robe**. Whether he was fighting back or merely stunned was unclear.
+
+This is the **first sighting of the Seeker acting**, rather than kneeling or holding objects. The man is unidentified. As always, Asha **cannot tell whether her visions show the past, present, or future.**
+
 ## Connections
 
 - [[Golden Chalice]] — likely one of the Sinful Spoils.

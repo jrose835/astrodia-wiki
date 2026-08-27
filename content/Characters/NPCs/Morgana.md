@@ -67,6 +67,18 @@ Morgana's letter establishes that the tower is held by a **construct guardian �
 | **[[Verelda]]** | Academy colleague at the [[Biblioplex]], connected to the [[Quandrix College|Quandrix]] faculty. Theorist behind the guardians' animating lattice. **Morgana sent her everything she knew.** | Presumed alive at the Academy — an unfollowed lead |
 | **[[Dia]]** | Told Morgana stories in childhood; source of the tale of the one **"who fell before anyone else ever fell."** | Unknown; likely long past |
 
+## Session 10 — Her Network Outlived Her (August 26, 2026)
+
+Hundreds of miles north, in [[Pentamarone]], [[The Fallen]] met a young **glassblower in the market who fled [[Freedale]] as a child during the curse** — and who knew Morgana's name.
+
+- **Morgana told her family where to go.** She was *"relatively prolific"* and had **connections with many different covens and guilds**, and she kept a list of places she considered **safe havens** for people fleeing the curse. Pentamarone was on it. The glassblower's family survived because of it.
+- **She had worked with [[Madame Verre]]** — head of the [[WitchCrafters]] — *"in the past,"* on something the glassblower couldn't name.
+- Told that Morgana was dead, the woman's response was simply: ***"A great witch."***
+
+This adds a third dimension to a witch previously known as a recluse who studied a forest and built constructs with an Academy colleague: **she was networked across the witch world**, and she used that network to **evacuate people** ahead of the curse. It also gives the party a live lead — **Madame Verre knew her**, and may know what she was working on.
+
+*(She was also, per the glassblower, the reason Freedale's survivors ended up in an Empire border city at all — the refugee population of Pentamarone is partly Morgana's doing.)*
+
 ## Significance
 
 Morgana is the first known individual to have **deliberately gone into the [[White Forest]] to confront the curse** — a lead on both the curse's nature and what became of those who tried to stop it.

@@ -21,6 +21,16 @@ She also exposed [[Leif Kalanchoe|Leif]]'s hidden warlock nature: the green sand
 
 Simone believes **arcane magic may not be native to Astrodia**. Before the [[Severance]], there are no records of mortal wizards casting spells — all magic flowed from divine or higher sources. Only *after* the Severance could mortals suddenly harness arcane magic on their own. See [[The Academy of Arcane Arts]] for the related "what powers the Academy?" mystery.
 
+## Session 10 — Still Nothing, and a Question Waiting for Her
+
+Simone's standing task — tracing **who donated the star-tablet** [[Asha Nyvani Korré|Asha]] translated — **failed its roll again** (August 26, 2026). No word from her. It has yet to succeed once, which the party is beginning to notice; per the Satyr Roll rules, some assignments are **secretly impossible.**
+
+Meanwhile the party has a question for her that only her map can answer. On the [[Types of Magic|map of magic]], the **tiny yellow (divine) speck at the [[The Academy of Arcane Arts|Academy]]** was assumed to be the [[Golden Chalice]] the party had just delivered. Now that they have carried the chalice hundreds of miles north:
+
+> **Did the yellow speck move with them — or is it still sitting at the Academy?**
+
+If it moved, Simone's map is effectively a **tracking device pointed at the party.** If it didn't, the yellow was **never the chalice**, and something else divine and newly-arrived is sitting inside the Academy. Neither answer is comfortable, and the question had not yet been sent as of the end of Session 10.
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]].

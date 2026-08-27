@@ -94,3 +94,12 @@ Red spent most of the session **wild shaped as a tiger** (with a [[Úlfr Kveld|�
 He also examined **[[Morgana]]'s body**, reading its ~two-decade decomposition against flesh eaten *within the last few days*, and **pulled the mask off her face with a retractable claw** to reveal the hollowed-out eye sockets beneath.
 
 *(Notably, [[Aren Greycloak|Aren]] tolerated the tiger without comment — "cool, there's a cat" — a marked thaw after the giant spider.)*
+
+### Session 10
+**Red's eagle ran reconnaissance for the whole first act.** **Bama** found the **[[Endymion Empire]] column** marching south under a sword-and-axe banner roughly 30–45 minutes behind the party, then went up a second time and caught the detail that mattered: at the crossroads, the column **split east and west** and stopped following the road south. His **survival roll then carried the entire party** cross-country through the woods, keeping the slower members on pace.
+
+**He talked them through the gate.** After [[Úlfr Kveld|Úlfr]]'s attempt to lie to the guards collapsed, Red stepped in with the truth — armed forces on the road behind them, and all anyone wanted was a night off the hard ground — and got the party into [[Pentamarone]]. His read afterward was pure Red: *"These guards don't seem too concerned with safety... I don't think we'll be safe here if that army comes. We protect ourselves."*
+
+**Then he bought the [[Alchemy Jug]].** He went to a pottery stall asking after brewing supplies; the potter liked the cut of his jib and produced a WitchCrafter-assisted jug that pours **four gallons of beer** on command. **50 gold**, no hesitation. He said *"beer"* at the dockside tavern and has not paid for a drink since — and the jug is, indirectly, the reason the party solved the [[Golden Chalice]], since it put a magic cup on the table next to a mundane one and prompted [[Aren Greycloak|Aren]]'s question. Red **rinsed the chalice, filled it, and handed it over.**
+
+He **failed his dream roll** — exhaustion, and hungover besides — but was the **only party member with a dream left in the bank.** What he saw was two images: **something grand and good, a great city or temple**, and then **the same thing in ruins.** No context, and a bad feeling attached. He told the party over breakfast; nobody could place it.

@@ -21,9 +21,20 @@ His parting offer stands as an ongoing party resource: *"Should you need me agai
 
 *(Another data point on how far past "butler" he actually is: casting Teleportation Circle to a location he has never visited, off a borrowed feather, on request.)*
 
+## Session 10 — The Miss (August 26, 2026)
+
+The teleport he cast at the end of Session 9 **did not land where it was supposed to.**
+
+[[The Fallen]] stepped out of the circle not at the [[Nephthys]] temple but at **a crossroads in unfamiliar woods inside [[Endymion Empire]] territory**, several hours' walk north of [[Pentamarone]] — a different continent's worth of wrong from where they intended to be. Archibald himself did not come through; he opened the circle, let the party pass, and **went home to [[Lathen]].**
+
+Whether he **botched the casting** off [[Drolta Amara Tzuentes|Drolta]]'s borrowed plume, or something **redirected** them, is unresolved. The party's competing theories were *divine misdirection* and *demonic misdirection*; the DM offered no answer.
+
+Worth noting either way: the man previously established as improbably competent at everything has now, on the record, **either made a serious mistake or been overruled by something.** His standing offer — *"should you need me again, just ask Myrna"* — is unchanged, and the party has not yet contacted him about it.
+
 ## Related
 
 - [[Myrna Nor]] · the Nor family — his employers
+- [[Pentamarone]] — where the party actually ended up
 - [[Morgana's Tower]] — where he collected the party in Session 9
 - [[Lathen]] — the beach house he keeps
 - [[S.A.T.O.]] · [[The Fallen]] — those he teleports

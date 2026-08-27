@@ -54,6 +54,15 @@ His table-side moment came in [[Morgana]]'s workroom. Examining the symbols chal
 
 He also spent part of the session working out aloud how warlock casting compares to the party's other spellcasters (*"we get all these spells back on a short rest and we literally only have two spell slots"*), and rolled poorly on the night's dream check, **taking a level of exhaustion** into the arrival at [[Nephthys]].
 
+### Session 10
+**Leif established where they weren't.** His investigation of the misfired teleport's landing site — soil, flora, and a certain amount of literal dirt-tasting, from a warlock who insists he's *"pretty much a druid"* — returned a firm negative: **this is not [[Artmegía|Artmegia]].** Later, watching the [[Endymion Empire]] column split east and west at a crossroads through Bama's eyes, he was the one who read the maneuver as a **pincer.**
+
+**His market conversation was the session's best piece of luck.** At the glassware stall he met a young woman who turned out to be a **[[Freedale]] refugee** — and who knew [[Morgana]] by name. From her: **glass works as a spellcasting focus** ([[Madame Verre]]'s own staff is glass), Morgana kept a list of **safe havens** among covens and guilds that saved her family, and **Morgana had worked with Madame Verre in the past.** Leif bought a **plate, cutlery, and a glass goblet for 3 gold** — the woman's first sale — and showed her the **glass orb** from Morgana's tower, which she couldn't read.
+
+He was then **conspicuously cheap about lodging** ([[Aren Greycloak|Aren]] had to sponsor his room after the barkeep refused to let him sleep on the deck), drank out of his new goblet all evening, and **rested well** with no exhaustion.
+
+**He drank from the chalice and conjured a second [[Golden Chalice]]** — the one result that suggests the cup's *objects* may be genuinely real, and the origin of the party's plan to leave decoy chalices behind them.
+
 ## Leif's Patron — The Whispering One
 
 As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. Its **true name is still unknown**. What little is established:

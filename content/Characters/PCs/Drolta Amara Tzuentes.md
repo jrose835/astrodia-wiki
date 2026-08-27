@@ -70,3 +70,10 @@ In the basement she was one half of the warlock pair that ended the first fight 
 She also, unknowingly, provided the party's exit. Her **plume** — the Phoenix Queen's feather from the [[Nephthys]] temple — served as **[[Archibald]]'s associated object** for the teleport, letting him target a temple he had never seen and land the party **a full day early.**
 
 Which means Drolta reaches her homecoming **sooner than she expected**, with her vampire dream still hanging over it. *"I just want to get to the temple and get traumatized."*
+
+### Session 10
+*(Yemko was out; the DM ran Drolta.)*
+
+Drolta's contribution to the misfired teleport was to confirm the obvious as soon as the party stepped out of the circle: ***"This is definitely not where my temple is."*** She had been the one whose **plume** [[Archibald]] used as the associated object, which makes the miss faintly personal.
+
+Otherwise she travelled quietly with the party through [[Pentamarone]]. **Her homecoming at the [[Nephthys]] temple is deferred a second time**, and the party is now further from it than they were at the end of Session 9.

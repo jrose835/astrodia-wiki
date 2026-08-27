@@ -11,9 +11,17 @@ The **Magistus** are the legendary spellcasters credited with **stopping the [[G
 | Member | Status | Notes |
 |---|---|---|
 | **Emperor Endymion** | Alive; the **only** Magistus known to still live | Rules the [[Endymion Empire]] from the Citadel; currently marching an army to **unify the continent**; possibly the most powerful spellcaster in the world |
-| *(Founder of [[Pentamarone]])* | Unknown | Founded [[Pentamarone]], the one town inside Empire borders **not** under the Empire's control — hinting at a **falling-out** among the Magistus |
-| *(Two others who returned)* | **Vanished** shortly after returning | Whereabouts unknown |
+| **[[Rellyona]]** | **Dead** (confirmed Session 10) | Founded [[Pentamarone]], the one city inside Empire borders **not** under the Empire's control. Rumored to have **known the Emperor personally** and made a **truce with him before she died** — one explanation for why the Empire still leaves the city alone |
+| *(The other who returned)* | **Vanished** shortly after returning | Whereabouts unknown |
 | *(The fourth)* | **Never returned** from stopping the Cataclysm | — |
+
+## Session 10 — A Name and a Death (August 26, 2026)
+
+[[The Fallen]] stumbled into [[Pentamarone]] and put a **name** to its founder for the first time: **[[Rellyona]]**, identified by [[Asha Nyvani Korré|Asha]] off the spine of ***The Biography of Rellyona*** in a market bookstall (which Asha bought, and has **not yet read**).
+
+**[[Genni]] of the [[WitchCrafters]] confirmed she is dead** — *"the town was founded by one of the Magistus. She's no longer with us."* The party had been half-hoping the surviving Magistus lived here; that hope is closed. **Emperor Endymion remains the only Magistus known to be alive.**
+
+A dockside sailor also passed along the rumor that **Rellyona and the Emperor "go way back"** and that the city's independence rests on an **old truce** honored since her death — the friendliest of the three explanations in circulation (see [[Pentamarone]]). If true, the "falling-out" reading of the Magistus's split may need revising: they may have parted on terms, not in anger.
 
 ## Why They Matter
 
@@ -24,6 +32,7 @@ The Magistus sit at the intersection of every current mystery: the [[Great Catac
 - [[Great Cataclysm]] — what they stopped
 - [[The Fourth Magic]] — the magic tracing the Cataclysm's path
 - [[Endymion Empire]] — ruled by Emperor Endymion, a Magistus
+- [[Rellyona]] — the Magistus who founded [[Pentamarone]]; dead
 - [[Pentamarone]] — founded by another Magistus, outside Empire control
 
 ## First Appeared

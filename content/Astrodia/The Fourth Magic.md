@@ -12,6 +12,16 @@ A fourth, previously undisclosed type of magic in [[Astrodia]], revealed by **Si
 - **What is its source?** Newer than arcane and tied to a near-apocalyptic event, its origin is entirely unaccounted for.
 - **[[Leif Kalanchoe]] is drawn to it.** When the green sand spilled across the map, grains **crawled toward Leif** — mirroring the way the divine (yellow) sand crawled toward the [[Golden Chalice]]. Leif hails from the Purodetapo Forest, directly in the cataclysm's path, and has been hearing voices he cannot understand (the same language as the creature trapped in the orb). The connection between Leif, his possible patron, and the Fourth Magic is unresolved.
 
+## Session 10 — Standing On It, Not Looking (August 26, 2026)
+
+A misfired teleport put [[The Fallen]] in **[[Pentamarone]]** — **one of only two green-magic hotspots that don't sit at a seat of power**, and the single most investigable anomaly on [[Simone]]'s map.
+
+They spent **two in-game days** there: shopped its market, slept at its docks, walked into the [[WitchCrafters]] guild hall, and interviewed the guild's own scholar at length about a chalice.
+
+**Nobody asked about the green magic.** [[Aren Greycloak|Aren]]'s standing hypothesis — that the WitchCrafters may have **learned to harness the fourth magic**, and that this is what keeps the [[Endymion Empire]] off their walls — remains completely untested despite the party having been inside the building.
+
+*(A partial excuse: they had no map with them to check colors against, and spent much of the second day trying to remember which color meant what.)*
+
 ## Significance
 
 The Fourth Magic is the central mystery the [[S.A.T.O.]] hope to crack — and a likely thread connecting the [[Great Cataclysm]], the forbidden research that got [[Asha Nyvani Korré|Asha]] expelled, and the question of why the [[The Academy of Arcane Arts|Academy]] shows no spike in any of the three *known* magics.

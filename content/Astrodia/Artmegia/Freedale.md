@@ -46,9 +46,18 @@ In the morning the party abandoned the horse plan entirely — 300 gp was their 
 
 *(The stable's horses survived Úlfr's ambitions a second time, though only because everyone forgot about them.)*
 
+## Where Its Refugees Went (Session 10)
+
+In [[Pentamarone]] — an [[Endymion Empire]] border city hundreds of miles north — [[The Fallen]] met a **glassblower who fled Freedale as a child during the curse** and settled there with her family.
+
+Her family knew where to go because **[[Morgana]] told them.** The witch kept a list of **safe havens** among the covens and guilds she was connected to, and Pentamarone was on it. So a portion of Freedale's scattered population — the ones who never came back to the 20% living in the sagging houses today — ended up in the one city inside Empire borders that the Empire doesn't rule.
+
+She remembered the tower as haunted, remembered Morgana by name, and learned from the party that Morgana was dead. *"A great witch."*
+
 ## Related
 
 - [[Morgana]] — the witch of the tower
+- [[Pentamarone]] — where some of Freedale's curse refugees resettled
 - [[Morgana's Tower]] — the tower itself, floor by floor
 - [[White Forest]] — the source of the curse that gutted the town
 - [[Nephthys]] — the temple further north, the party's next destination

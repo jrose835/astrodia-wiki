@@ -59,3 +59,12 @@ In the basement she opened with **Sacred Flame**, summoned a **Spiritual Weapon*
 **Her religion check identified the roof shrine** — nine winged statues, nine [[Agents]] — picking out [[Earth (Agent of Mysteries)|Earth]], Saturn, [[Venus]], and [[Pluto]] (she spent her inspiration to get there). She then stopped mid-dungeon-crawl to **pray at Pluto's statue**, and later paused again at a door to **ask Pluto for strength** before opening it.
 
 Her most characteristic beat came last. On finding **[[Morgana]]'s corpse**, she ran a **medicine check** that read the remnants of a **prolonged magical battle** across the body — establishing the witch **died fighting** — and then **spoke last rites over her** so she might rest.
+
+### Session 10
+**Aren asked the question that cracked the campaign's longest-running mystery.** After five months of failed Identifies on the [[Golden Chalice]] — and while sitting in the [[WitchCrafters]] library with [[Harlan “Red” Reed|Red]]'s new [[Alchemy Jug]] pouring free beer — she pointed out that *a chalice is technically a cup*, and asked what would happen if someone drank from it. Red filled it and handed it over.
+
+**She drank first.** What appeared, all over the guild library, was **cats.** Solid, warm, real to the touch — and completely inert; held up by the tail, one simply lets it happen. She was delighted, and immediately protective of them (she blocked [[Úlfr Kveld|Úlfr]]'s attempt to bowl one cat into another).
+
+She also **called time on the experiment** — after Úlfr punched a conjured horse hard enough to explode it across the room, Aren announced *"I think I'm done here"* and made for the door, which is how the party ended up paralyzed in the courtyard by **[[Madame Verre]]**.
+
+Elsewhere in the session: she spent the market **listening rather than shopping**, and overheard a passerby praising a service at a **Temple of [[Venus]]** in [[Pentamarone]] — she intends to pay her respects, and hasn't yet. She was the one who suggested asking the guild for a paid **detect magic / identify** service in the first place, offered to sponsor [[Leif Kalanchoe|Leif]]'s room out of party funds when he tried to sleep on the boat deck, and vetoed the idea of robbing [[Genni]]'s keystone safe (*"before we start getting violent and stealing things..."*). She **rested well** and took no exhaustion.

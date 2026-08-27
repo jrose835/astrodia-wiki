@@ -70,3 +70,18 @@ The thread the [[S.A.T.O.]] promised to "watch for leads" on in Session 6 is now
 She also **spotted the barred basement door** while the rest of the party was busy congratulating itself on sneaking past the guardian, and rounded out the night with a bad dream roll and a **library in Freedale she never got to enter.** Her hawk **Astra** landed the killing blow on the ghast.
 
 *(Asha, like [[Úlfr Kveld|Úlfr]], came out of the night with something she hasn't yet told the party.)*
+
+### Session 10
+**Asha was the party's eyes all session.** She **identified the [[Endymion Empire]]'s banner** — a sword crossed with an axe — off [[Harlan “Red” Reed|Red]]'s eagle-scouted description when nobody else recognized it, placing the party inside Empire territory.
+
+**At the market bookstall** her investigation turned up ***The Biography of [[Rellyona]]***, and a history check named her: **one of the [[Magistus]], and the woman who founded [[Pentamarone]].** Asha bought it together with a history of the Greater Endymion Empire, **haggling 30 silver down to 15.** She has **not read either yet.** She also priced armor at the blacksmith before being gently told that wizards can't cast in it, and bought an **ornate curved dagger for 2 gold** instead. She cast **Detect Magic** over [[Leif Kalanchoe|Leif]]'s new glassware to be sure nothing had followed them; it was clean.
+
+**At the [[WitchCrafters]] guild hall she ran the interrogation.** Her insight said not to let the [[Golden Chalice]] out of the party's hands, and her persuasion got them escorted back to [[Genni]] rather than waiting at the desk. She then cast **Detect Thoughts** on Genni — **surface only**, deliberately declining to probe deeper because Genni would have felt it and Asha wanted to keep her trust. The read came back clean: Genni genuinely didn't know, and was already planning to take it to **[[Madame Verre]].**
+
+**She found the safe.** Walking the perimeter of the study, Asha spotted a **safe under Genni's desk bearing the symbol of the magic the [[Endymion Empire]] uses** — the same symbol on Genni's own staff. The party read it as guild-held [[Keystones]]; nobody has ruled out worse.
+
+**She finally told the party about her vision** from the Session 9 rest: a figure matching **the Seeker's poster — white hair with red tips — hurling magic at a heavily built man with a long blond-grey beard in a whitish-yellow robe.** She reminded them she cannot tell past from present from future.
+
+**And she drank from the chalice.** What appeared behind her was **her missing mother**, exactly as Asha last saw her in person — real to the touch, **blank, unrecognizing**, carrying nothing, everything taken from her disintegrating on removal. Asha **hugged her**, said ***"I will find you,"*** and walked out of the room.
+
+She **failed her dream roll** and took **exhaustion**, with no dreams left in the bank to receive.

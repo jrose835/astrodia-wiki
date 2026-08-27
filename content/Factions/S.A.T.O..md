@@ -40,6 +40,19 @@ Once [[The Fallen]] left the students behind at campus and set out north, the S.
 - **[[Tobin]]** — investigate **what and how many** the "[[The Seeker of the Sinful Spoils|Sinful Spoils]]" are (and now, watch for the **dress/lance/book/chalice** the party's dreams flagged).
 - **[[Simone]]** — trace **who donated the star-tablet** [[Asha Nyvani Korré|Asha]] translated. *(The DM hinted the party may already hold the answers in visions and books they've been sent.)*
 
+### Session 10 Results (August 26, 2026)
+
+| Student | Task | Roll |
+|---|---|---|
+| **[[Tobin]]** | What and how many are the Sinful Spoils? | **Success** — *"Knows of four Sinful Spoils. Spear, book, chalice, dress. They think Seeker already has one."* |
+| **[[Simone]]** | Who donated the star-tablet? | **Failed again** — still no result, ever |
+
+**Tobin's new assignment:** *"What is the Academy's plan to get the chalice back from us?"* — counter-intelligence against his own office, the [[Arcane Reclamation Initiative]], with ~15 days on the clock.
+
+**Queued but not yet sent:** a question for a second Satyr about whether the **yellow divine speck on the map of magic moved with the party** when they carried the [[Golden Chalice]] north — i.e. whether the map can be used to track them. See [[Simone]] and [[Types of Magic]].
+
+*(The party is starting to wonder aloud whether Simone's task is one of the **secretly impossible** ones.)*
+
 ## Related
 
 - [[The Fourth Magic]] — the central mystery the S.A.T.O. is chasing

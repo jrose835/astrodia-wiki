@@ -33,6 +33,18 @@ At **[[Freedale]]** — one of the towns hit hardest by the curse — a tavern-k
 
 The "vanishing children who came back" and "whitening trees *preceding* the vines" are the freshest threads for understanding what the curse actually *is*.
 
+## Session 10 — A Third Source on the Coven (August 26, 2026)
+
+Asked about the forest in [[Pentamarone]], **[[Genni]]** of the [[WitchCrafters]] knew the **curse** — it threatened the city before it receded, and the guild watched it come — but little of the forest's **history**. The one thing she volunteered:
+
+> **Rumor of a coven of witches who lived in the forest.**
+
+That is now the **third independent source** for the coven (after Artmegian rumor and [[Morgana]]'s own papers naming [[Yssa]]), from a guild of witches with no connection to [[Artmegía|Artmegia]] — which moves the coven firmly out of local legend and into something the wider witch world took as fact.
+
+She had nothing on the forest's older history, and nothing on what the curse actually is.
+
+*(Note: [[The Fallen]] are now **further** from the forest than they were at the end of Session 9 — the misfired teleport put them in [[Endymion Empire]] territory, and **[[Asha Nyvani Korré|Asha]]'s mother is still tied to a tree in there.**)*
+
 ## Session 9 — Morgana's Decade of Watching (July 29, 2026)
 
 [[The Fallen]] cleared **[[Morgana's Tower]]** and recovered the witch's own papers — the first sustained **firsthand study** of the forest the party has ever had. Morgana watched it through a **scrying font for roughly ten years** before going in.

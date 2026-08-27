@@ -15,6 +15,7 @@ A reference summary of the four kinds of magic in [[Astrodia]], as revealed by *
 - Magic of the [[Solemn Pantheon]].
 - A **huge spike in the [[White Forest]]**.
 - A **tiny new speck recently appeared at the Academy** — which the party recognized as the [[Golden Chalice]] they had brought back two days earlier. (The chalice tested as divine and extremely powerful.)
+- **Open question raised in Session 10:** now that the chalice has travelled hundreds of miles north to [[Pentamarone]], **did that yellow speck move with it?** If yes, [[Simone]]'s map tracks the party. If no, the speck was **never the chalice**, and something else divine sits inside the Academy. The question has not yet been sent to a Satyr.
 
 ### 4. The [[The Fourth Magic|Fourth Magic]] — Green
 - A newly discovered, undisclosed magic. See [[The Fourth Magic]].
