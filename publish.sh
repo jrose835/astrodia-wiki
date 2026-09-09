@@ -19,8 +19,8 @@
 
 set -euo pipefail
 
-REPO_DIR="/mnt/c/Users/jrose/Documents/Astrodia"
-VAULT_DIR="/mnt/c/Users/jrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault"
+REPO_DIR="/Users/jimrose/Documents/Astrodia"
+VAULT_DIR="/Users/jimrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault"
 BRANCH="v5"
 COMMIT_MSG="${1:-Update wiki}"
 

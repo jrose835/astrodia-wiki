@@ -1,7 +1,8 @@
 # How to Update the Astrodia Wiki
 
 A reference for keeping **https://jrose835.github.io/astrodia-wiki/** in sync with your
-Obsidian vault. Written for the setup as of July 2026.
+Obsidian vault. Written for the setup as of September 2026, running on the MacBook.
+(The old Windows/WSL machine is kept only as a frozen backup — publish from the Mac.)
 
 ---
 
@@ -9,9 +10,9 @@ Obsidian vault. Written for the setup as of July 2026.
 
 1. Edit your notes in Obsidian as usual.
 2. Make sure **Dropbox has finished syncing** on this machine (the up-to-date checkmark).
-3. Open a WSL terminal and run:
+3. Open Terminal and run:
    ```bash
-   cd /mnt/c/Users/jrose/Documents/Astrodia
+   cd /Users/jimrose/Documents/Astrodia
    ./publish.sh "Session 8 recap"     # put any short description in quotes
    ```
 4. Wait ~1–2 minutes. The site rebuilds and redeploys automatically. Refresh the page.
@@ -25,13 +26,13 @@ That's it. Everything below is explanation and troubleshooting.
 There are **two separate places** involved. Keeping them separate is deliberate.
 
 ### 1. Your Obsidian vault (the source of truth)
-`/mnt/c/Users/jrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault`
+`/Users/jimrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault`
 
 - This is your normal Dropbox-synced vault. **Nothing about the website changes how you use it.**
 - It is **never** turned into a git repo and never leaves Dropbox. The website only ever *reads* from it.
 
 ### 2. The Quartz site project (the publishing machine)
-`/mnt/c/Users/jrose/Documents/Astrodia`
+`/Users/jimrose/Documents/Astrodia`
 
 - This is a **git repository** connected to GitHub (`jrose835/astrodia-wiki`, public).
 - It uses **[Quartz v5](https://quartz.jzhao.xyz/)** to turn Markdown notes into a website.
@@ -125,17 +126,16 @@ The site **defaults to night mode**. Visitors can still toggle to light with the
 
 If you want to see changes before they go live:
 ```bash
-cd /mnt/c/Users/jrose/Documents/Astrodia
+cd /Users/jimrose/Documents/Astrodia
 # sync + overrides without pushing:
 rsync -a --delete --exclude-from=exclude-list.txt \
-  "/mnt/c/Users/jrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault/" content/
+  "/Users/jimrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault/" content/
 cp -a overrides/. content/
 # then serve:
-source ~/.nvm/nvm.sh && nvm use 22
 npx quartz build --serve
 ```
-Open <http://localhost:8080>. Press `Ctrl+C` to stop. (The first build takes a few minutes because
-the vault is on the Windows filesystem — the real deploy on GitHub is much faster.)
+Open <http://localhost:8080>. Press `Ctrl+C` to stop. (The first build takes a little while as it
+processes every image — the real deploy on GitHub is unaffected.)
 
 ---
 
@@ -156,19 +156,59 @@ Give it 1–2 minutes and check the Actions tab: <https://github.com/jrose835/as
 A green check means it deployed; a red X means the build failed — click it to see the error.
 
 **`git push` fails with "RPC failed … HTTP 408".**
-Large pushes (lots of new images at once) can time out. The repo is already set to use HTTP/1.1,
-which fixes most cases. If it still fails, push images in smaller batches, or just re-run
+Large pushes (lots of new images at once) can time out. The HTTP/1.1 setting that fixes most
+cases lives in `.git/config`, which is **per-machine** — if you're seeing this on a fresh clone,
+run the one-time setup below. If it still fails, push images in smaller batches, or just re-run
 `./publish.sh` — already-uploaded data isn't re-sent.
 
 **`gh: command not found` or a push asks for a username/password.**
 Your GitHub login may have expired. Re-authenticate:
 ```bash
-~/.local/bin/gh auth login          # GitHub.com → HTTPS → web browser
-~/.local/bin/gh auth setup-git
+gh auth login          # GitHub.com → HTTPS → web browser
+gh auth setup-git
 ```
 
+**`publish.sh` behaves oddly, or an excluded note reaches `content/`.**
+Check `rsync --version` — it must be **3.x**. macOS ships a 2006-era rsync 2.6.9 (or openrsync),
+and `--exclude-from` is what enforces the spoiler firewall. Fix with `brew install rsync`, then
+confirm `which rsync` points at the Homebrew one and not `/usr/bin/rsync`.
+
 **`node: command not found` when previewing.**
-Run `source ~/.nvm/nvm.sh && nvm use 22` first. (Not needed for `publish.sh`, which doesn't build.)
+Check `node -v` — Quartz needs Node 22 or newer and refuses to install on anything older.
+Install it with `brew install node@22` if it's missing. (Not needed for `publish.sh`, which
+doesn't build — only the local preview and the GitHub Action do.)
+
+---
+
+## Setting this up on a new machine
+
+`git clone` brings the notes, the config, and the scripts — but **not** `.git/config`, so these
+settings have to be re-applied by hand once per machine. Skip this and large image pushes fail
+with HTTP 408, and the accented filenames (`Úlfr Kveld.md`, `Artmegía.md`) churn on every sync.
+
+```bash
+git clone https://github.com/jrose835/astrodia-wiki.git ~/Documents/Astrodia
+cd ~/Documents/Astrodia
+
+git config user.name  "jrose835"
+git config user.email "jrrose5@emory.edu"
+git config http.postBuffer    524288000   # the big PNGs are 8-11 MB each
+git config http.lowSpeedLimit 1000
+git config http.lowSpeedTime  600
+git config http.version       HTTP/1.1    # the HTTP 408 fix
+git config core.precomposeunicode true    # keeps accented filenames stable on macOS
+git config core.filemode      false
+
+npm ci
+node ./quartz/bootstrap-cli.mjs plugin install
+```
+
+Then edit `REPO_DIR` and `VAULT_DIR` at the top of `publish.sh` to match the new machine, and
+make sure Dropbox has the vault **fully downloaded** (not online-only placeholders) before the
+first run — `publish.sh` uses `rsync --delete`, so a half-synced vault deletes real pages.
+
+Never copy `node_modules/`, `.quartz/`, or `public/` between machines: they're ~1.3 GB of
+regenerable, platform-specific binaries. The two commands above rebuild them correctly.
 
 ---
 
@@ -179,8 +219,8 @@ Run `source ~/.nvm/nvm.sh && nvm use 22` first. (Not needed for `publish.sh`, wh
 | Live site | https://jrose835.github.io/astrodia-wiki/ |
 | GitHub repo | https://github.com/jrose835/astrodia-wiki |
 | Build/deploy status | https://github.com/jrose835/astrodia-wiki/actions |
-| Quartz project (git) | `/mnt/c/Users/jrose/Documents/Astrodia` |
-| Your Obsidian vault | `/mnt/c/Users/jrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault` |
+| Quartz project (git) | `/Users/jimrose/Documents/Astrodia` |
+| Your Obsidian vault | `/Users/jimrose/Dropbox/Personal/DnD/Astrodia/AstroObsVault/Astrodia_Vault` |
 | Publish script | `publish.sh` |
 | Spoiler firewall list | `exclude-list.txt` |
 | Homepage / public Úlfr page | `overrides/` |
