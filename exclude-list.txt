@@ -22,6 +22,12 @@ Astrodia/War Rock Mountains.md
 
 # --- Notes tagged #secret (Úlfr's hidden backstory) ---
 Characters/NPCs/Kári.md
+# The line below looks identical to the one above but is NOT: macOS writes this
+# filename decomposed (NFD, a + combining acute) while git/Linux store it
+# precomposed (NFC). rsync --exclude-from matches raw bytes, so BOTH spellings
+# must be listed or the exclusion silently misses on one platform. Do not
+# "deduplicate" these two lines. See also --iconv in publish.sh.
+Characters/NPCs/Kári.md
 Characters/NPCs/Snorri.md
 Objects/Snorri's notebook.md
 
@@ -37,3 +43,7 @@ Sessions/Session 7.md
 # --- Images referenced only by secret notes (images bypass publish filters) ---
 Pasted image 20260202134910.png
 Pasted image 20260419232353.png
+
+# --- rsync/editor temp leftovers (never real pages) ---
+*.tmp.*
+*.tmp

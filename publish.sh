@@ -27,7 +27,14 @@ COMMIT_MSG="${1:-Update wiki}"
 cd "$REPO_DIR"
 
 echo "==> [1/4] Syncing vault -> content/ (spoiler-filtered)"
+# --iconv converts macOS's decomposed (NFD) filenames to precomposed (NFC) as
+# they land in content/, matching how git stores them. Without it, accented
+# pages (Artmegía, Fire Jolt Café, Asha Nyvani Korré) are deleted and re-added
+# on every single sync. NOTE: --iconv does NOT fix exclude matching -- filter
+# rules are applied to the source name BEFORE conversion, which is why
+# exclude-list.txt must carry both NFC and NFD spellings of accented secrets.
 rsync -a --delete \
+  --iconv=UTF-8-MAC,UTF-8 \
   --exclude-from="$REPO_DIR/exclude-list.txt" \
   "$VAULT_DIR/" "$REPO_DIR/content/"
 
