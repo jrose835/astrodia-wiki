@@ -68,3 +68,23 @@ Her most characteristic beat came last. On finding **[[Morgana]]'s corpse**, she
 She also **called time on the experiment** — after Úlfr punched a conjured horse hard enough to explode it across the room, Aren announced *"I think I'm done here"* and made for the door, which is how the party ended up paralyzed in the courtyard by **[[Madame Verre]]**.
 
 Elsewhere in the session: she spent the market **listening rather than shopping**, and overheard a passerby praising a service at a **Temple of [[Venus]]** in [[Pentamarone]] — she intends to pay her respects, and hasn't yet. She was the one who suggested asking the guild for a paid **detect magic / identify** service in the first place, offered to sponsor [[Leif Kalanchoe|Leif]]'s room out of party funds when he tried to sleep on the boat deck, and vetoed the idea of robbing [[Genni]]'s keystone safe (*"before we start getting violent and stealing things..."*). She **rested well** and took no exhaustion.
+
+### Session 11
+**Aren invented the party's first legal department.** When [[Madame Verre]] proposed borrowing the [[Golden Chalice]] for an undisclosed purpose, Aren's condition was that the party's warning about the [[The Academy of Arcane Arts|Academy]] go **in writing** — an acknowledgment of disclosed danger, and no liability. Verre loved it (*"that's fair, and it makes it quite interesting"*), [[Marka]] drafted it, and the table's verdict was *"a cleric and a lawyer."* Aren also pushed for an explicit **guarantee of no harm**, which is in the contract.
+
+She spent the research montage **in the books with [[Genni]] and [[Marka]]**, using **Insight** to sort genuinely useful sources from noise.
+
+**She asked after a temple to [[Pluto]]** in [[Pentamarone]]. There isn't one — the city worships [[Venus]] almost exclusively. Two cities running, Aren has found a Venus temple and no Pluto.
+
+**And she was right about [[Leif Kalanchoe|Leif]].** When he came out of Verre's office having handed over his spellcasting focus for nothing more than a promise, Aren's reaction was immediate:
+
+> *"Be wary of what she might request of you."*
+> *"In the future, young one, you should be clear when your weapon is no longer with you."*
+
+**She dragged him out and bought him a dagger**, dismissing his magic stones as *"just holding some rocks"* — the most she has ever spoken to him, which visibly rattled him. **Two mornings later that dagger was the only weapon he had** when [[Aleister the Invoker]] appeared. He thanked her for it in front of the whole party; she promised to pick him up in a hug next time, and that he would hate it.
+
+She also, in the party huddle, floated using her **undead-detection amulet on Madame Verre** — a child who has been a child for a very long time. **She has not done it yet.**
+
+Aren was among those who **stayed at the guild hall** to guard the chalice when [[Howl]] bolted, on the theory that a bird running is exactly what a diversion looks like, and so **missed the fight with [[Cocytus]] entirely.** Tommy has promised her and [[Asha Nyvani Korré|Asha]] their own scene to open the next session.
+
+*(Running gag of record: Aren is not reasonable about spiders. If [[Madame Verre]] turns out to be one, Aren has committed to divine smiting her on sight.)*

@@ -103,3 +103,15 @@ He also examined **[[Morgana]]'s body**, reading its ~two-decade decomposition a
 **Then he bought the [[Alchemy Jug]].** He went to a pottery stall asking after brewing supplies; the potter liked the cut of his jib and produced a WitchCrafter-assisted jug that pours **four gallons of beer** on command. **50 gold**, no hesitation. He said *"beer"* at the dockside tavern and has not paid for a drink since — and the jug is, indirectly, the reason the party solved the [[Golden Chalice]], since it put a magic cup on the table next to a mundane one and prompted [[Aren Greycloak|Aren]]'s question. Red **rinsed the chalice, filled it, and handed it over.**
 
 He **failed his dream roll** — exhaustion, and hungover besides — but was the **only party member with a dream left in the bank.** What he saw was two images: **something grand and good, a great city or temple**, and then **the same thing in ruins.** No context, and a bad feeling attached. He told the party over breakfast; nobody could place it.
+
+### Session 11
+*(Roy joined partway through; Red was quietly along for the ride until he did — a state the party noted approvingly as *"hanging around, observing."*)*
+
+**Red's fight, once it started, was almost entirely Wild Shape.** When [[Howl]] bolted down a back alley, Red went with [[Leif Kalanchoe|Leif]] — *"I don't know, I guess I am chasing a bird"* — and ended up in the middle of the encounter with **[[Aleister the Invoker]]** and **[[Cocytus]].**
+
+- **Moonbeam on Aleister** for 8 radiant, the only sustained damage anyone got on him before he flew away.
+- **Wild Shaped into a brown bear** — large enough to shrug off the knockdown rider on the elemental's slam.
+- **Engulfed.** [[Cocytus]] swallowed him whole: 20+ damage, knocked out of bear form, **restrained and suffocating** inside the creature's body. He broke the grapple on a Strength check, described as a brown bear reading a river the way it reads a salmon run.
+- **Wild Shaped again, into a lion** — and the swashbuckler of the rival adventuring party finished the fight by **launching off his back** and driving a rapier through the beast's eye.
+
+He also caught **5 damage from [[Leif Kalanchoe|Leif]]'s Ice Knife** on the way through, and offered the [[Alchemy Jug]] at the tavern before being reminded the drinks were on the guild.

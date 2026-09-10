@@ -102,7 +102,7 @@ Her family came to Pentamarone **because [[Morgana]] told them to.** Morgana was
 
 **Leif bought a plate, cutlery, and a glass goblet for 3 gold** — the woman's *first sale.* [[Asha Nyvani Korré|Asha]] quietly cast **Detect Magic** over it to be sure nothing evil had followed them: **nothing.** Ambient WitchCrafter magic saturates the whole market, but the set itself is pure craft, *"hard work and dedication."*
 
-Leif also produced **the glass orb** recovered from Morgana's tower. She couldn't read anything on it — *"remarkably smooth, very nice handcrafted work,"* nothing more. **Madame Verre would know**, she said, but audiences with Verre are nearly impossible; commoners deal with other guild members instead.
+Leif also produced **the glass orb**. She couldn't read anything on it — *"remarkably smooth, very nice handcrafted work,"* nothing more. **Madame Verre would know**, she said, but audiences with Verre are nearly impossible; commoners deal with other guild members instead.
 
 Warned about the army on the road, she shrugged it off. **Routine patrols. They never come close.**
 

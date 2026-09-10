@@ -22,6 +22,18 @@ They spent **two in-game days** there: shopped its market, slept at its docks, w
 
 *(A partial excuse: they had no map with them to check colors against, and spent much of the second day trying to remember which color meant what.)*
 
+## Session 11 — Madame Verre Knows (September 9, 2026)
+
+**[[Leif Kalanchoe|Leif]] told [[Madame Verre]] about the green magic**, unprompted, in a private conversation in her office. His stated reason: *"I just felt this desire to be honest with her, since she's been so accommodating."* The party's reaction ranged from concern to open accusations that he'd been replaced — nobody has yet checked whether the desire was his own.
+
+When **[[Úlfr Kveld|Úlfr]]** came separately to ask what kind of magic the [[WitchCrafters]] actually use — arcane, divine, or otherwise — Verre opened with *"you know, I just had this conversation with Leif"* and then said almost nothing:
+
+> *"We don't use any higher-being magic. We have great honor for the [[Solemn Pantheon]], but we just happen to use the natural magic that flows around us. Whether that be arcane, whatever it may be."*
+
+**Úlfr's insight:** she knows he's holding something back, and she is **meeting him exactly where he stands and no further.** Not lying, not forthcoming.
+
+**The green anomaly over [[Pentamarone]] is still unexplained** — and the head of the guild sitting on top of it now knows the party knows about it. Given that a very small number of people in the world are aware of the fourth magic at all, that list just grew by one of the more powerful names on it.
+
 ## Significance
 
 The Fourth Magic is the central mystery the [[S.A.T.O.]] hope to crack — and a likely thread connecting the [[Great Cataclysm]], the forbidden research that got [[Asha Nyvani Korré|Asha]] expelled, and the question of why the [[The Academy of Arcane Arts|Academy]] shows no spike in any of the three *known* magics.

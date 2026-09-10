@@ -85,3 +85,16 @@ She also **spotted the barred basement door** while the rest of the party was bu
 **And she drank from the chalice.** What appeared behind her was **her missing mother**, exactly as Asha last saw her in person — real to the touch, **blank, unrecognizing**, carrying nothing, everything taken from her disintegrating on removal. Asha **hugged her**, said ***"I will find you,"*** and walked out of the room.
 
 She **failed her dream roll** and took **exhaustion**, with no dreams left in the bank to receive.
+
+### Session 11
+**Asha read the contract.** Before anyone signed the [[WitchCrafters]] agreement over the [[Golden Chalice]], she went through **[[Marka]]'s** draft line by line — *"we got burned with the fine print at the Academy"* — and her investigation came back clean. Given that the party's last signed document handed the chalice to the [[Arcane Reclamation Initiative]], this was hard-won caution.
+
+She spent the research montage **in the archives with [[Genni]] and [[Marka]]**, hunting records of the [[The Seeker of the Sinful Spoils|Sinful Spoils]] on **History** — with a **Portent** die behind it. *(She rolled a 20 and a 5; the 20 replaced a natural 1, and the 5 went unspent.)*
+
+**She got Genni to talk about her past.** Asha raised the [[Endymion Empire]] symbol she'd spotted in Session 10 — on Genni's staff and on the safe under her desk — first with the other witches at the tavern, then with Genni directly. What came back: the triangle is the mark of the Empire's **[[Keystones|power stones]]**; Genni **grew up close to the Citadel** and learned magic on them; she **still has family there**; she **hasn't been back in a long time**; and she is **not related to the Emperor.** Then she changed the subject. Asha, who is herself in exile from an institution that erased her, let her.
+
+She also tried to get [[Madame Verre]]'s anti-aging secret out of her and **failed the persuasion** — *"I like to be a girl's girl, but it's too good."*
+
+**She has now read both of her books**, delivered privately by the DM and **not yet shared with the party**: the history of the Greater [[Endymion Empire]] on the first night, and ***The Biography of [[Rellyona]]*** on the third.
+
+When [[Howl]] bolted, Asha **stayed at the guild hall with [[Aren Greycloak|Aren]]** to keep eyes on the chalice, and missed the fight with [[Cocytus]].

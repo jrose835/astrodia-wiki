@@ -77,3 +77,16 @@ Which means Drolta reaches her homecoming **sooner than she expected**, with her
 Drolta's contribution to the misfired teleport was to confirm the obvious as soon as the party stepped out of the circle: ***"This is definitely not where my temple is."*** She had been the one whose **plume** [[Archibald]] used as the associated object, which makes the miss faintly personal.
 
 Otherwise she travelled quietly with the party through [[Pentamarone]]. **Her homecoming at the [[Nephthys]] temple is deferred a second time**, and the party is now further from it than they were at the end of Session 9.
+
+### Session 11
+*(Yemko back at the table after missing Session 10.)*
+
+Drolta worked the chalice research with **[[Seed]] and [[Ceramia]]** on the hardest of the four questions — **are the conjured living copies actually alive** — after a spirited table argument that **Deception** was the correct skill for the job (*"aren't undead things deceptive in nature?"*). She settled for **Investigation.**
+
+**Then she took the campaign's first death saves.**
+
+In the alley fight against **[[Cocytus]]**, she used her **spider climb** to scale a wall for line of sight and landed a **Guiding Bolt** on **[[Aleister the Invoker]]** through three-quarters cover — one of only two hits anyone managed on him. The elemental came down off the roof and hit her with a slam for **28 damage.**
+
+She went down. **She failed her first death save** — rolled privately to the DM, at her request — before **[[Úlfr Kveld|Úlfr]]** burned his last spell slot on **Healing Word** and brought her back up for 8. She spent her next turn standing and going straight back at it: *"it fucked me up, boy."*
+
+*(Her [[Nephthys]] temple homecoming is deferred for a third session running.)*

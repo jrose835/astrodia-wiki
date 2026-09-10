@@ -23,6 +23,16 @@ Two complications for the Initiative's stated plan, both from Session 10:
 
 **Clock: roughly 15 days** before the "repo man" can be sent. The party has also discussed conjuring **decoy chalices** (see [[Golden Chalice]]) to hand over instead.
 
+## Session 11 — What the Repo Man Might Be (September 9, 2026)
+
+[[Tobin]]'s counter-intelligence assignment came back on a roll of **99**, and still couldn't name the thing:
+
+> *"Don't know exactly what repo man is. Some kind of experiment academy is working on. **Oracle may be involved.**"*
+
+**The repo man may not be a person.** The reading the party took: an Academy **experiment**, plausibly its **cogwork constructs**, tied to whatever sits in the **[[Hall of Oracles]]** — the Snarl of raw magic that powers the university, and the supposed home of the Academy's **Oracle.**
+
+Tobin has been **reassigned to the Oracle itself.** Meanwhile the [[Golden Chalice]] is not merely still out of the Initiative's reach — it is **under contract to the [[WitchCrafters]] of [[Pentamarone]]**, being taken apart by a guild of witches several hundred miles outside Academy jurisdiction.
+
 ## Connections
 
 - [[The Academy of Arcane Arts]] — the program's parent institution.
@@ -30,6 +40,8 @@ Two complications for the Initiative's stated plan, both from Session 10:
 - [[Tobin]] — junior apprentice (secretly [[S.A.T.O.]]); registered the chalice.
 - [[Golden Chalice]] — registered here; repossession blocked until the deadline.
 - [[The Seeker of the Sinful Spoils]] — the figure the Spoils may be kept from.
+- [[Hall of Oracles]] — where the "repo man" lead now points.
+- [[WitchCrafters]] · [[Madame Verre]] — who currently hold the chalice under contract.
 
 ## First Appeared
 

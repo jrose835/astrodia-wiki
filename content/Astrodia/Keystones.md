@@ -6,6 +6,19 @@ They are one leg of the Empire's control of magic, alongside **registries** for 
 
 Per a trader at the [[Pentamarone]] docks (Session 10): outside a sanctioned town's borders, if the army catches you **casting unauthorized magic without keystone authority**, you are in serious trouble.
 
+## Session 11 — The Law in Detail, and the Warlock Problem (September 9, 2026)
+
+The [[WitchCrafters]] spelled out for [[The Fallen]] what happens the moment they step outside [[Pentamarone]]'s jurisdiction. They call them **power stones**:
+
+- **Any unregistered magic is illegal** in [[Endymion Empire]] territory. Not restricted — illegal.
+- Legal casting requires **the Empire's power stones**.
+- **Registration or approval is possible.** Get approved, and you are issued a supply of stones to use at your discretion.
+- **Nobody knows whether that works for a warlock.** Asked whether [[Leif Kalanchoe|Leif]] could cast through his patron under the system — registered or not — the guild's honest answer was *"I don't really know if you'd be able to use anything given to you by your patron."*
+
+That last point is a live problem for **two** members of the party: [[Leif Kalanchoe|Leif]] and [[Drolta Amara Tzuentes|Drolta]] are both warlocks, and the road out of Pentamarone in most directions is Empire road.
+
+**[[Genni]] confirmed the symbol's meaning** the same session: the **triangle** on her staff is the mark of the power stones the Empire's magic engineers use. She **learned magic on them**, growing up near the Citadel, and has since moved to tapping her own magic instead.
+
 ## The Symbol
 
 Keystone magic carries a **distinct symbol** — recognized by [[Asha Nyvani Korré|Asha]] in Session 10 as *"the symbol of the magic the Endymion Empire uses."*
@@ -21,7 +34,8 @@ Unresolved.
 
 - [[Endymion Empire]] — issues and enforces them
 - [[Pentamarone]] — the exception to the Empire's jurisdiction, where keystones still turned up
-- [[Genni]] · [[WitchCrafters]] — whose safe bears the symbol
+- [[Genni]] · [[WitchCrafters]] — whose safe bears the symbol, and who explained the law
+- [[Leif Kalanchoe]] · [[Drolta Amara Tzuentes]] — the party's warlocks, for whom the system may have no provision
 - [[Types of Magic]]
 
 ## First Appeared

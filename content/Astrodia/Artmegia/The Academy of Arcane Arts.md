@@ -32,7 +32,7 @@ The grand central library of the Academy. Majestic marble archways, tomes for mi
 - **2nd Floor:** Restricted to upper-years and professors
 - **3rd Floor:** Prohibited
 
-An **Oracle of the Academy** exists somewhere within — supposedly the most powerful being at the school.
+An **Oracle of the Academy** exists somewhere within — supposedly the most powerful being at the school. **As of Session 11, [[Tobin]] reports the Academy's "repo man" may be an experiment with the Oracle involved** — see [[Hall of Oracles]] and [[Arcane Reclamation Initiative]].
 
 ### The Watchmen — and Who Really Built Them
 

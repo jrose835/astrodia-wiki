@@ -24,9 +24,25 @@ Tobin's standing assignment — *what and how many are the Sinful Spoils* — **
 
 This puts him squarely on counter-intelligence against his own office — the [[Arcane Reclamation Initiative]] — with roughly **15 days** left on the [[Golden Chalice]]'s repossession clock. Of every Satyr, he is the one whose cover this task most endangers.
 
+## Session 11 — A 99, and It Wasn't Enough (September 9, 2026)
+
+His new assignment — *what is the Academy's plan to reclaim the chalice?* — **failed on the first day** and then came back on the second with a roll of **99**. The answer was still barely an answer:
+
+> *"Don't know exactly what repo man is. Some kind of experiment academy is working on. **Oracle may be involved.**"*
+
+**The repo man may not be a man.** The party's read is an Academy **experiment** — the table's favourite candidate being its **cogwork constructs** — tied somehow to the **Oracle** in the [[Hall of Oracles]], the Snarl of raw magic that powers the university.
+
+That a near-perfect roll produced only this was itself the takeaway:
+
+> *"I think we need to put him on a different task, because if that's what you get with a 99..."*
+
+**New standing assignment: the Oracle.** *Send all you can.*
+
+Tobin remains the most exposed Satyr — now investigating the most guarded thing at his own workplace, on behalf of the people his office is trying to repossess an artifact from.
+
 ## Fellow Satyrs
 
-[[Myrna Nor]] · [[Simone]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]].
+[[Myrna Nor]] · [[Simone]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]]. Related: [[Hall of Oracles]] · [[Arcane Reclamation Initiative]] · [[Golden Chalice]].
 
 ## First Appeared
 

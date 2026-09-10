@@ -17,9 +17,29 @@
 
 In a dream on the road north, **[[Leif Kalanchoe|Leif]]** experienced his usual nightmare — everything **turning yellow**, the Whispering One's untranslatable voice in his head — but this time **the voice issued from his familiar, the owl Howl**, whose **eyes went completely yellow.** Leif now fears the entity is trying to **reach through, speak as, or take** his familiar (his [[Leif Kalanchoe|Pact of the Chain]] companion). [[Drolta Amara Tzuentes|Drolta]] urged him to make consulting **[[Nephthys]]** a priority. This is the first sign the Whispering One may act through a **vector other than direct whispers.**
 
+## Session 11 — Madame Verre Is Looking Into It (September 9, 2026)
+
+**[[Madame Verre]]**, head of the [[WitchCrafters]], **agreed to investigate the Whispering One** — for free, unrequested, and having asked nothing in return. She summoned [[Leif Kalanchoe|Leif]] to her office alone, cleared the room, asked him whether he had told her *"everything ever,"* asked a great many further questions, and answered none of them.
+
+Leif volunteered a great deal in that conversation, including **[[The Fourth Magic]]**.
+
+What she took as her working material was **[[Leif's Glass Orb|his staff and its glass orb]]** — the object **[[Howl]]** brought him in the [[Terget Forest|Purodetapo Forest]], the same forest where the Whispering One first reached him. Verre's reaction to it: *"I think there's something very special about that."*
+
+The party's reaction to the arrangement was near-unanimous alarm. [[Aren Greycloak|Aren]]: *"Be wary of what she might request of you."*
+
+### And Then Someone Else Recognized Howl
+
+The same week, **[[Aleister the Invoker]]** — a man who summons beings from outside [[Astrodia]] — looked at **[[Howl]]** in a [[Pentamarone]] alley and said *"I do know what this is, then."* He would not say what.
+
+**Three separate powers have now taken an unusual interest in that owl**: the Whispering One (Session 8, speaking through her), Madame Verre (via the orb Howl brought), and Aleister. See [[Howl]].
+
 ## Related
 
 - [[Leif Kalanchoe]] — the warlock it reached
+- [[Howl]] — his familiar, and its Session 8 vector
+- [[Madame Verre]] — currently investigating it
+- [[Leif's Glass Orb]] — handed to Verre as part of that
+- [[Aleister the Invoker]] — recognized Howl on sight
 - [[The Orb]] — imprisoned creature that speaks the same tongue
 - [[The Fourth Magic]] · [[Great Cataclysm]] · [[Severance]] — the cosmology it may belong to
 - [[The Fallen]] — the party, who now know Leif's secret

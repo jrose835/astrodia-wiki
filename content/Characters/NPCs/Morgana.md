@@ -79,6 +79,18 @@ This adds a third dimension to a witch previously known as a recluse who studied
 
 *(She was also, per the glassblower, the reason Freedale's survivors ended up in an Empire border city at all — the refugee population of Pentamarone is partly Morgana's doing.)*
 
+## Session 11 — Or Was It Rellyona? (September 9, 2026)
+
+Over drinks in [[Pentamarone]], the [[WitchCrafters]]' masters were asked what they knew of the [[White Forest]] coven. They knew the curse and knew a coven had lived in the forest, but nothing of what became of it. One detail came loose along the way:
+
+> *"I think I've heard there was a witch in a town near the forest who sometimes worked with **[[Rellyona]]**, if I remember correctly."*
+
+The party confirmed she meant Morgana, and told them she was dead.
+
+**This complicates Session 10.** The [[Freedale]] glassblower remembered Morgana working with **[[Madame Verre]]**; the guild remembers her working with **[[Rellyona]]**, Verre's long-dead predecessor. **An insight check said the witches are telling the truth as they know it.**
+
+Either Morgana's association with the guild spans **both** women — which would make her much older, or the relationship much longer, than assumed — or the distinction between Verre and Rellyona doesn't mean what the party thinks it means. See [[Madame Verre]].
+
 ## Significance
 
 Morgana is the first known individual to have **deliberately gone into the [[White Forest]] to confront the curse** — a lead on both the curse's nature and what became of those who tried to stop it.

@@ -68,3 +68,41 @@ Nobody warded this thing. **It wards itself.** *(This also undercuts the [[Arcan
 The demonstration was loud enough — cats, a stranger's mother, and a horse detonating in a guild library — that **[[Madame Verre]]** herself came down and **paralyzed the whole party** in the courtyard. She is also, by everyone's reckoning, the person most likely to be able to read the chalice.
 
 **Repossession clock: roughly 15 days.**
+
+## Session 11 (September 9, 2026) — Under Contract
+
+Instead of confiscating it, **[[Madame Verre]] asked to borrow it.**
+
+### The Terms
+
+| The [[WitchCrafters]] give | [[Madame Verre]] gets |
+|---|---|
+| Their **best effort at identifying the chalice** — origin, function, and why it matters | **Use of the chalice** for **one specific, undisclosed goal** |
+| The chalice **returned** once that goal is met; **no claim of ownership** | The party's **participation**, which she called *"imperative"* |
+| **Housing and meals** for the party at guild expense | |
+| A **guarantee that no harm comes** to any of them | |
+
+Written by **[[Marka]]**, amended at [[Úlfr Kveld|Úlfr]]'s insistence to include lodging, amended at [[Aren Greycloak|Aren]]'s insistence to record **in writing that the party warned her** about the Academy — and **read by [[Asha Nyvani Korré|Asha]] before anyone signed.** Verre's estimate: **one week.**
+
+**What her goal is, she would not say.** To [[Haine]], privately: *"I have a good feeling about this group. And this chalice. **It's the best lead we've got.**"*
+
+### The Four Lines of Inquiry
+
+Where three Identifies failed, Verre stopped casting spells at it and started **taking it apart** — *"grassroots magic... getting to the essence of things without relying on a pre-existing spell."*
+
+| Team | Question | Party member embedded |
+|---|---|---|
+| **[[Edel]] & [[Schmietta]]** | The **materials** — metal, set jewels, and whether either can be **dated** to an era or place in [[Astrodia]] | [[Úlfr Kveld\|Úlfr]] (Athletics, at the forge) |
+| **[[Haine]] & [[Pittore]]** | The **conjured objects** — what they're made of, and whether a copy **fully replicates** the original | [[Leif Kalanchoe\|Leif]] (Perception, **nat 20**, comparing the two chalices) |
+| **[[Seed]] & [[Ceramia]]** | The **living copies** — are they alive, and what animates them. *(Test subjects: the cats.)* | [[Drolta Amara Tzuentes\|Drolta]] (Investigation) |
+| **[[Genni]] & [[Marka]]** | **Records** — any account of the [[The Seeker of the Sinful Spoils\|Sinful Spoils]], or of a chalice that manifests copies | [[Aren Greycloak\|Aren]] (Insight) and [[Asha Nyvani Korré\|Asha]] (History) |
+
+**Progress: two working days cut the seven-day estimate to three days remaining.** No findings have been released — the guild is holding everything for a single report at the end.
+
+### Housekeeping
+
+- **Magic still works after drinking.** Confirmed by a test cast of **Message** in the guild hall.
+- **The "you feel a little weird" effect is still unexplained** and still being tracked. One party member's introspection returned a single word: **still.**
+- The **second chalice** [[Leif Kalanchoe|Leif]] conjured is now a research subject in its own right, sitting next to the original on [[Haine]] and [[Pittore]]'s bench.
+
+**Repossession clock: roughly 13 days, and the chalice is now several hundred miles outside Academy jurisdiction and legally spoken for.**

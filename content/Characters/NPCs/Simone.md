@@ -31,6 +31,12 @@ Meanwhile the party has a question for her that only her map can answer. On the 
 
 If it moved, Simone's map is effectively a **tracking device pointed at the party.** If it didn't, the yellow was **never the chalice**, and something else divine and newly-arrived is sitting inside the Academy. Neither answer is comfortable, and the question had not yet been sent as of the end of Session 10.
 
+## Session 11 — Still Nothing (September 9, 2026)
+
+Two more days of Satyr rolls in [[Pentamarone]], **two more failures.** Simone's star-tablet assignment — *who donated it to the [[Biblioplex]]* — **has now never once succeeded.** Per the Satyr Roll rules, some assignments are secretly impossible, and the party has started saying so out loud.
+
+The question about the **yellow speck on her map** — did the divine dot move north with the [[Golden Chalice]], or is it still sitting at the Academy? — **still has not been sent.** [[Tobin]] has absorbed both of the party's available Satyr slots ([[Hall of Oracles|the Oracle]], and before that the repo man), and the party discussed and **deliberately declined** to tell [[Myrna Nor|Myrna]] and [[Archibald]] where they are: if anyone comes hunting and the [[S.A.T.O.]] can't hold out, the party's location goes with them.
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]].

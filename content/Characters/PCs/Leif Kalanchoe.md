@@ -6,7 +6,7 @@ Leif has always been a bit of a homebody, but a recent mysterious illness affect
 
 ## Companions
 
-**Howl** - Leif's owl companion who travels with him.
+**[[Howl]]** - Leif's owl companion, found injured in the [[Terget Forest|Purodetapo Forest]] and now understood to be his Pact of the Chain familiar. **[[The Whispering One]] spoke through her in Session 8**, and **[[Aleister the Invoker]] recognized her on sight in Session 11.** She also brought Leif **[[Leif's Glass Orb|the glass orb]]** he uses as a focus. Nobody knows what she is.
 
 ## Session Events
 
@@ -57,11 +57,29 @@ He also spent part of the session working out aloud how warlock casting compares
 ### Session 10
 **Leif established where they weren't.** His investigation of the misfired teleport's landing site — soil, flora, and a certain amount of literal dirt-tasting, from a warlock who insists he's *"pretty much a druid"* — returned a firm negative: **this is not [[Artmegía|Artmegia]].** Later, watching the [[Endymion Empire]] column split east and west at a crossroads through Bama's eyes, he was the one who read the maneuver as a **pincer.**
 
-**His market conversation was the session's best piece of luck.** At the glassware stall he met a young woman who turned out to be a **[[Freedale]] refugee** — and who knew [[Morgana]] by name. From her: **glass works as a spellcasting focus** ([[Madame Verre]]'s own staff is glass), Morgana kept a list of **safe havens** among covens and guilds that saved her family, and **Morgana had worked with Madame Verre in the past.** Leif bought a **plate, cutlery, and a glass goblet for 3 gold** — the woman's first sale — and showed her the **glass orb** from Morgana's tower, which she couldn't read.
+**His market conversation was the session's best piece of luck.** At the glassware stall he met a young woman who turned out to be a **[[Freedale]] refugee** — and who knew [[Morgana]] by name. From her: **glass works as a spellcasting focus** ([[Madame Verre]]'s own staff is glass), Morgana kept a list of **safe havens** among covens and guilds that saved her family, and **Morgana had worked with Madame Verre in the past.** Leif bought a **plate, cutlery, and a glass goblet for 3 gold** — the woman's first sale — and showed her **[[Leif's Glass Orb|the glass orb]]** on his staff, which she couldn't read.
 
 He was then **conspicuously cheap about lodging** ([[Aren Greycloak|Aren]] had to sponsor his room after the barkeep refused to let him sleep on the deck), drank out of his new goblet all evening, and **rested well** with no exhaustion.
 
 **He drank from the chalice and conjured a second [[Golden Chalice]]** — the one result that suggests the cup's *objects* may be genuinely real, and the origin of the party's plan to leave decoy chalices behind them.
+
+### Session 11
+**Leif rolled a natural 20 on Persuasion and it wasn't the roll that mattered.** Arguing for the [[WitchCrafters]] to house the party, he caught [[Madame Verre]]'s eye — and what she was actually looking at was **[[Leif's Glass Orb|the glass orb]]** on his staff. Asked about it, he explained it was his spellcasting focus, that he's *"technically a warlock, although I'm coming to terms with it,"* and that **[[Howl]] brought it to him in the [[Terget Forest|Purodetapo Forest]].** Verre went still, said *"the Purodetapo Forest, you say,"* and told [[Marka]] to **give the party whatever they wanted.** Free lodging, no further discussion.
+
+**He worked with [[Haine]] and [[Pittore]]** on what the chalice's conjured objects are made of — his claim on the job being that the duplicate [[Golden Chalice]] was his — and opened the montage with a **natural 20 on Perception** comparing the two cups.
+
+**Then he made the trade that defined the session.** Verre sent for him alone, cleared her office, asked him whether he'd told her *"everything ever,"* asked a great many questions and answered none of them. He came away with an agreement that **she will look into [[The Whispering One]]** — free, unrequested — and left her **his staff and orb** for study. He also, in that conversation, **told her about [[The Fourth Magic]]**, entirely of his own accord.
+
+> *"I just felt this desire to be honest with her, since she's been so accommodating."*
+> *"Was that your desire — or was that a...?"*
+
+The party's response ranged from concern to open accusations of being an imposter. **[[Aren Greycloak|Aren]] dragged him out and bought him a dagger**, over his protests that he still had his **magic stones** (*"you're just holding some rocks"*) — the most words Aren has directed at him in the entire campaign, which left him visibly shaken.
+
+**Two mornings later that dagger was the only weapon he had.** [[Howl]] bolted down a back alley and led him to **[[Aleister the Invoker]]**, whom she reacted to with **rage** — and who, on looking at her properly, said *"oh, I do know what this is, then,"* refused to explain, and announced he would be **visiting the Purodetapo Forest.** Leif threw his hand forward to cast **Eldritch Blast** and nothing happened: **his focus was in Verre's study.**
+
+He fought the rest of the encounter on **druid spells only** — a ruling that his druidic magic predates the pact and needs no arcane focus — plus **thrown daggers** and **magic stones.** His **Ice Knife** did the fight's heavy lifting, since cold damage was the one thing that slowed **[[Cocytus]]**. One of them also caught [[Harlan “Red” Reed|Red]] in the blast radius for 5.
+
+*(Bookkeeping: his D&D Beyond sheet was missing its druid features, and **Magic Stone** was mistakenly taken as a warlock cantrip — corrected at the table, freeing up a warlock cantrip pick.)*
 
 ## Leif's Patron — The Whispering One
 
@@ -71,6 +89,7 @@ As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[Th
 - It speaks a **language matching the creature imprisoned in [[The Orb]]**, tying it to [[The Fourth Magic]].
 - Leif hears it only as **untranslatable whispers**; he never knowingly agreed to a pact.
 - [[Drolta Amara Tzuentes|Drolta]] will consult [[Nephthys]]; [[Úlfr Kveld|Úlfr]] prayed to his own goddess for its true name.
+- **As of Session 11, [[Madame Verre]] is investigating it** — at Leif's request, for free, in exchange for nothing, holding **[[Leif's Glass Orb|his staff and orb]]** while she does.
 
 ## The Warlock Reveal (Session 6)
 

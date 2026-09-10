@@ -14,6 +14,8 @@ While the rest of the party shopped the [[Pentamarone]] market, **[[Aren Greyclo
 
 Aren intends to pay her respects there. Given [[Harlan “Red” Reed|Red]]'s unexplained connection to Venus's three orbs — and the fact that he woke that same morning from a dream of **something grand and then the same thing in ruins** — the party has not yet visited it. **Open thread.**
 
+**Session 11 confirmed the scale of it.** Asked by [[Aren Greycloak|Aren]] whether there was a temple to **[[Pluto]]** anywhere in the city, the [[WitchCrafters]] said no — *"most of the people here worship **Venus**, so there's a temple to Venus."* **Venus is Pentamarone's principal faith**, which is a fitting patron for a city that exists entirely to make new things: she is the [[Agents|Agent]] of Creation, and Pentamarone is a city of crafters.
+
 ## Related
 
 - [[Agents]] · [[Solemn Pantheon]] — her place in the pantheon
