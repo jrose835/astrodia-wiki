@@ -3,14 +3,14 @@ A fourth, previously undisclosed type of magic in [[Astrodia]], revealed by **Si
 ## What Is Known
 
 - **The newest magic.** In the age ordering of the four magics, the Fourth Magic is younger than arcane — which itself only became something mortals could wield after the [[Severance]]. (Order from oldest to newest: divine → higher-being → arcane → fourth.)
-- **It traces the path of the [[Great Cataclysm]].** The green sand pours out in a line matching the cataclysm's exact route: from the **northwest of the [[Endymion Empire]]**, running **southeast through the [[Terget Forest|Purodetapo Forest]]**, down to the **Prana Mountains**.
+- **It traces the path of the [[Great Cataclysm]].** The green sand pours out in a line matching the cataclysm's exact route: from the **northwest of the [[Endymion Empire]]**, running **southeast through the [[Purodetapo Forest]]**, down to the **Prana Mountains**.
 - **It secretly powers civilization.** This unknown magic currently underpins **every major civilization in Astrodia** — and yet it is undisclosed to the public, barely studied, and no one in power is talking about it.
 
 ## The Open Mysteries
 
 - **Why does it appear off the cataclysm's path?** The magic also surfaces in hotspots that do *not* lie along the cataclysm's line. If the Fourth Magic was simply left in the cataclysm's wake, these stray hotspots make no sense.
-- **What is its source?** Newer than arcane and tied to a near-apocalyptic event, its origin is entirely unaccounted for.
-- **[[Leif Kalanchoe]] is drawn to it.** When the green sand spilled across the map, grains **crawled toward Leif** — mirroring the way the divine (yellow) sand crawled toward the [[Golden Chalice]]. Leif hails from the Purodetapo Forest, directly in the cataclysm's path, and has been hearing voices he cannot understand (the same language as the creature trapped in the orb). The connection between Leif, his possible patron, and the Fourth Magic is unresolved.
+- **What is its source?** Newer than arcane and tied to a near-apocalyptic event, its origin is entirely unaccounted for. *(Revealed in Session 12: per [[Madame Verre]], via Leif, it is **magic that isn't of this world**, which **leaked into Astrodia through the portal** that caused the [[Great Cataclysm]]. See below.)*
+- **[[Leif Kalanchoe]] is drawn to it.** When the green sand spilled across the map, grains **crawled toward Leif** — mirroring the way the divine (yellow) sand crawled toward the [[Golden Chalice]]. Leif hails from the Purodetapo Forest, directly in the cataclysm's path, and has been hearing voices he cannot understand (the same language as the creature trapped in the orb). The connection between Leif, his possible patron, and the Fourth Magic is unresolved. *(Largely explained in Session 12: his patron, **[[The Whispering One|Sorath]]**, is an otherworldly being that probably came through the same rift and probably lives in the Purodetapo Forest.)*
 
 ## Session 10 — Standing On It, Not Looking (August 26, 2026)
 
@@ -34,10 +34,26 @@ When **[[Úlfr Kveld|Úlfr]]** came separately to ask what kind of magic the [[W
 
 **The green anomaly over [[Pentamarone]] is still unexplained** — and the head of the guild sitting on top of it now knows the party knows about it. Given that a very small number of people in the world are aware of the fourth magic at all, that list just grew by one of the more powerful names on it.
 
+## Session 12 — Magic from Another World (September 23, 2026)
+
+In a private audience, [[Madame Verre]] told [[Leif Kalanchoe|Leif]] something she asked him **not** to share. He shared it with [[The Fallen]] behind a closed door, and **it is kept within the party at Verre's request**:
+
+> **The [[Great Cataclysm]] was caused by a group of people opening a portal to another world.** The rift let **magic that isn't of this world** into Astrodia, and **other things came through with it.**
+
+The party's conclusion: **the fourth magic is otherworldly magic.** It runs along the Cataclysm's path because it **leaked in through the rift.** Leif's patron, **[[The Whispering One|Sorath]]**, is probably one of the things that came through.
+
+That night at the fireworks festival, Leif asked Verre the follow-ups:
+
+- **Where did the Cataclysm begin?** In the **northern mountain range of what is now the [[Endymion Empire]]**, traveling **southeast** across Astrodia, matching the green line on [[Simone]]'s map.
+- **Was the rift ever healed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the rift."* *("Ooh. I don't think I was supposed to say that.")*
+- **Is the leftover green magic from the original leak?** **Yes.** To her knowledge it is **still present across Astrodia.**
+
+**Still open:** why the magic also appears in hotspots *off* the Cataclysm's path (including [[Pentamarone]]); how it came to power civilization; whether the seal holds. [[Ersmatok Rostch]] has been asked whether magic is conserved and whether, once it exists, it can change type *(results not yet reported)*. The party has also wondered whether [[Dogmatika]]'s new god and saints came through the rift too; that is speculation only.
+
 ## Significance
 
 The Fourth Magic is the central mystery the [[S.A.T.O.]] hope to crack — and a likely thread connecting the [[Great Cataclysm]], the forbidden research that got [[Asha Nyvani Korré|Asha]] expelled, and the question of why the [[The Academy of Arcane Arts|Academy]] shows no spike in any of the three *known* magics.
 
 ## First Appeared
 
-Session 6 (Simone's map of magic).
+Session 6 (Simone's map of magic). Its otherworldly origin was revealed in Session 12 (September 23, 2026) — see [[Session 12 Recap — Something from Nothing]].

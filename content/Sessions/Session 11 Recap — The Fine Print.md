@@ -79,7 +79,7 @@ Marka, deadpan, asked whether she should add a clause requiring housing or the d
 
 > *"Interesting. What is that?"*
 
-Leif explained it's his spellcasting focus, that he's *"technically a warlock, although I'm coming to terms with it,"* and that **his owl Howl brought him the orb in the [[Terget Forest|Purodetapo Forest]].** 
+Leif explained it's his spellcasting focus, that he's *"technically a warlock, although I'm coming to terms with it,"* and that **his owl Howl brought him the orb in the [[Purodetapo Forest]].** 
 
 Verre went very still.
 
@@ -422,7 +422,7 @@ Cocytus fell.
 
 1. **What does [[Madame Verre]] want the chalice for?** One goal. Undisclosed. *"The best lead we've got"* — she told **Haine** that in a whisper the party overheard, and nobody knows what it's a lead *toward*.
 2. **Leif's glass orb.** Verre took one look and instantly reversed her position on housing the party. She says there's *"something very special"* about it. She is looking into **[[The Whispering One]]** for him, for free, having asked nothing in return — which everyone except Leif finds alarming.
-3. **Aleister the Invoker knows what Howl is** — recognized it on sight, would not say, and is now **going to the [[Terget Forest|Purodetapo Forest]]**, which is Leif's home and where his family lives. **He escaped.**
+3. **Aleister the Invoker knows what Howl is** — recognized it on sight, would not say, and is now **going to the [[Purodetapo Forest]]**, which is Leif's home and where his family lives. **He escaped.**
 4. **Howl hates him.** Not fear — rage. And then, when he looked at her, total submission. *(Howl is also the vector [[The Whispering One]] used in Leif's Session 8 dream.)*
 5. **[[Madame Verre]] knows about [[The Fourth Magic]].** Leif told her. Her answer about the guild's own magic was deliberately, expertly noncommittal — and the green anomaly over Pentamarone is **still** uninvestigated.
 6. **Verre succeeded [[Rellyona]] directly** and has looked like a child the whole time anyone can remember. The party is openly speculating about the mechanism. **[[Aren Greycloak|Aren]] intended to use her undead-detection amulet on her and hasn't yet.**

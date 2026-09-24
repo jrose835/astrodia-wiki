@@ -1,6 +1,6 @@
 A small, remarkably smooth **glass orb** mounted on the head of **[[Leif Kalanchoe|Leif]]'s staff**, which he uses as his **spellcasting focus**.
 
-**[[Howl]] brought it to him** in the **[[Terget Forest|Purodetapo Forest]]**, at some point before the campaign began. He has never known anything else about it.
+**[[Howl]] brought it to him** in the **[[Purodetapo Forest]]**, at some point before the campaign began. He has never known anything else about it.
 
 *(Not to be confused with **[[The Orb]]**, the enchanted glass prison recovered from the [[Lost Library of Leith Chantos]] that holds a living creature. Different object, and the party has been careful to keep them straight at the table.)*
 
@@ -10,6 +10,7 @@ A small, remarkably smooth **glass orb** mounted on the head of **[[Leif Kalanch
 |---|---|
 | **A market glassblower** ([[Pentamarone]], Session 10) | *"Remarkably smooth, very nice handcrafted work."* Nothing more. She suggested **[[Madame Verre]]** would know |
 | **[[Madame Verre]]** (Session 11) | Stopped mid-negotiation, went still, and said *"I think there's something very special about that."* **Would not elaborate** |
+| **[[Madame Verre]]** (Session 12, after study) | *"I definitely learned some things. I'm happy to share them."* **What she learned about the orb specifically has not been disclosed** |
 
 ## Session 11 — Verre Takes It (September 9, 2026)
 
@@ -22,26 +23,34 @@ Housing and meals went into the contract with no further discussion. **The orb i
 
 Later that week she sent for Leif privately, asked him a great many questions and answered none of them, agreed to **look into [[The Whispering One]]** for him at no cost — and **kept the staff and orb for study.**
 
-**Leif has no arcane focus until it comes back.** He discovered this the hard way in the alley with [[Aleister the Invoker]], when his **Eldritch Blast** did not go off.
+**Leif has no arcane focus until it comes back.** He discovered this the hard way in the alley with [[Aleister the Invoker]], when his **Eldritch Blast** did not go off. *(Returned in Session 12.)*
+
+## Session 12 — Returned (September 23, 2026)
+
+When the party described [[Aleister the Invoker]] to Verre, she vanished to examine [[Cocytus]]'s corpse, reappeared just long enough to **toss Leif his staff**, orb and all, across the room, and vanished again.
+
+> *"I'll never be without my staff again."*
+
+Late in the research montage Leif asked Verre about his focus; she put him off until the chalice work was done (*"I definitely learned some things"*). In the private audience that followed, held with [[Howl]] present, Leif learned his patron's name, **[[The Whispering One|Sorath]]**, and that it is a being **not of this world**. **Whatever Verre learned from the orb itself remains undisclosed**, and the recap does not say whether the orb is connected to Sorath.
 
 ## Why It Matters
 
 Three things now converge on this object:
 
 1. **Glass is [[Madame Verre]]'s medium.** Her own staff is glass; it is her arcane focus; her guild's whole reputation runs through her glasswork.
-2. **[[Howl]] brought it** — and Howl is separately implicated in [[The Whispering One]] (Session 8) and recognized by [[Aleister the Invoker]] (Session 11).
-3. It came out of the **[[Terget Forest|Purodetapo Forest]]**, which sits directly in the path of the **[[Great Cataclysm]]** and the **[[The Fourth Magic|fourth magic]]** — and which is where Leif was first contacted.
+2. **[[Howl]] brought it** — and Howl is separately implicated in [[The Whispering One]] (Session 8) and recognized by [[Aleister the Invoker]] (Session 11). *(Revealed in Session 12: Howl is **a servant of Sorath**, the Whispering One.)*
+3. It came out of the **[[Purodetapo Forest]]**, which sits directly in the path of the **[[Great Cataclysm]]** and the **[[The Fourth Magic|fourth magic]]** — and which is where Leif was first contacted.
 
 It is also, incidentally, the party's proof that **glass works as an arcane focus** — relevant to [[Úlfr Kveld|Úlfr]]'s plans for the [[Nithing Pole]].
 
 ## Related
 
 - [[Leif Kalanchoe]] — its owner · [[Howl]] — who brought it
-- [[Madame Verre]] — currently holds it
-- [[The Whispering One]] · [[The Fourth Magic]] · [[Terget Forest|Purodetapo Forest]]
+- [[Madame Verre]] — studied it in Sessions 11–12
+- [[The Whispering One]] · [[The Fourth Magic]] · [[Purodetapo Forest]]
 - [[The Orb]] — the *other* glass sphere, unrelated
 - [[Nithing Pole]] — the glass-focus precedent matters here
 
 ## Current Status
 
-**In [[Madame Verre]]'s study in [[Pentamarone]], as of the end of Session 11.** Promised back on request.
+**Back on [[Leif Kalanchoe|Leif]]'s staff, as of Session 12** (September 23, 2026), returned by [[Madame Verre]]. *(Previously held in her study in [[Pentamarone]] from Session 11.)*

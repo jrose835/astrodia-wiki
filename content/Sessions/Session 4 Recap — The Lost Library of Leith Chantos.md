@@ -57,7 +57,7 @@ The party decided to **travel on foot** to the library (4 days) and save the scr
 
 ### The Race
 ![[Pasted image 20260419195443.png]]
-While at the café, **[[Harlan "Red" Reed|Red]]** heard frog croaks from the back lounge. Students had set up a **frog racing track** with chalk lanes and four unusual **glowing frogs** (red, blue, violet, orange) dressed in tiny costumes — a cape, suspenders, a bow tie, and a top hat.
+While at the café, **[[Harlan “Red” Reed|Red]]** heard frog croaks from the back lounge. Students had set up a **frog racing track** with chalk lanes and four unusual **glowing frogs** (red, blue, violet, orange) dressed in tiny costumes — a cape, suspenders, a bow tie, and a top hat.
 
 The party bet on the **suspenders frog**:
 

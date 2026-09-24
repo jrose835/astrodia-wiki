@@ -53,6 +53,23 @@ Once [[The Fallen]] left the students behind at campus and set out north, the S.
 
 *(The party is starting to wonder aloud whether Simone's task is one of the **secretly impossible** ones.)*
 
+### Session 12 Assignments (September 23, 2026)
+
+Coming out of the [[WitchCrafters]]' chalice report, the party lined up a new round of tasks via the [[Sending Stones]]. See [[Session 12 Recap — Something from Nothing#Word to the Satyrs]].
+
+| Student | Task |
+|---|---|
+| **[[Ersmatok Rostch]]** | **Is magic conserved?** Can it be created or destroyed, or only change form? Once a type of magic exists, can it change type? |
+| **[[Myrna Nor]]** | The history of **[[Marseille]]** |
+| *(Satyr not recorded)* | **[[White Forest]] lore**, specifically any magic that would stop someone from entering it |
+| *(Satyr not recorded)* | **[[Venus]]'s enemies** |
+| **[[Tobin]]** | *(ongoing)* The **Oracle** ([[Hall of Oracles]]) |
+| **[[Simone]]** | *(ongoing)* The **star tablet** |
+
+*(No results reported yet. The recap doesn't say which Satyrs took the White Forest and Venus questions, or how the new tasks fit the one-student-per-day limit on the stones.)*
+
+**An outsider knows Simone's spell.** When [[Genni]] suggested adapting **Simone's sand-map spell** to hunt for other [[The Seeker of the Sinful Spoils|Sinful Spoils]] and offered to reach Simone through the party, [[Madame Verre]] cut in: *"That won't be necessary. **I know the spell.**"* The guild will try it themselves. Verre also confirmed that the [[Great Cataclysm]] began in the **northern mountains of the [[Endymion Empire]]** and travelled southeast, which matches the green line on Simone's map.
+
 ## Related
 
 - [[The Fourth Magic]] — the central mystery the S.A.T.O. is chasing

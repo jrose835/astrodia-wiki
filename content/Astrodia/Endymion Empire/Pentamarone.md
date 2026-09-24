@@ -24,7 +24,7 @@ Pentamarone is **the only place inside [[Endymion Empire]] borders that is not u
 
 A sailor at the docks gave [[The Fallen]] three mutually exclusive explanations, with no way yet to tell which is true:
 
-1. **A truce.** [[Rellyona]] and **the Emperor went way back**; they made an agreement before she died, and he has honored it since.
+1. **A truce.** [[Rellyona]] and **the Emperor went way back**; they made an agreement before she died, and he has honored it since. *(Session 12: this is essentially [[Madame Verre]]'s own account — see [[#Session 12 — Something from Nothing (September 23, 2026)|below]].)*
 2. **A facade.** The city is **secretly working with the Empire**, and its independence is theater.
 3. **Fear.** The WitchCrafters are powerful enough to **hold their own**, and the Empire won't risk provoking them.
 
@@ -45,7 +45,7 @@ The gate guards' first question to armed strangers is *"Are you escaping their r
   ![[Pasted image 20260826211841.png]]
 - **The docks** — on a river that runs down to the bay and out to the [[Expanse]]. Busy with traders; WitchCrafter goods are sought after worldwide.
 - **The SS Nap Time** — the dockside inn: three long-grounded ships (or one three-decked one, depending who's describing it) converted into an inn and tavern. **1 gp a room.** No outside beverages, officially. *(Name coined by the party and adopted as canon.)*
-- **A Temple of [[Venus]]** — confirmed in Session 11 by the [[WitchCrafters]]: **most of Pentamarone worships Venus.** Located somewhere outside the market circle; the party has **not visited it.** There is **no temple to [[Pluto]]** in the city — [[Aren Greycloak|Aren]] asked.
+- **The [[Temple of Venus]]** — confirmed in Session 11 by the [[WitchCrafters]]: **most of Pentamarone worships Venus.** There is **no temple to [[Pluto]]** in the city — [[Aren Greycloak|Aren]] asked. *(Visited in Session 12: a statue of Venus with her three orbs out front, scriptures in the entry hall, a priest's office, a centuries-old mural in the basement, and a Sunday-school library. See [[Temple of Venus]].)*
 - **A dive bar** — unnamed, in the city proper. Where the guild took the party drinking in Session 11.
 - **A large central inn** — passed over in favor of the docks. As of Session 11 the party's **food and lodging are covered by the [[WitchCrafters]]**, at an inn of their choosing.
 
@@ -53,7 +53,7 @@ The gate guards' first question to armed strangers is *"Are you escaping their r
 
 - Genuinely **magic-infused goods come only from the WitchCrafters themselves**, sold at a **guild market held once a month** — roughly **two weeks out** as of Session 10.
 - The guild **teaches open classes to the townsfolk**; show sufficient skill and you can study under a master witch. Very few reach that level.
-- The **fireworks festival** falls **at the end of the week** the party arrived. **Every guild in the city competes**, with no limits on materials or spells — and **the winning guild runs the city.** The [[WitchCrafters]] have **won every year since its inception**, which is how they came to run Pentamarone. The party has been invited to enter. See [[WitchCrafters]].
+- The **fireworks festival** falls **at the end of the week** the party arrived *(held in Session 12)*. **Every guild in the city competes**, with no limits on materials or spells — and **the winning guild runs the city.** The [[WitchCrafters]] have **won every year since its inception**, which is how they came to run Pentamarone. The party has been invited to enter. See [[WitchCrafters]].
 - **Glass is a viable arcane focus here** — [[Madame Verre]]'s own staff is glass.
 
 ## Session 10 — The Fallen Arrive (August 26, 2026)
@@ -75,12 +75,22 @@ The gate guards' first question to armed strangers is *"Are you escaping their r
 - **[[Úlfr Kveld|Úlfr]] collected his [[Bear Cloak|bear-skin cloak]]** from the market tailor.
 - On the third morning, an owl bolted down a back alley and the party found **[[Aleister the Invoker]]** cornered there by the adventurers he'd abandoned in a dungeon. He summoned **[[Cocytus]]** into the middle of a residential street, flew away, and left the party and the adventurers to kill it. **Pentamarone's first violence of the campaign, and none of it the city's fault.**
 
+## Session 12 — Something from Nothing (September 23, 2026)
+
+- **The truce, per Verre** (relayed by [[Genni]]): [[Rellyona]] and the Emperor went their separate ways after stopping the [[Great Cataclysm]] but kept a **deep mutual respect**, and the Emperor has **never encroached on the city, to honor her legacy.** Of the three dockside rumors, this is the one the city's own leadership tells. [[Aren Greycloak|Aren]]: *"We shall see how long such respect lasts."*
+- **Two cities, two Agents.** Pentamarone worships **[[Venus]]**, the Agent of Creation — most WitchCrafters honor her because they see their crafts as channeling her — while the [[Endymion Empire]] **enforces worship of [[Mars]]**, the Agent of Force.
+- **The alley aftermath:** the adventurers who cornered [[Aleister the Invoker|Aleister]] introduced themselves as **[[The Sundered Watch]]**, anti-Empire resistance fighters, and know where the party is staying. [[Madame Verre]] teleported out to examine [[Cocytus]]'s corpse.
+- **Undead:** the city has never had trouble, though the guild has heard tall tales of **haunted ruins or a haunted mansion** somewhere nearby.
+- **The [[Temple of Venus]]** was the party's main outing: scripture on the Solemn and the [[Darklords|Dark Lords]], a priest who identified [[Dogmatika]]'s church, and a basement mural with a meteor tied to [[She Who Fell Before the First Fall]].
+- **The fireworks festival** was held that night, with the [[WitchCrafters]]' show and the guild out mingling with the town. **The competition's results weren't covered.**
+
 ## Related
 
 - [[WitchCrafters]] — the witch guild that runs the city
 - [[Madame Verre]] · [[Genni]] · [[Dolly]] · [[Marka]] · [[Haine]] · [[Edel]] · [[Schmietta]] · [[Pittore]] · [[Seed]] · [[Ceramia]] — the guild members the party has met
 - [[Aleister the Invoker]] · [[Cocytus]] — the alley fight in Session 11
-- [[Venus]] — the city's principal faith
+- [[Venus]] · [[Temple of Venus]] — the city's principal faith, and its temple
+- [[The Sundered Watch]] — anti-Empire resistance fighters met in the city (Session 12)
 - [[Rellyona]] — the [[Magistus]] who founded the city
 - [[The Fourth Magic]] — the anomalous green magic present, still unexamined
 - [[Endymion Empire]] — the surrounding power that does not control it
@@ -89,4 +99,4 @@ The gate guards' first question to armed strangers is *"Are you escaping their r
 
 ## First Appeared
 
-Flagged in **Session 7** (July 15, 2026) as a magic anomaly on Simone's map. **Visited in Session 10** (August 26, 2026) — reached entirely by accident after a misfired teleport — and the party is **still there as of Session 11**, under contract to the [[WitchCrafters]].
+Flagged in **Session 7** (July 15, 2026) as a magic anomaly on Simone's map. **Visited in Session 10** (August 26, 2026) — reached entirely by accident after a misfired teleport — and the party is **still there as of Session 12**, the contract fulfilled and the [[Golden Chalice]] back in hand.

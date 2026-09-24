@@ -18,6 +18,12 @@ When [[Madame Verre]] opened the floor to the party, [[Úlfr Kveld|Úlfr]] asked
 
 She joined the guild's night out with [[Seed]], [[Edel]], and [[Marka]].
 
+## Session 12 (September 23, 2026)
+
+- **Fireworks:** she showed [[Aren Greycloak|Aren]] and [[Asha Nyvani Korré|Asha]] how she **treats and presses the gunpowder** for the guild's festival show.
+- **Úlfr was back at her forge** (Athletics) on the final research day.
+- **Her team's findings** (materials, with [[Edel]] and Úlfr) led the report on the [[Golden Chalice]]: **indestructible**, age undeterminable, and gold **too pure** for any mine — as if someone **crafted it out of the *idea* of the pure essence of gold.** *"Too pure to be made of this earth."*
+
 ## Related
 
 - [[Edel]] — her research partner

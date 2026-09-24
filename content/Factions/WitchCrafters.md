@@ -20,15 +20,15 @@ The full roster of masters was convened in Session 11, and the party's first imp
 
 | Member | Craft / Post | Notes |
 |---|---|---|
-| **[[Madame Verre]]** | **Head of the guild** — glass | Effectively runs [[Pentamarone]], **inherited from [[Rellyona]]** herself. Appears as a little girl on a floating glass throne. **Glass staff** as arcane focus. Paralyzed the entire party in Session 10 and made a deal with them in Session 11 |
-| **[[Genni]]** | **Knowledge-seeker** — the guild's scholar; her study doubles as the guild **library** | Deduced the [[Golden Chalice]]'s nondetection is **self-generated.** Grew up near **the Citadel**; her staff and her safe bear the [[Endymion Empire]]'s magic symbol |
+| **[[Madame Verre]]** | **Head of the guild** — glass | Effectively runs [[Pentamarone]], **inherited from [[Rellyona]]** herself. Appears as a little girl on a floating glass throne. **Glass staff** as arcane focus. Paralyzed the entire party in Session 10 and made a deal with them in Session 11. Her youth is **an accident of eternal-youth research** — not undead, still aging (Session 12) |
+| **[[Genni]]** | **Knowledge-seeker** — the guild's scholar; her study doubles as the guild **library** | Deduced the [[Golden Chalice]]'s nondetection is **self-generated.** Grew up near **the Citadel**; her staff and her safe bear the [[Endymion Empire]]'s magic symbol. **Second most senior.** Presented the chalice report (Session 12) |
 | **[[Marka]]** | **Calligraphy, cartography, documentation** | Believes **how a spell is written** imbues magic of its own. Drafted the party's contract. Read **[[Snorri's notebook]]** and placed its language in the [[War Rock Mountains]] |
-| **[[Haine]]** | Master witch; **keeps Verre's schedule** | The guild's voice of reason. Openly argued against the deal. Knows what Verre is chasing |
+| **[[Haine]]** | Master witch; **keeps Verre's schedule** | The guild's voice of reason. Openly argued against the deal. Knows what Verre is chasing. **Most senior** — about **a decade** directly under Verre |
 | **[[Edel]]** | **Gems, ornament, magic stones** | The only master with an easy backstory: *"I always just liked pretty things."* Verre found her |
-| **[[Schmietta]]** | **Smithing and weapons** — keeps the forge | Fled a crafting village inside the **[[Endymion Empire]]** when the army came; worked up from apprenticeships |
-| **[[Pittore]]** | Master witch | Assigned to the conjured-materials study; hasn't yet told the party her story |
+| **[[Schmietta]]** | **Smithing and weapons** — keeps the forge | Fled a crafting village inside the **[[Endymion Empire]]** when the army came; worked up from apprenticeships. Treats and presses the **gunpowder** for the fireworks |
+| **[[Pittore]]** | Master witch | Assigned to the conjured-materials study. Handles the **chemistry of the fireworks' colors** |
 | **[[Seed]]** | **Botany and horticulture** — the only master who works with **living things** | From a line of **druids in a forest up north**; left after something she won't describe. Keeps the courtyard garden |
-| **[[Ceramia]]** | Master witch | **Also appears to be a small girl** — but, unlike Verre, behaves like one |
+| **[[Ceramia]]** | Master witch | **Also appears to be a small girl** — and, unlike Verre, **really is one** (Session 12). The **newest** master; Verre took a liking to her promise |
 | **[[Dolly]]** | Receptionist / commoner staff | Cheerful, allergic to cats, walked the party back to Genni |
 
 ## Session 11 — The Contract and the Research (September 9, 2026)
@@ -78,6 +78,54 @@ They invited [[The Fallen]] to enter. **[[Marka]]** was cagey about the guild's 
 
 > *"If it goes how we want it to go, it'll be **a beautiful unveiling.**"*
 
+*(The festival was held in Session 12. Verre ultimately **declined to use the chalice**; whatever "unveiling" Marka meant remains unexplained.)*
+
+## Session 12 — The Report and the Festival (September 23, 2026)
+
+### Fireworks Prep and Tenure
+
+While the rest of the party was in the alley with [[Aleister the Invoker|Aleister]], [[Aren Greycloak|Aren]] and [[Asha Nyvani Korré|Asha]] were put to work on the **fireworks** — an informal tour, each witch showing off her part: **[[Schmietta]]** treating and pressing the gunpowder, **[[Pittore]]** explaining the chemistry behind the colors.
+
+Every master was open about why she came to [[Pentamarone]] **except [[Genni]]**. The shared story: traditional schools of magic felt **too strict and not artistic enough.**
+
+- **[[Haine]]** is the most senior — directly under [[Madame Verre]] for **about a decade.** Several of the others knew the guild by reputation long before joining.
+- **[[Genni]]** is second most senior.
+- **[[Ceramia]]** is the newest — really a young girl (*"unlike her boss"*) who *"showed a lot of promise."*
+
+### Faith
+
+The masters practice to varying degrees, but **most honor [[Venus]]**, because they understand their crafts as **channeling the Agent of Creation.** [[Marka]] asked Aren what had brought her to the group (*"a holy mission"* against the undead — *"We love a girl with a mission"*); the guild knows of no undead trouble in the city, only tall tales of **haunted ruins or a haunted mansion** nearby, and promised to keep an ear out. **[[Seed]]** asked Asha about the copy of her mother.
+
+### Offers
+
+- **Supplies for the [[White Forest]]**, if the party is set on going.
+- *"Kind of crazy how it just happened that y'all came across this seemingly very powerful item. So, maybe it's fate."*
+
+### The Truce, Per Verre
+
+Relayed by [[Genni]]: [[Rellyona]] and the Emperor parted after the [[Great Cataclysm]] with deep mutual respect, and the Emperor has **never encroached on the city, to honor her legacy.** See [[Pentamarone]].
+
+### The Report
+
+On the fourth night Genni presented the findings in Verre's office. Headlines — full detail on [[Golden Chalice]]:
+
+| Section | Team | Finding |
+|---|---|---|
+| **The chalice itself** | [[Edel]] & [[Schmietta]] (with Úlfr) | **Indestructible**; gold **too pure** to be of this earth — *"the idea of the pure essence of gold"*; age undeterminable |
+| **History** | [[Genni]] & [[Marka]] (with Aren, Asha) | Best match: a **white-dragon-worshipping clan's** ritual object from the Great Ravine of [[Caelwyrm]], lost a few centuries ago |
+| **The magic** | the whole guild | Undispellable; **all schools at once**; **nondetection covers the holder** |
+| **The copies** | [[Haine]] & [[Pittore]] (with Leif); [[Seed]] & [[Ceramia]] (with Drolta) | Objects: perfect, non-magical duplicates. Living things: hollow husks. **The cats were put down** |
+| **The cost** | — | Repeated use breeds **grandeur, superiority, a god complex** — cumulative, scaled to the request |
+| **Something from nothing** | — | No components, no ambient magic, no siphoning (unlike the [[Alchemy Jug]]). A violation of **[[Venus]]'s** domain — *"that is what makes it sinful"* |
+
+### Verre Withdraws
+
+Genni argued the chalice **shouldn't be used** for Verre's goal. **Verre agreed** — *"I think the risk is too great. And I don't want what we're working on to be tainted"* — and **returned it**, honoring the contract without exercising her right. The goal remains undisclosed. She also revealed she **knows [[Simone]]'s sand-map spell**; the guild will look for the other Spoils with it.
+
+### The Festival
+
+The festival went ahead that night. The **WitchCrafters' show** played as an animated sequence, and the guild was out mingling with the town. **The competition's results weren't covered.** Verre, in a very good mood, **invited the party back** for when *"maybe we'll be done with our project."*
+
 ## Structure & Access
 
 - **Open classes** are taught to the townsfolk of Pentamarone in each master's respective craft. Show **sufficient skill** and you can begin studying under a master witch — *"but not all are capable of getting to the level of skill that the witches require."*
@@ -95,12 +143,12 @@ The single largest unknown about this guild is now its head's motive. Overheard 
 > *"Are you sure this is a good idea? You don't really know these people, or this chalice."*
 > *"I have a good feeling about this group. And this chalice. **It's the best lead we've got.**"*
 
-**A lead toward what has not been stated to anyone.** Verre will say only that she has **one goal**, that the chalice may help her reach it, and that she will hand the chalice back once she has.
+**A lead toward what has not been stated to anyone.** Verre will say only that she has **one goal**, that the chalice may help her reach it, and that she will hand the chalice back once she has. *(Session 12: she **handed it back unused** — the risk too great, and she didn't want the project *"tainted"* — and still won't say what the goal is, *"until I'm certain of a few other things."*)*
 
 ## Ties Worth Watching
 
 - **[[Morgana]] — and [[Rellyona]].** A [[Freedale]] refugee said Morgana **worked with [[Madame Verre]]**; the guild's own masters say she worked with **[[Rellyona]]**, Verre's dead predecessor. Both accounts passed insight. Morgana also steered fleeing Freedale families toward Pentamarone as a **safe haven**, implying a long-established relationship with the guild.
-- **Two child-shaped masters.** [[Madame Verre]] and [[Ceramia]] both appear to be small girls. Ceramia acts like one; Verre very much does not. Nobody in the guild questions either.
+- **Two child-shaped masters.** [[Madame Verre]] and [[Ceramia]] both appear to be small girls. Ceramia acts like one; Verre very much does not. Nobody in the guild questions either. *(Resolved in Session 12: Ceramia **really is** a young girl; Verre's youth is an **experimental accident** — see [[Madame Verre]].)*
 - **They know about [[The Fourth Magic]] now.** [[Leif Kalanchoe|Leif]] told Verre. Her answer about the guild's own magic was expertly noncommittal — natural magic, *"whether that be arcane, whatever it may be"* — and [[Úlfr Kveld|Úlfr]]'s insight said she was meeting him exactly where he stood and no further.
 - **The Empire's symbol inside the guild.** [[Genni]]'s **staff** and the **safe under her desk** both bear the symbol of the magic the [[Endymion Empire]] uses. The party's benign reading: this is where the guild stores the **[[Keystones]]** its members need to cast legally outside the city. The less benign reading is that the guild's independence is a **front**.
 - **On the [[The Academy of Arcane Arts|Academy]]**, Genni was diplomatic — mutual respect, magic as academic study versus creative expression, *"some say they have radical overreach, but they've also held out against the Endymion Empire."* On the Empire itself she said only: ***"Yes. But I would know."*** She left before anyone could ask what she meant.
@@ -111,7 +159,7 @@ The single largest unknown about this guild is now its head's motive. Overheard 
 - [[Pentamarone]] — the guild's home city
 - [[Madame Verre]] · [[Genni]] · [[Dolly]] — members met in Session 10
 - [[Marka]] · [[Haine]] · [[Edel]] · [[Schmietta]] · [[Pittore]] · [[Seed]] · [[Ceramia]] — the masters, met in Session 11
-- [[Leif's Glass Orb]] — held by Verre for study
+- [[Leif's Glass Orb]] — held by Verre for study, returned in Session 12
 - [[The Fourth Magic]] — the anomalous magic present there
 - [[Rellyona]] · [[Magistus]] — the city's founder
 - [[Endymion Empire]] — the power that does *not* control them
@@ -119,4 +167,4 @@ The single largest unknown about this guild is now its head's motive. Overheard 
 
 ## First Appeared
 
-Discussed in **Session 7** (July 15, 2026). **Met in Session 10** (August 26, 2026), when [[The Fallen]] walked into the guild hall in [[Pentamarone]] asking for an appraisal. **The full roster of masters was met in Session 11** (September 9, 2026), and the party signed a research contract with the guild.
+Discussed in **Session 7** (July 15, 2026). **Met in Session 10** (August 26, 2026), when [[The Fallen]] walked into the guild hall in [[Pentamarone]] asking for an appraisal. **The full roster of masters was met in Session 11** (September 9, 2026), and the party signed a research contract with the guild. **The report was delivered in Session 12** (September 23, 2026).

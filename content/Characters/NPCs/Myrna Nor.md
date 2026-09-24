@@ -43,7 +43,7 @@ Myrna had a research partner named **[[Powell]]**, a skilled wizard. They parted
 ## Session 7 Developments
 
 - Hosted [[The Fallen]] at the family **beach house** in [[Lathen]], where the party met the Nor family butler, **[[Archibald]]** — an improbably powerful spellcaster who teleports the [[S.A.T.O.]] between campuses.
-- Was **hurt and annoyed** when [[Drolta Amara Tzuentes|Drolta]], [[Harlan "Red" Reed|Red]], and [[Leif Kalanchoe|Leif]] tried to break into a **locked upstairs room** — her father's private study. She refused to open it (*"you could have just asked me"*), but forgave the party after a dinner-table apology.
+- Was **hurt and annoyed** when [[Drolta Amara Tzuentes|Drolta]], [[Harlan “Red” Reed|Red]], and [[Leif Kalanchoe|Leif]] tried to break into a **locked upstairs room** — her father's private study. She refused to open it (*"you could have just asked me"*), but forgave the party after a dinner-table apology.
 - Confirmed her family runs a **cross-continental shipping / supply-chain business** through the port; may be able to arrange **passage by sea/river** toward [[Pentamarone]].
 - **S.A.T.O. tasks going forward:** [[Simone]] will trace **who donated the star-tablet [[Asha Nyvani Korré|Asha]] translated** (the artifact that got her expelled); [[Tobin]] will dig into the **[[The Seeker of the Sinful Spoils|Sinful Spoils]]** (how many, what they are). Contact via the [[Sending Stones]] (once/day).
 
@@ -53,7 +53,11 @@ Myrna had a research partner named **[[Powell]]**, a skilled wizard. They parted
 
 **She succeeded**, and sent **[[Archibald]]** through the circle, who teleported the party the last leg to the [[Nephthys]] temple and turned a two-day walk into a morning. His parting terms make her an ongoing logistics line: *"Should you need me again, just ask Myrna"* — wherever there's a circle to post to.
 
-She is now **free for a new assignment.**
+She is now **free for a new assignment.** *(She got one in Session 12; see below.)*
+
+## Session 12 Assignment (September 23, 2026)
+
+Asked for the history of **[[Marseille]]**, the place [[Aren Greycloak|Aren]] now wants to visit for its *"interesting ways of magic"* and possibly where [[Marka]] studied. No result yet. See [[Session 12 Recap — Something from Nothing#Word to the Satyrs]].
 
 ## Fellow Satyrs
 

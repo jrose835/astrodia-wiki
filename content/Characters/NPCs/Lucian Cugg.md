@@ -9,6 +9,11 @@ The party tracked down the thieves and recovered the chalice. Lucian is now trav
 - [[Asha Nyvani Korré|Asha]] suspects he is understating how valuable the chalice actually is (insight check)
 - [[Úlfr Kveld|Úlfr]] intimidated him when Lucian questioned whether Úlfr was really a fighter: *"I said I don't like to fight. Doesn't mean I'm not a fighter."*
 
+## Session 12 (September 23, 2026)
+
+- The [[WitchCrafters]]' best match for the [[Golden Chalice]]'s history is a **white-dragon-worshipping clan's ritual object**, fought over by rival clans in **the Great Ravine** — where Lucian found it. See [[Caelwyrm]].
+- At the inn, the party wondered whether Lucian **set them up** so he could watch how the chalice is used. *(Speculation only.)*
+
 ## First Appeared
 
 Session 1 — at the **Silver Tankard** tavern in [[Thornvale]]

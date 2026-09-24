@@ -20,6 +20,12 @@ She did not go to the tavern with the others. She stayed behind with Verre, and 
 
 Haine folded and left it. **What Verre is chasing, and what the chalice is a lead *toward*, remain the guild's biggest open question** — and Haine is the one person in [[Pentamarone]] who plainly already knows.
 
+## Session 12 (September 23, 2026)
+
+- **The most senior WitchCrafter**, having worked directly under [[Madame Verre]] for **about a decade.**
+- **Her team's findings** went into the guild's report on the [[Golden Chalice]]: object copies are **perfect physical duplicates, down to the imperfections, with no magic** — [[Leif Kalanchoe|Leif]]'s duplicate chalice is only gold, and would pass physical inspection. A copy **can** be enchanted afterward.
+- Whatever Verre is chasing, **the chalice is no longer part of it**: Verre returned it unused. Haine's knowledge of the goal remains the guild's best-kept secret.
+
 ## Related
 
 - [[Madame Verre]] — the person she manages, and argues with

@@ -38,7 +38,7 @@ The party found the [[Arcane Reclamation Initiative]] desk staffed by **[[Ms. Ma
 Ms. Maris offered **50 gold** for the unidentified [[Golden Chalice|chalice]]. The party declined, opting to wait for the non-detection spell to wear off (30 days). **However**, the signed disclosure means the chalice technically belongs to the Initiative now. The party has **30 days** to return it or face a "repo man."
 
 - **Lucian** agreed to the plan and said he'd find work in the meantime. The party needs a way to stay in contact with him (nobody has the Sending spell yet).
-- As they walked away, [[Harlan "Red" Reed|Red]] overheard **Tobin whisper** to Ms. Maris: *"Wasn't that a chalice? Wasn't that one of the—"* before she cut him off. Red immediately confronted them. Ms. Maris deflected, claiming Tobin was just an eager student. The party saw through her (Insight checks) but couldn't press further.
+- As they walked away, [[Harlan “Red” Reed|Red]] overheard **Tobin whisper** to Ms. Maris: *"Wasn't that a chalice? Wasn't that one of the—"* before she cut him off. Red immediately confronted them. Ms. Maris deflected, claiming Tobin was just an eager student. The party saw through her (Insight checks) but couldn't press further.
 
 ---
 

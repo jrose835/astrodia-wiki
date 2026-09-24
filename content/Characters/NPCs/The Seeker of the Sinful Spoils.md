@@ -46,12 +46,38 @@ Also in Session 10, [[Asha Nyvani Korré|Asha]] finally shared a vision she had 
 
 This is the **first sighting of the Seeker acting**, rather than kneeling or holding objects. The man is unidentified. As always, Asha **cannot tell whether her visions show the past, present, or future.**
 
+### Session 12 — "Sinful," Defined, and Two New Suspects
+
+**What makes a Spoil "sinful."** The [[WitchCrafters]]' report on the [[Golden Chalice]] (Session 12, September 23, 2026) concluded that it **generates something from nothing** — no components, no ambient arcane magic, no siphoning from elsewhere. [[Genni]]'s verdict: the chalice *"violates the laws of nature — and specifically, quite appropriately, the domain of **the Agent of Creation**"* ([[Venus]]). That, in their judgment, is what makes it **sinful.** The chalice is also **indestructible, undispellable, and hides whoever holds it from divination**, and **repeated use corrupts the drinker** with grandeur and a god complex.
+
+**Party theory — one Spoil per Agent?** *(Speculation, not established.)* If the chalice mocks Venus, perhaps each Spoil mocks an [[Agents|Agent]]:
+
+| Spoil | Candidate Agent | Status |
+|---|---|---|
+| **Chalice** | **[[Venus]]** (Creation) | Established by the WitchCrafters' report |
+| **Book** | **Mercury** (Wisdom)? | Speculation |
+| **Lance** | **[[Mars]]** (Force) or **[[Pluto]]** (Death)? | Speculation |
+| **Gown** | **[[Pluto]]** (Death)? | Speculation — [[Harlan “Red” Reed|Red]]: a white gown as a mockery of a burial shroud |
+
+The count doesn't match: **nine Agents, only four known Spoils** — the party suspects there may be more. They also wondered whether the **five blue flames** at [[Morgana's Tower]] mark the Agents targeted by Spoils (see [[Agents#The Statues at Morgana's Tower (Session 9)|Agents]]). [[Aren Greycloak|Aren]] fears a Spoil against **Pluto** — a rebuke of death meaning *unnatural, eternal life* — which briefly pointed suspicion at [[Madame Verre]] *(later found by Aren to be not undead, but the product of a failed eternal-youth experiment; whether she carries a Spoil is unknown)*.
+
+**Aleister and the sword.** The **[[The Sundered Watch|Sundered Watch]]** told the party that **[[Aleister the Invoker]]** led them into northern ruins after a rumored artifact, **took it — a sword — decided it *"wasn't going to be able to help him,"* tossed it aside, and fled.** A sword isn't on the Spoils list; the party's read is that **Aleister may be hunting the Spoils too**, and rejected the sword because it wasn't one.
+
+**Theory — is Aleister the Seeker?** *(Unresolved.)* For: he's looking for something like a Spoil, he carries **a book** (and the Academy believes the Seeker already holds one Spoil), and his hood resembles the wanted poster. Against: the poster shows **a woman in black and red**, and Aleister has **green hair.** *("That's androgynous in my mind.")*
+
+**Theory — is She Who Fell the Seeker?** *(Unresolved.)* At the [[Temple of Venus]], the party learned of **[[She Who Fell Before the First Fall]]** — per a fringe sect, **a female angel exiled from the [[Sanctuary in the Sky]]** for angering the gods, whose exile spurred the Morning Star's rebellion. The table asked aloud: *what if she's the Seeker?* A fallen woman who makes things that mock the gods.
+
+**An observation, not established:** the **Solemn** in that temple's mural is a **heavily built man with a long white beard in pale robes**, close to the man Asha saw the Seeker attacking in her Session 10 vision.
+
 ## Connections
 
 - [[Golden Chalice]] — likely one of the Sinful Spoils.
 - [[White Forest]] — where Asha's dream placed her; the party's next destination.
 - [[S.A.T.O.]] — first surfaced this figure via Tobin's Academy records.
 - [[Arcane Reclamation Initiative]] — the Academy program that may exist to deny the Seeker her Spoils.
+- [[Aleister the Invoker]] — possibly hunting the Spoils; theorized (Session 12) to be the Seeker.
+- [[She Who Fell Before the First Fall]] — theorized (Session 12) to be the Seeker.
+- [[Agents]] — the "one Spoil per Agent" theory.
 
 ## First Appeared
 

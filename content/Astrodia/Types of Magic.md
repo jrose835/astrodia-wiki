@@ -19,8 +19,9 @@ A reference summary of the four kinds of magic in [[Astrodia]], as revealed by *
 
 ### 4. The [[The Fourth Magic|Fourth Magic]] — Green
 - A newly discovered, undisclosed magic. See [[The Fourth Magic]].
-- Newer than arcane; traces the path of the [[Great Cataclysm]] (NW [[Endymion Empire]] → SE through the [[Terget Forest|Purodetapo Forest]] → Prana Mountains).
+- Newer than arcane; traces the path of the [[Great Cataclysm]] (NW [[Endymion Empire]] → SE through the [[Purodetapo Forest]] → Prana Mountains).
 - Secretly powers every major civilization in Astrodia.
+- **Origin (revealed in Session 12, per [[Madame Verre]] via Leif):** **otherworldly magic** that **leaked into Astrodia through the portal** whose opening caused the [[Great Cataclysm]]. The rift began in the **northern mountains of what is now the [[Endymion Empire]]**, was later **sealed by the [[Magistus]]**, and the green magic is **still present.** This explains why it is the newest of the four and why it follows the Cataclysm's line; the off-path hotspots remain unexplained. *(Kept within the party at Verre's request.)*
 
 ## Age Ordering
 

@@ -115,3 +115,23 @@ He **failed his dream roll** — exhaustion, and hungover besides — but was th
 - **Wild Shaped again, into a lion** — and the swashbuckler of the rival adventuring party finished the fight by **launching off his back** and driving a rapier through the beast's eye.
 
 He also caught **5 damage from [[Leif Kalanchoe|Leif]]'s Ice Knife** on the way through, and offered the [[Alchemy Jug]] at the tavern before being reminded the drinks were on the guild.
+
+### Session 12
+**Red set the direction of the night's theorizing and then took the party to church.** See [[Session 12 Recap — Something from Nothing]].
+
+**He helped describe [[Aleister the Invoker]] to [[Madame Verre]]**, on a **natural-20 perception** as helper. The pooled description: **green hair**, a **white robe with red** detailing, a **monocle**, a **book**, a **staff drawn out of the summoned creature's chest**, a summoning **sigil**, and **glowing red symbols on his hands**, a **diamond with an eye** inside it. With each detail Verre sat up straighter.
+
+**The [[Alchemy Jug]] got explained.** In the chalice report, [[Genni]] used it as the counterexample. It only *seems* to make liquid from nothing. It actually **siphons microscopic amounts of that liquid from all across the world**, so each cup of beer is less than a drop taken from a thousand cans elsewhere. The [[Golden Chalice]] doesn't siphon from anywhere, and that is what makes it **sinful**.
+
+**His religion checks produced the one-Spoil-per-Agent theory.** Back at the inn, Red led a round of religion checks, and the pattern clicked: if the chalice mocks [[Venus]]'s domain of creation, perhaps **each [[The Seeker of the Sinful Spoils|Sinful Spoil]] mocks an Agent**. His own contribution was the **gown**: *a white gown as a mockery of a burial shroud*, which would make it a Spoil against [[Pluto]]. That set [[Aren Greycloak|Aren]] worrying and pointed the party back at Verre's white dress.
+
+**The [[Temple of Venus]] was his idea.** *"Who feels like going to get religion today?"* The statue out front shows Venus with her **three orbs**, the orbs he has been seeing in his dreams. He read the entry-hall scriptures with Aren, and in the basement **he was the one who found the meteor**: a small **flaming meteor** deliberately added to the mural, which the priest tied to **[[She Who Fell Before the First Fall]]**.
+
+**He asked the priest about his dream** of the three spheres (**purple, blue, and red**) orbiting **the moon** while animals sat staring at it:
+
+- **[[The Moon]]** is thought to be **a tenth Agent**, though that's disputed. She may instead be **the protector of the Agents**, the one who *"makes sure that everything stays as it should,"* including protection from the Dark Lords, *"ideally."* *(This matches the Session 7 reading at the [[Lathen]] temple.)*
+- Perhaps the divine is **inspiring Red to create something with animals.** *"That certainly is [something that resonates]. I love animals."*
+
+**And he asked about home.** Red described the people back home carrying banners showing no Agent he recognized. The priest identified them as the **Church of [[Dogmatika]]** in the [[Closed Land]]: a new pantheon and deity separate from the Solemn, saints who perform miracles, exponential growth over the last couple of decades, and a founding about **a century or a bit more ago**, possibly around the [[Great Cataclysm]]. *"In times of great peril, people are always looking for hope."* The party's whispered follow-up: **what if Dogmatika's god and saints came through the rift too?**
+
+At the fireworks festival that night, Red showed up in the crowd **in lion form**.

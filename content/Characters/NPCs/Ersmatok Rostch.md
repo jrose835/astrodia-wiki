@@ -10,6 +10,10 @@ Ersmatok's posting in Witherbloom's magic labs makes him the group's hands-on **
 
 > *"I am my own fan... but I believe in telling a good story."*
 
+## Session 12 Assignment (September 23, 2026)
+
+Given a theory question after the [[WitchCrafters]] concluded the [[Golden Chalice]] makes **something from nothing**: **is magic conserved?** Can it be created or destroyed, or only change form? And once a type of magic exists, can it change type? No result yet. See [[Session 12 Recap — Something from Nothing#Word to the Satyrs]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Simone]] · [[Tobin]] · [[Rosie]] · [[Quintilius]] — see [[S.A.T.O.]].

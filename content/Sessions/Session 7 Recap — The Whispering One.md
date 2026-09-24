@@ -21,7 +21,7 @@ Leif described his own patron plainly: he **hears whispers**, occasionally, **in
 - **[[Aren Greycloak|Aren]]** (a cleric) doubted any cleric could undo a **warlock pact** — *"I'm not sure any cleric can heal a divine deal."*
 - Notably, Aren — who despises anything that perverts the boundary between life and death — had **no objection to Leif being a warlock**: *"Leif is fully living right now. He's not broken."* Her enmity is reserved for the undead.
 
-Leif and **[[Harlan "Red" Reed|Red]]** shared a quiet reconciliation — Red held no grudge over the deception. *"Still staff bros."*
+Leif and **[[Harlan “Red” Reed|Red]]** shared a quiet reconciliation — Red held no grudge over the deception. *"Still staff bros."*
 
 ---
 

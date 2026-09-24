@@ -31,7 +31,7 @@ Asha took the lead navigating. The next major settlement is **[[Thornvale]]**, a
 
 ### Camp Setup
 
-The party found a passable campsite ([[Harlan "Red" Reed|Red]] rolled a nature check — decent but not luxurious ground).
+The party found a passable campsite ([[Harlan “Red” Reed|Red]] rolled a nature check — decent but not luxurious ground).
 
 - **Úlfr and Aren** stayed at camp. Úlfr used his giant strength to bend trees and drape tarps, creating **two makeshift tents** — one for the women, one for the men. He pointed and said: *"For you. Leif, for us. You will go that way."* (Still operating under his misguided theory about Drolta and Leif.)
 - **Red, Drolta, Leif, and Asha** went hunting/foraging. Red and Drolta succeeded on survival checks and brought back deer and vegetables. Leif struggled (open clearing isn't his terrain) but foraged mushrooms instead. Asha served as guide.

@@ -36,7 +36,7 @@ At the [[Bow's End Tavern]], Drolta spotted a woman playing lute in the corner �
 Drolta also **failed a Wisdom saving throw** during the night at the [[University Inn]], though the specific effects were not revealed.
 
 ### Session 4
-During the Giant Frog fight at the [[Fire Jolt Café]], Drolta was **swallowed whole** by a frog before [[Leif Kalanchoe|Leif]] freed her with Ice Knife. While grappled by another frog, she used a **vampiric bite on its tongue** to heal herself for 4 HP — **[[Harlan "Red" Reed|Red]] saw her do it** and reacted with shock: *"What the fuck? What tarnation?"*
+During the Giant Frog fight at the [[Fire Jolt Café]], Drolta was **swallowed whole** by a frog before [[Leif Kalanchoe|Leif]] freed her with Ice Knife. While grappled by another frog, she used a **vampiric bite on its tongue** to heal herself for 4 HP — **[[Harlan “Red” Reed|Red]] saw her do it** and reacted with shock: *"What the fuck? What tarnation?"*
 
 In the [[Lost Library of Leith Chantos]], she dealt the killing blow to a brown bear and killed a hobgoblin with Chill Touch. She summoned her pact weapon — "The Broom of the Phoenix Queen."
 
@@ -51,7 +51,7 @@ The party reached **Level 3**.
 
 ### Session 7
 - As a fellow warlock, **reassured [[Leif Kalanchoe|Leif]]** about his patron — *"it depends on your relationship with them... it's not always bad."*
-- Joined [[Harlan "Red" Reed|Red]] and Leif in **trying to break into a locked upstairs room** at Myrna's beach house (her lockpicking failed); later **apologized to [[Myrna Nor|Myrna]]** at dinner (Persuasion with advantage, backed by Red and [[Aren Greycloak|Aren]]), smoothing things over.
+- Joined [[Harlan “Red” Reed|Red]] and Leif in **trying to break into a locked upstairs room** at Myrna's beach house (her lockpicking failed); later **apologized to [[Myrna Nor|Myrna]]** at dinner (Persuasion with advantage, backed by Red and [[Aren Greycloak|Aren]]), smoothing things over.
 - Offered to **ask her patron, [[Nephthys]], for information about [[The Whispering One]]** — the name [[Úlfr Kveld|Úlfr]] gave Leif's patron.
 - Shared more of her past en route planning: she was a **high priestess** at the [[Nephthys]] temple until [[Lady Nectaria]]'s vampires attacked it searching for *something*; she's been seeking the truth ever since. The party set the temple as their next destination (~6 days from [[Quandrix College]]).
 - Still intends to seek out the vampire dean **[[Professor Valentine]]** at [[Witherbloom College]] as a source on vampires and the [[Severance]] — deferred for now.
@@ -90,3 +90,22 @@ In the alley fight against **[[Cocytus]]**, she used her **spider climb** to sca
 She went down. **She failed her first death save** — rolled privately to the DM, at her request — before **[[Úlfr Kveld|Úlfr]]** burned his last spell slot on **Healing Word** and brought her back up for 8. She spent her next turn standing and going straight back at it: *"it fucked me up, boy."*
 
 *(Her [[Nephthys]] temple homecoming is deferred for a third session running.)*
+
+### Session 12
+**Drolta finished the living-copies research and then spoke to her goddess about the biggest secret of the night.** See [[Session 12 Recap — Something from Nothing]].
+
+**Her team's findings went into the report.** With **[[Seed]] and [[Ceramia]]**, she had worked the question of whether the [[Golden Chalice]]'s conjured creatures are alive. The answer was that they are **physically real but hollow**: they feel no pain, **don't bleed**, and have no self-preservation, emotion, or social response. Injuries that would kill or maim the original destroy them, and separated pieces and dead copies **evaporate without a trace.** The guild had already put the cats down.
+
+**At the [[Temple of Venus]] she gave the mural its religion read.** She knew the story it depicts, the Solemn and his host casting down the Morning Star and his armies, and sensed that **something in the depiction doesn't belong to it.** [[Harlan “Red” Reed|Red]] found it: a small, deliberately added **flaming meteor**, which the priest later tied to **[[She Who Fell Before the First Fall]]**.
+
+**Then she meditated and reached out to [[Nephthys]].** On the mural:
+
+> *"I do not know what this is trying to invoke. The battle between the Dark Lords and the Solemn Pantheon was even before my time. There are still many mysteries about it that the higher beings are not aware of."*
+
+Then she asked about what [[Leif Kalanchoe|Leif]] had shared earlier that day: **a portal to another world, and beings coming through it** (the party's new understanding of the [[Great Cataclysm]]). Nephthys was silent for a moment.
+
+> *"I cannot speak of this freely."*
+> *"...But continue on your path."*
+> *"Of course, my child."*
+
+*(Her [[Nephthys]] temple homecoming is deferred for a fourth session. The temple is one of the party's two candidate next destinations, the other being the [[White Forest]].)*

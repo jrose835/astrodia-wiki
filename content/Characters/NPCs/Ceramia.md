@@ -6,15 +6,20 @@ That contrast is the most useful thing the party learned about her. Where Verre 
 
 > *"I don't think I can drink yet."*
 
-Whether the two share a condition, a bloodline, or nothing at all is completely unexplained. **She is the second child-shaped master witch in a guild the party is already suspicious of.**
+Whether the two share a condition, a bloodline, or nothing at all is completely unexplained. **She is the second child-shaped master witch in a guild the party is already suspicious of.** *(Resolved in Session 12: they share nothing. Ceramia **really is a young girl**; Verre's youth is the accident of an experiment — see [[Madame Verre]].)*
 
 ## Session 11 (September 9, 2026)
 
 **Assigned, with [[Seed]], to the living copies** produced by the [[Golden Chalice]] — what they're made of, whether they are genuinely alive, and what animates them. [[Drolta Amara Tzuentes|Drolta]] joined their team for the research montage.
 
+## Session 12 (September 23, 2026)
+
+- **She really is a young girl** — *"unlike her boss."* She is the **newest** WitchCrafter, taken on because she *"showed a lot of promise"* and Verre took a liking to her.
+- **Her team's findings** (with [[Seed]] and [[Drolta Amara Tzuentes|Drolta]]) went into the report on the [[Golden Chalice]]: living copies are **physically real but hollow** — no pain, no blood, no emotion or self-preservation — and **evaporate without a trace** when destroyed. **The cats were put down**, since they aren't technically alive.
+
 ## Related
 
-- [[Madame Verre]] — the guild's other apparent child
+- [[Madame Verre]] — the guild's other apparent child (not actually one)
 - [[Seed]] — her research partner
 - [[Golden Chalice]] · [[WitchCrafters]] · [[Pentamarone]]
 

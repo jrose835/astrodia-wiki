@@ -7,7 +7,7 @@ The small town of **[[Lathen]]** has a temple dedicated to Earth on its eastern 
 In **Session 7**, this priest delivered the party's fullest account yet of the cosmology:
 
 - The **[[Solemn Pantheon]]** and the **nine canonical [[Agents]]** (some argue ten).
-- The disputed tenth, **[[The Moon]]**, protector of the Agents — and his suggestion that she may be reaching out to **[[Harlan "Red" Reed|Red]]**.
+- The disputed tenth, **[[The Moon]]**, protector of the Agents — and his suggestion that she may be reaching out to **[[Harlan “Red” Reed|Red]]**.
 - **[[Venus]]** and the meaning of her three orbs.
 - The **[[Darklords|Dark Lords]]** — fallen angels who rebelled against the Pantheon.
 

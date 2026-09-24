@@ -34,7 +34,7 @@ The six recruitable students and their wheelhouses: **Simone** (numeromancy / li
 
 At Level 3, the table went around and re-declared characters, secrets, and who-knows-what:
 
-- **[[Harlan "Red" Reed|Red]]** — druid, now **Circle of the Moon**; expect a lot more wild shape.
+- **[[Harlan “Red” Reed|Red]]** — druid, now **Circle of the Moon**; expect a lot more wild shape.
 - **[[Leif Kalanchoe|Leif]]** — a **Warlock who has accepted it**, **Pact of the Chain**, with his familiar **Howl**. Squishy. *(The table joked that "coming out as a warlock" was its own kind of coming out.)*
 - **[[Úlfr Kveld|Úlfr]]** — the Goliath skald delivered his own introduction aloud:
 
@@ -55,11 +55,11 @@ The party teleported to the [[Quandrix College|Quandrix]] campus and immediately
 ## Ambush in the Woods
 ![[Pasted image 20260722203648.png]]
 
-On the very first stretch out of the Quandrix forest, [[Harlan "Red" Reed|Red]] — traveling with a small aviary now (his raven **Bama**, Leif's owl **Howl**, and [[Asha Nyvani Korré|Asha]]'s hawk **Astra**) and having cast **Speak with Animals** — caught a **bird-call that was wrong**: a person mimicking a signal to someone ahead. He sent Bama to scout, and the raven found a man in the trees. It was an ambush.
+On the very first stretch out of the Quandrix forest, [[Harlan “Red” Reed|Red]] — traveling with a small aviary now (his raven **Bama**, Leif's owl **Howl**, and [[Asha Nyvani Korré|Asha]]'s hawk **Astra**) and having cast **Speak with Animals** — caught a **bird-call that was wrong**: a person mimicking a signal to someone ahead. He sent Bama to scout, and the raven found a man in the trees. It was an ambush.
 
 Combat broke out against a five-strong bandit crew — **the Eyes** (their archer/lookout, barely a fighter), **the Slicer** and **the Cutthroat** (dagger duelists), a hulking **Muscle**, and eventually their **Boss**, called in as reinforcement. Highlights:
 
-- **[[Harlan "Red" Reed|Red]] wild-shaped into a giant spider** — and it worked *too* well. **[[Aren Greycloak|Aren]]**, viscerally repulsed, spent much of the fight hurling **Sacred Flame at her own ally**, muttering *"abominations should not be tolerated."* Red's giant-spider **poison bites finished off both the Eyes and the Slicer**.
+- **[[Harlan “Red” Reed|Red]] wild-shaped into a giant spider** — and it worked *too* well. **[[Aren Greycloak|Aren]]**, viscerally repulsed, spent much of the fight hurling **Sacred Flame at her own ally**, muttering *"abominations should not be tolerated."* Red's giant-spider **poison bites finished off both the Eyes and the Slicer**.
 - **[[Úlfr Kveld|Úlfr]]** deliberately **held his rage in check** at first, taking hits in stride and swinging **[[Leith Chantos's Legacy]]** (his new sentient greataxe, which has a **cleave**), before finally letting the rage loose on the Muscle.
 - **[[Leif Kalanchoe|Leif]]** dropped the Eyes and Cutthroat with **Tasha's Hideous Laughter** and chipped away with **Eldritch Blast**; **[[Drolta Amara Tzuentes|Drolta]]** worked **Inflict Wounds, Hex, and Mind Sliver**; **[[Asha Nyvani Korré|Asha]]** rained **Fire Bolt** and sent Astra diving in.
 - **[[Asha Nyvani Korré|Asha]]** used a **Portent** roll to turn one of Úlfr's misses into a hit; he thanked her with **Bardic Inspiration**. Úlfr also spent charges of **[[Snorri's notebook]]** to shave damage off incoming attacks.
@@ -80,7 +80,7 @@ The party made camp in the trees. With the Satyr rolls now ticking each day for 
 The party relayed the Sinful Spoils theory to **[[Tobin]]** via the [[Sending Stones]] — and promptly ran into the stones' **25-word limit**, forcing a telegram-style message (*"...spoils are: dress, lance, book, chalice. Tobin, keep eye out for..."*). Tobin replied: *"Will do — will continue to check what the Academy knows."*
 
 ### On-the-road conversations
-- **[[Harlan "Red" Reed|Red]]** tried to make peace with **[[Aren Greycloak|Aren]]** over the spider, promising to avoid the form and reminding her *"it's me, I'm your friend."* Aren gave him nothing: *"Spiders are abominations. They must be dealt with."* Clearly old trauma she won't discuss.
+- **[[Harlan “Red” Reed|Red]]** tried to make peace with **[[Aren Greycloak|Aren]]** over the spider, promising to avoid the form and reminding her *"it's me, I'm your friend."* Aren gave him nothing: *"Spiders are abominations. They must be dealt with."* Clearly old trauma she won't discuss.
 - **[[Leif Kalanchoe|Leif]]** and **[[Drolta Amara Tzuentes|Drolta]]** traded dreams and a bit of **warlock solidarity**; Drolta confided her fear of finding devastation (or worse, someone turned) at her old temple, and resolved to warn the group to stay vigilant for vampires. Leif worried aloud that the Whispering One might be reaching for Howl, and Drolta urged him to ask **[[Nephthys]]** about it.
 
 ---
@@ -123,7 +123,7 @@ The front door was locked and unyielding. Spotting a **third-floor balcony**, **
 | **Greataxe** (bandit Muscle) | To sell — Freedale smithy |
 | **Longbow** (the Eyes) | To sell |
 | **4 daggers** (Cutthroat & Slicer) | To sell |
-| **Inspiration** → [[Harlan "Red" Reed|Red]] | From a Nat 20 dream roll |
+| **Inspiration** → [[Harlan “Red” Reed|Red]] | From a Nat 20 dream roll |
 | **Bardic Inspiration** → [[Asha Nyvani Korré|Asha]] | From [[Úlfr Kveld|Úlfr]], in thanks for a Portent-assisted hit |
 
 ---
@@ -134,7 +134,7 @@ The front door was locked and unyielding. Spotting a **third-floor balcony**, **
 2. **The [[The Seeker of the Sinful Spoils|Sinful Spoils]] identified** — [[Asha Nyvani Korré|Asha]]'s dreams point to **chalice, lance, book, and a white gown**, wielded by **two mysterious women** (a **black-and-red winged, taloned figure** and a **godly figure in white**) — *neither* matching the Academy's wanted poster. Tobin is digging.
 3. **[[Drolta Amara Tzuentes|Drolta]]'s Vampire Dream** — a loved one from the [[Nephthys]] temple, now fanged and red-eyed. Vampires may still hold the temple the party is walking toward.
 4. **The [[The Whispering One]] & Howl** — Leif's patron may be reaching through his **owl familiar** (yellow eyes, the voice speaking *as* Howl). Drolta will consult [[Nephthys]].
-5. **[[Aren Greycloak|Aren]]'s Spider Phobia vs. [[Harlan "Red" Reed|Red]]'s new form** — her established, violent aversion to spiders (see Sessions 0 & 6) now collides with Red's **Circle of the Moon** giant-spider shape, straining their bond. She refuses to discuss the root of it.
+5. **[[Aren Greycloak|Aren]]'s Spider Phobia vs. [[Harlan “Red” Reed|Red]]'s new form** — her established, violent aversion to spiders (see Sessions 0 & 6) now collides with Red's **Circle of the Moon** giant-spider shape, straining their bond. She refuses to discuss the root of it.
 6. **The Escaped Bandit Boss** — fled *toward* someone waiting in the woods (per Aren). A camp, an accomplice, or something more?
 7. **The White Forest Curse — firsthand** — Freedale confirms **vanishing-then-returning children** and **whitening trees** *preceded* the vines. New detail for the [[White Forest]] mystery.
 8. **S.A.T.O. tasks running** — [[Tobin]] (Sinful Spoils) and [[Simone]] (Asha's star-tablet donor) roll daily; the [[Sending Stones]]' 25-word cap complicates coordination.

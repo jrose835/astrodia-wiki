@@ -1,17 +1,17 @@
 ![[Pasted image 20260217223903.png]]
 
-Leif Kalanchoe is an orc druid of the Unending Sky Clan who make their home in the Purodetapo Forest, just north of the [[War Rock Mountains]] (south of the [[Terget Forest]]). While life in the forest isn't always easy (even the vegetation has teeth!), Leif has had a comfortable and happy life thus far. He lives with his extended family of parents, grandparents, aunts/uncles, cousins, and 3 younger sisters who he would do anything for. While he isn't caring for his sisters, he's often practicing magic with his beloved grandmother, perfecting a recipe, or meditating when he can find a quiet moment alone.
+Leif Kalanchoe is an orc druid of the Unending Sky Clan who make their home in the [[Purodetapo Forest]], just north of the [[War Rock Mountains]] (south of the [[Terget Forest]]). While life in the forest isn't always easy (even the vegetation has teeth!), Leif has had a comfortable and happy life thus far. He lives with his extended family of parents, grandparents, aunts/uncles, cousins, and 3 younger sisters who he would do anything for. While he isn't caring for his sisters, he's often practicing magic with his beloved grandmother, perfecting a recipe, or meditating when he can find a quiet moment alone.
 
 Leif has always been a bit of a homebody, but a recent mysterious illness affecting his sister's mind has set him off on the road to [[The Academy of Arcane Arts]], where he hopes to find a diagnosis and cure. His grandmother trained him in druidic magic and gave him a ring of twigs to aid in healing before he departed. *(This is the story Leif tells — but it is a **ruse**; see [[Leif Kalanchoe#The Warlock Reveal (Session 6)|The Warlock Reveal]] below.)*
 
 ## Companions
 
-**[[Howl]]** - Leif's owl companion, found injured in the [[Terget Forest|Purodetapo Forest]] and now understood to be his Pact of the Chain familiar. **[[The Whispering One]] spoke through her in Session 8**, and **[[Aleister the Invoker]] recognized her on sight in Session 11.** She also brought Leif **[[Leif's Glass Orb|the glass orb]]** he uses as a focus. Nobody knows what she is.
+**[[Howl]]** - Leif's owl companion, found injured in the [[Purodetapo Forest]] and now understood to be his Pact of the Chain familiar. **[[The Whispering One]] spoke through her in Session 8**, and **[[Aleister the Invoker]] recognized her on sight in Session 11.** She also brought Leif **[[Leif's Glass Orb|the glass orb]]** he uses as a focus. *(Revealed in Session 12: Howl is **a servant of [[The Whispering One|Sorath]]**, Leif's patron; beyond that, nobody knows what she is.)*
 
 ## Session Events
 
 ### Session 0
-Leif boarded a ship heading to [[Artmegía]] where he met [[Harlan "Red" Reed|Red]], bonding over their shared druidic practice. Red offered him some homemade whiskey—Leif failed his Constitution check spectacularly. At the village inn, Leif noticed [[Drolta Amara Tzuentes|Drolta's]] fangs when showing his neck scars from a carnivorous plant attack.
+Leif boarded a ship heading to [[Artmegía]] where he met [[Harlan “Red” Reed|Red]], bonding over their shared druidic practice. Red offered him some homemade whiskey—Leif failed his Constitution check spectacularly. At the village inn, Leif noticed [[Drolta Amara Tzuentes|Drolta's]] fangs when showing his neck scars from a carnivorous plant attack.
 
 ### Session 1
 At camp, Leif was shy about sharing stories, saying his experiences felt like "memories, not stories." He mentioned having an uncle who is a traveler and tells wonderful stories when he returns for winter. He shared that he follows [[Neptune]], the Agent of Life—his clan honors Neptune through their actions.
@@ -28,7 +28,7 @@ At [[The Academy of Arcane Arts|the Academy]], Leif used a **cogwork archivist**
 ### Session 4
 Leif freed [[Drolta Amara Tzuentes|Drolta]] from a Giant Frog's stomach with **Ice Knife**, cutting the frog open. In the [[Lost Library of Leith Chantos]], he used **Speak with Animals** to negotiate passage through a brown bear's cave. When he tried to persuade the bear to let them take a magical amulet from a skeleton in the stream, the negotiation failed catastrophically (d100 roll: 1) and the bear attacked.
 
-**Mystery**: [[Harlan "Red" Reed|Red]], [[Asha Nyvani Korré|Asha]], and [[Drolta Amara Tzuentes|Drolta]] each independently noticed something **unusual about how Leif casts Starry Wisp** — it looks different from how other druids cast it. Each received private DM messages. Leif insists it looks the same as always.
+**Mystery**: [[Harlan “Red” Reed|Red]], [[Asha Nyvani Korré|Asha]], and [[Drolta Amara Tzuentes|Drolta]] each independently noticed something **unusual about how Leif casts Starry Wisp** — it looks different from how other druids cast it. Each received private DM messages. Leif insists it looks the same as always.
 
 ### Session 6
 In the [[Lost Library of Leith Chantos]], Leif tried on and kept [[Leith Chantos]]'s **black robes of mourning** (the party later realized these were Leith's garments mourning his dead wife [[Una]]). During the [[The Spider Pit|spider pit]] fight at [[Una]]'s grave, his **[[Entangle]]** locked down the remaining giant spiders after [[Drolta Amara Tzuentes|Drolta]] eradicated the swarm. The party reached **Level 3** after returning to [[The Academy of Arcane Arts|the Academy]].
@@ -38,7 +38,7 @@ At [[Myrna Nor|Myrna's]] safehouse in [[Lathen]], the [[S.A.T.O.]] revealed Simo
 The party urged Leif to **commune** with the voices to learn the truth. [[Drolta Amara Tzuentes|Drolta]], a fellow warlock, offered to help him, but warned she **can't come between him and a patron** if one exists. The next move is to take the [[Golden Chalice]] to the [[White Forest]] — and Leif's own homeland sits in the [[Great Cataclysm]]'s path. Leif joined the party in adopting the name **[[The Fallen]]**.
 
 ### Session 7
-Still processing the reveal, Leif described his patron to the party: he hears **whispers in a language he cannot understand**, occasionally, in his head — that is all he knows. [[Aren Greycloak|Aren]] doubted any cleric could heal a **warlock pact**, but had no objection to Leif himself (*"he's fully living... he's not broken"*). Leif and [[Harlan "Red" Reed|Red]] reconciled over the deception — *"still staff bros."*
+Still processing the reveal, Leif described his patron to the party: he hears **whispers in a language he cannot understand**, occasionally, in his head — that is all he knows. [[Aren Greycloak|Aren]] doubted any cleric could heal a **warlock pact**, but had no objection to Leif himself (*"he's fully living... he's not broken"*). Leif and [[Harlan “Red” Reed|Red]] reconciled over the deception — *"still staff bros."*
 
 Earlier, Leif had asked **[[Úlfr Kveld|Úlfr]]** to **name his unknown patron**. At dinner in [[Lathen]], Úlfr delivered: he named the entity **[[The Whispering One]]** — a working name, drawn from his people's belief in a time before names when older, vast powers spoke the world into being. Drolta offered to ask her own patron, [[Nephthys]], for more information about it. Leif recognized the [[Unseen Servant]] spell used by the butler [[Archibald]] over the meal.
 
@@ -64,7 +64,7 @@ He was then **conspicuously cheap about lodging** ([[Aren Greycloak|Aren]] had t
 **He drank from the chalice and conjured a second [[Golden Chalice]]** — the one result that suggests the cup's *objects* may be genuinely real, and the origin of the party's plan to leave decoy chalices behind them.
 
 ### Session 11
-**Leif rolled a natural 20 on Persuasion and it wasn't the roll that mattered.** Arguing for the [[WitchCrafters]] to house the party, he caught [[Madame Verre]]'s eye — and what she was actually looking at was **[[Leif's Glass Orb|the glass orb]]** on his staff. Asked about it, he explained it was his spellcasting focus, that he's *"technically a warlock, although I'm coming to terms with it,"* and that **[[Howl]] brought it to him in the [[Terget Forest|Purodetapo Forest]].** Verre went still, said *"the Purodetapo Forest, you say,"* and told [[Marka]] to **give the party whatever they wanted.** Free lodging, no further discussion.
+**Leif rolled a natural 20 on Persuasion and it wasn't the roll that mattered.** Arguing for the [[WitchCrafters]] to house the party, he caught [[Madame Verre]]'s eye — and what she was actually looking at was **[[Leif's Glass Orb|the glass orb]]** on his staff. Asked about it, he explained it was his spellcasting focus, that he's *"technically a warlock, although I'm coming to terms with it,"* and that **[[Howl]] brought it to him in the [[Purodetapo Forest]].** Verre went still, said *"the Purodetapo Forest, you say,"* and told [[Marka]] to **give the party whatever they wanted.** Free lodging, no further discussion.
 
 **He worked with [[Haine]] and [[Pittore]]** on what the chalice's conjured objects are made of — his claim on the job being that the duplicate [[Golden Chalice]] was his — and opened the montage with a **natural 20 on Perception** comparing the two cups.
 
@@ -81,21 +81,37 @@ He fought the rest of the encounter on **druid spells only** — a ruling that h
 
 *(Bookkeeping: his D&D Beyond sheet was missing its druid features, and **Magic Stone** was mistakenly taken as a warlock cantrip — corrected at the table, freeing up a warlock cantrip pick.)*
 
+### Session 12
+**Leif came out of the alley badly shaken**, apologizing over and over for running off without his focus and putting everyone in danger; the party told him he was being too hard on himself. **[[Howl]]** landed back on his shoulder and, asked how she knew [[Aleister the Invoker|Aleister]], whispered ***"Bad man"*** and told him the rest privately.
+
+**He got his staff back.** When [[Madame Verre]] heard the party's description of Aleister, she vanished to go examine [[Cocytus]]'s corpse, reappearing just long enough to **toss Leif his staff and [[Leif's Glass Orb|orb]]** across the room. *"I'll never be without my staff again."* He then tried to return the dagger [[Aren Greycloak|Aren]] bought him; **she told him to keep it** (*"Never leave yourself defenseless"*). Leif admitted that when his Eldritch Blast fizzled, *"I felt the spirit of Aren telling me, I told you so."*
+
+**The private audience.** The morning after the chalice report, Leif went to Verre's office with Aren, who stepped out when Verre asked whether he wanted company; Leif chose to have the conversation **with Howl present** (*"I think it's time that we knew each other more"*). What Verre learned from the orb itself has **not been disclosed**. What Leif came out with, he shared with [[The Fallen]] in a private room with the water running:
+
+- **His patron's name is *Sorath*** *(as heard — unconfirmed)*, and **Howl told him.** **Howl is Sorath's servant.**
+- **Aleister has fought Sorath before**, which is why Howl reacted to him with rage and then submission. *"I don't know if he's also my enemy, but now he's really my enemy."*
+- **Per Verre, he unknowingly made a pact with something not of this world**, which is probably living in the Purodetapo Forest, the same forest he told Aleister about.
+- **He can contact Sorath "at another time"** through Howl, if he opens his mind. He admitted that in most of his dreams he has been trying to run away.
+- **The [[Great Cataclysm]] was caused by people opening a portal to another world.** Verre told him **not** to share this; he told the party anyway, and it is **kept within the party at Verre's request.**
+
+**At the fireworks festival** he found Verre in a good mood and asked the follow-ups he'd been too stunned to ask (*"Listen, I was very stunned"*): the Cataclysm **began in the northern mountain range of what is now the [[Endymion Empire]]** and traveled southeast; the rift **was sealed by the [[Magistus]]**, which Verre let slip (*"Ooh. I don't think I was supposed to say that"*); and the leftover green magic **is from the original leak** and still present across Astrodia.
+
 ## Leif's Patron — The Whispering One
 
-As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. Its **true name is still unknown**. What little is established:
+As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. *(Revealed in Session 12: its true name is ***Sorath*** — spelling as heard, unconfirmed.)* What is established:
 
-- It contacted Leif **while he meditated** in the [[Terget Forest|Purodetapo Forest]], in the [[Great Cataclysm]]'s path.
+- It contacted Leif **while he meditated** in the [[Purodetapo Forest]], in the [[Great Cataclysm]]'s path.
 - It speaks a **language matching the creature imprisoned in [[The Orb]]**, tying it to [[The Fourth Magic]].
 - Leif hears it only as **untranslatable whispers**; he never knowingly agreed to a pact.
 - [[Drolta Amara Tzuentes|Drolta]] will consult [[Nephthys]]; [[Úlfr Kveld|Úlfr]] prayed to his own goddess for its true name.
-- **As of Session 11, [[Madame Verre]] is investigating it** — at Leif's request, for free, in exchange for nothing, holding **[[Leif's Glass Orb|his staff and orb]]** while she does.
+- **As of Session 11, [[Madame Verre]] is investigating it** — at Leif's request, for free, in exchange for nothing, holding **[[Leif's Glass Orb|his staff and orb]]** while she does. *(Staff and orb returned in Session 12.)*
+- **Session 12:** it is **not of this world**, per Verre, and probably came through the [[Great Cataclysm]]'s rift; it **probably lives in the Purodetapo Forest**; **[[Howl]] is its servant**; [[Aleister the Invoker]] has fought it; Leif can reach it through Howl "at another time" by opening his mind. What it wants is unknown.
 
 ## The Warlock Reveal (Session 6)
 
 Leif's secret was **exposed to the party** in [[Lathen]] when [[Simone]]'s [[The Fourth Magic|map of magic]] reacted to him. It is no longer hidden within [[The Fallen]] — though still not public knowledge beyond them.
 
 - **Leif is secretly a Warlock** (he took a Druidic background as cover). Simone proved it by **commanding him to cast Eldritch Blast**, which worked.
-- He has been **hearing voices** he cannot understand — in the **same language** as the creature trapped in **[[The Orb]]**. The voices began **recently, after meditating** in his home **[[Terget Forest|Purodetapo Forest]]**, which lies directly in the [[Great Cataclysm]]'s path.
+- He has been **hearing voices** he cannot understand — in the **same language** as the creature trapped in **[[The Orb]]**. The voices began **recently, after meditating** in his home **[[Purodetapo Forest]]**, which lies directly in the [[Great Cataclysm]]'s path.
 - He **fears he made a pact unknowingly** — that he contacted something while meditating. His grandmother taught him magic; he has told almost no one.
 - **The "cure for his sister" story was a ruse.** The illness "affecting his sister's mind" and his hunt for a diagnosis at the [[The Academy of Arcane Arts|Academy]] were a **cover** to disguise the truth: *Leif himself* is the one hearing voices and losing his grip on what's happening to him. His Session 3 search of the [[Biblioplex]] for "**maladies of the mind**" was really research into **his own condition**, not a sibling's.

@@ -15,6 +15,10 @@ She joined the guild's night out at a [[Pentamarone]] dive bar with [[Seed]], [[
 > *"Is that due to your magic, or to actual effort?"*
 > *"Magic is effort, as I'm sure you know."*
 
+## Session 12 (September 23, 2026)
+
+**Her team's findings** (materials, with [[Schmietta]] and [[Úlfr Kveld|Úlfr]]) opened the guild's report on the [[Golden Chalice]]: **indestructible**, **pure gold that is *too* pure** — no imperfections at all — and **age undeterminable**, new or prehistoric. The dating she was assigned came back empty: the chalice shows no wear to date. Its likely origin came from the records team instead (see [[Caelwyrm]]).
+
 ## Related
 
 - [[Schmietta]] — her research partner on the chalice's materials

@@ -18,6 +18,11 @@ She didn't expect to fit in anywhere, least of all a guild of crafters, since he
 
 Seed joined the guild's night out at a [[Pentamarone]] dive bar with [[Edel]], [[Schmietta]], and [[Marka]], where the party's two plant enthusiasts found each other: [[Úlfr Kveld|Úlfr]] pointed at [[Leif Kalanchoe|Leif]] — *"this big green guy here likes plants too. We thought he was a druid for a while, but I guess not."*
 
+## Session 12 (September 23, 2026)
+
+- **Asked [[Asha Nyvani Korré|Asha]] about the copy** of the woman from the library. Asha confirmed it was her **mother**. Asha explained her own **expulsion** (magic she "shouldn't have been doing," and going into the [[White Forest]]); her mother **went missing after that**, and Asha believes she is **in the White Forest.** The guild offered **supplies for the forest.**
+- **Her team's findings** (living copies, with [[Ceramia]] and [[Drolta Amara Tzuentes|Drolta]]) went into the report on the [[Golden Chalice]]: hollow, bloodless, emotionless husks that evaporate when destroyed. **The cats were put down.** To Asha, directly: *the copy is not your mother, has no connection to your mother, and feels nothing.*
+
 ## Related
 
 - [[Ceramia]] — her research partner on the living copies

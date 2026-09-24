@@ -4,7 +4,7 @@ All magic is strictly monitored within the borders of the [[Empire]]. Spellcaste
 
 The Empire is ruled from the **Citadel** by **Emperor Endymion** — revealed in Session 7 to be one of the **[[Magistus]]**, the spellcasters who stopped the **[[Great Cataclysm]]**, and the **only Magistus known to still be alive**. He is currently marching an army to **unify the continent**, and is considered possibly the **most powerful spellcaster in the world** — which is why no one dares ask questions about the Magistus, or about how the green **[[The Fourth Magic|fourth magic]]** now powers his Empire from the Citadel.
 
-Notably, **[[Pentamarone]]** — founded by *another* Magistus, **[[Rellyona]]** — sits inside the Empire's borders yet **outside its jurisdiction**. Whether that reflects a falling-out among the Magistus or an **old truce between Rellyona and the Emperor** is exactly what the party can't yet determine (see [[Pentamarone]] for the three competing rumors).
+Notably, **[[Pentamarone]]** — founded by *another* Magistus, **[[Rellyona]]** — sits inside the Empire's borders yet **outside its jurisdiction**. Whether that reflects a falling-out among the Magistus or an **old truce between Rellyona and the Emperor** is exactly what the party can't yet determine (see [[Pentamarone]] for the three competing rumors). *(Session 12: [[Madame Verre]]'s account, via [[Genni]], is the truce — the two parted with deep mutual respect, and the Emperor has never encroached on the city to honor Rellyona's legacy.)*
 
 ## Session 10 — First Sighting on the Ground (August 26, 2026)
 
@@ -15,3 +15,10 @@ Notably, **[[Pentamarone]]** — founded by *another* Magistus, **[[Rellyona]]**
 - Pentamarone's residents were unbothered: **routine patrols**, they say, which *"know not to get close to the city."*
 - Confirmed by a trader at the docks: outside a sanctioned town's borders, being caught casting **unauthorized magic without [[Keystones|keystone]] authority** means the army makes it your problem.
 - Unsettling detail from inside Pentamarone: the **safe in [[Genni]]'s study** and **Genni's own staff** both bear **the symbol of the magic the Empire uses.** The benign reading is guild-held keystones; the other reading is that the Empire's reach inside the "free" city is further than advertised.
+
+## Session 12 — Religion, Resistance, and the Cataclysm's Origin (September 23, 2026)
+
+- **The Empire enforces worship of [[Mars]], the Agent of Force** — found by [[Aren Greycloak|Aren]] in the [[Temple of Venus]] library. Neighboring [[Pentamarone]] worships **[[Venus]]**. The two powers have two different patron Agents.
+- **Organized resistance exists.** The adventurers who cornered [[Aleister the Invoker|Aleister]] in Pentamarone call themselves **[[The Sundered Watch]]** *(name as heard — unconfirmed)*: *"a group of resistance fighters against the Endymion Empire. So we kind of go from town to town."* They first met Aleister in a town **far to the north**, and lost two friends in **undead-infested ruins** there.
+- **The [[Great Cataclysm]] began here.** Per [[Madame Verre]], it started in the **northern mountain range of what is now the Endymion Empire** and **travelled southeast** across Astrodia — matching [[The Fourth Magic|the green line]] on Simone's map. She also let slip that the Cataclysm was a **portal to another world**, and that **the [[Magistus]] sealed the rift.** *(She didn't say which of them; the Emperor is one of the Magistus.)*
+- **Genni's account of the truce** — see above and [[Pentamarone]].

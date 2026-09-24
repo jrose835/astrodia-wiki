@@ -40,6 +40,10 @@ That a near-perfect roll produced only this was itself the takeaway:
 
 Tobin remains the most exposed Satyr — now investigating the most guarded thing at his own workplace, on behalf of the people his office is trying to repossess an artifact from.
 
+## Session 12 — Still on the Oracle (September 23, 2026)
+
+When the party sent out a new round of Satyr tasks, Tobin's **Oracle** assignment was kept as **ongoing**. No new report. The repossession clock is now about **10 days**. See [[Session 12 Recap — Something from Nothing#Word to the Satyrs]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Simone]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]]. Related: [[Hall of Oracles]] · [[Arcane Reclamation Initiative]] · [[Golden Chalice]].

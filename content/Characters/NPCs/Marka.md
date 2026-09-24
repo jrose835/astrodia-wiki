@@ -10,7 +10,7 @@ Marka's thesis is that **a spell is not only what it says but how it is written.
 
 ## Background
 
-She studied at the **Grand Spellbook Tower in Marcell** *(name as heard at the table in Session 11 — unconfirmed)* and left because it didn't suit her: *"I felt it a bit too — I don't know. Just didn't really vibe with me."* She went looking, ended up in [[Pentamarone]], and met [[Madame Verre]].
+She studied at the **Grand Spellbook Tower in "Marcell"** *(name as heard at the table in Session 11; possibly [[Marseille]], unconfirmed)* and left because it didn't suit her: *"I felt it a bit too — I don't know. Just didn't really vibe with me."* She went looking, ended up in [[Pentamarone]], and met [[Madame Verre]].
 
 ## Session 11 — The Contract and the Notebook (September 9, 2026)
 
@@ -36,6 +36,12 @@ Her theory: **power can be imparted into an object subconsciously**, by whoever 
 > *"Sticks and stones may break your bones, but words can never hurt me."*
 > *"I strongly disagree."*
 
+## Session 12 (September 23, 2026)
+
+- **Asked [[Aren Greycloak|Aren]] what brought her to the group**, having noticed she'd been helpful all week but hardly said a word. Aren: a **holy mission** to cleanse the world of undead. *"We love a girl with a mission."*
+- **Her team's findings** (records, with [[Genni]], Aren, and [[Asha Nyvani Korré|Asha]]) went into the report on the [[Golden Chalice]]: the best match is a **white-dragon-worshipping clan's ritual object** from the Great Ravine of [[Caelwyrm]], fought over by rival clans and lost a few centuries ago.
+- **Her old school is now on Aren's list.** After a private audience with [[Madame Verre]], Aren wants to visit **[[Marseille]]**, possibly Marka's "Marcell", for *"interesting ways of magic."*
+
 ## Related
 
 - [[WitchCrafters]] — her guild · [[Madame Verre]] — her head
@@ -43,6 +49,7 @@ Her theory: **power can be imparted into an object subconsciously**, by whoever 
 - [[Snorri's notebook]] — the object she read
 - [[Golden Chalice]] — the artifact under contract
 - [[Pentamarone]] — her adopted city
+- [[Marseille]]: possibly where she studied
 
 ## Fellow WitchCrafters
 

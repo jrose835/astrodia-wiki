@@ -12,7 +12,7 @@ At the village, Asha searched for signs of her mother (investigation 18)—no le
 
 Asha explained to the group that in the [[Solemn Pantheon|Solemn and Beyond]] cosmology, the [[Agents]] are like "the hands of God"—each managing a domain. Believing in one Agent essentially means believing in all of them.
 
-Before bed, Asha searched her **mother's notebook** prompted by [[Harlan "Red" Reed|Red's]] dream about three spheres. She rolled a **Nat 20** and found a **triangle of orbs** drawn in the notebook, colored red, blue, and purple, with the word **"[[Venus]]"** written next to it. She has not shared this discovery with the group.
+Before bed, Asha searched her **mother's notebook** prompted by [[Harlan “Red” Reed|Red's]] dream about three spheres. She rolled a **Nat 20** and found a **triangle of orbs** drawn in the notebook, colored red, blue, and purple, with the word **"[[Venus]]"** written next to it. She has not shared this discovery with the group.
 
 Asha rolled **insight on [[Lucian Cugg]]**—he seems genuine about being robbed, but she suspects he's understating how valuable the [[Golden Chalice]] actually is.
 
@@ -98,3 +98,26 @@ She also tried to get [[Madame Verre]]'s anti-aging secret out of her and **fail
 **She has now read both of her books**, delivered privately by the DM and **not yet shared with the party**: the history of the Greater [[Endymion Empire]] on the first night, and ***The Biography of [[Rellyona]]*** on the third.
 
 When [[Howl]] bolted, Asha **stayed at the guild hall with [[Aren Greycloak|Aren]]** to keep eyes on the chalice, and missed the fight with [[Cocytus]].
+
+### Session 12
+**Asha opened the session at the guild hall, and told the [[WitchCrafters]] more than she has told most people.** See [[Session 12 Recap — Something from Nothing]].
+
+**She explained her mother.** When **[[Seed]]** asked about the copy of the woman from the library, Asha confirmed it was her **mother**. She told them she was **expelled** for doing magic she "shouldn't have been doing" and for going into the [[White Forest]], for reasons that *"don't really add up, because I'm not the only one who's done this."* Her mother went missing after that, and Asha believes she is **in the White Forest**. The WitchCrafters offered to **provide supplies for the forest** if the party goes.
+
+**She finished the montage on History** and sat on the history team with [[Genni]], [[Marka]], and [[Aren Greycloak|Aren]]. The report traced the [[Golden Chalice]] to **dragon-worshipping clans** of [[Caelwyrm]]: a white-dragon clan's ritual object that could **conjure whatever the dragon required**, fought over in the region of **the Great Ravine** and last recorded **a few centuries ago**. It's unconfirmed that this is the same object.
+
+**Her idea: enchant the copy.** When the report established that chalice copies are physically perfect but carry no magic, Asha proposed making a mundane duplicate and then **imbuing it with magic of your choosing**. Genni confirmed it would work. It sits on the party's list of untested experiments, possibly as a **decoy** for the [[The Academy of Arcane Arts|Academy]].
+
+The report was blunt with her, too: *the copy is not your mother, has no connection to your mother, and feels nothing.*
+
+**At the [[Temple of Venus]] she read the mural's history.** It shows the Solemn and his host casting the Morning Star's armies down to earth. Her read:
+
+- It is **old, probably a couple of centuries**, and well preserved.
+- It **wasn't painted here**. It was brought from elsewhere.
+- The style points to **the South**, to cultures that revere the **higher beings**: the oceanic kingdoms, [[Fire King Island]], and the [[Phoenix King|Phoenix]] worshippers. It isn't the work of plain Pantheon worshippers, and it's **unsigned**.
+
+[[Harlan “Red” Reed|Red]] then found the deliberately added **flaming meteor** that the priest tied to **[[She Who Fell Before the First Fall]]**.
+
+*(An observation from the recap, not established: the **Solemn** in the mural is a heavily built man with a long white beard in pale robes, close to the man in Asha's Session 10 vision being attacked by the white-and-red-haired figure.)*
+
+*(Still carried forward: Asha's undisclosed dream and her two books remain unshared with the party. Next destination is open between the [[Nephthys]] temple and going **straight to the White Forest** for her mother.)*

@@ -68,7 +68,47 @@ Asha asked her directly during the research, and Genni answered without much res
 - **She has not been back in a long time.**
 - She is **not related to the Emperor** — *"I'm not, technically, no"* — and changed the subject immediately after: *"Let's just get back to the books and try to figure out this chalice, huh?"*
 
-**Consistent with a refugee, and with her Session 10 line *"Yes. But I would know."* Still nothing that explains why she left.**
+**Consistent with a refugee, and with her Session 10 line *"Yes. But I would know."* Still nothing that explains why she left.** *(Still true after Session 12: every other WitchCrafter was open about why she came to [[Pentamarone]]; Genni alone still isn't.)*
+
+## Session 12 — The Report (September 23, 2026)
+
+### Seniority
+
+Per the guild's own account, Genni is the **second most senior** WitchCrafter, behind [[Haine]]. She is still the **only one who won't say why she came.**
+
+### The Truce, Per Verre
+
+While the others were in the alley, [[Aren Greycloak|Aren]] asked what deal keeps the Empire off Pentamarone. Genni answered, taking [[Madame Verre]]'s word *"because I trust her a lot"*: **[[Rellyona]] and the Emperor** parted ways after stopping the [[Great Cataclysm]] but kept a deep mutual respect, and the Emperor has **never encroached on the city, to honor her legacy.** See [[Pentamarone]].
+
+### "Monster"
+
+When the party came back and described [[Aleister the Invoker|Aleister]]'s summon, Aren saw Genni **perk up at the word "monster."** She asked what kind, went quiet at the answer, and started slipping away, saying Madame Verre should know. Aren followed; [[Úlfr Kveld|Úlfr]] talked his way in behind them (*"I saw it firsthand"* — Persuasion 14). Genni had only been keeping the head of the guild informed.
+
+Afterward **Úlfr apologized** for suspecting her:
+
+> *"I should never question your honor."*
+
+She accepted gracefully.
+
+### Presenting the Findings
+
+On the fourth night of research, around eight or nine, **Genni announced she had put everything together** and delivered the guild's report in Verre's office — after starting to disclose the guild's funding sources and being told to *get on with it.* Her team's section was the **history** (with [[Marka]], [[Aren Greycloak|Aren]], and [[Asha Nyvani Korré|Asha]]): a white-dragon-worshipping clan's ritual object from the Great Ravine of [[Caelwyrm]]. The full findings are on [[Golden Chalice]].
+
+Her summary was the headline of the night:
+
+> **The chalice generates something from nothing.**
+
+> *"And I think that is what makes it **sinful**. From our best ability, we believe that this object violates the laws of nature — and specifically, quite appropriately, the domain of **the Agent of Creation.**"*
+
+She also explained the contrast with [[Harlan “Red” Reed|Red]]'s [[Alchemy Jug]], which only *seems* to make liquid from nothing.
+
+### Against Using It
+
+Before Verre gave her judgment, Genni made one more point:
+
+> *"Given the effects the chalice has on its users and the nature of it, I don't think it should be used for what you want to use it for."*
+
+**Verre agreed**, and returned the chalice. In the Q&A Genni suggested adapting [[Simone]]'s sand-map spell to hunt for the other Spoils, and offered to contact Simone through the party — before Verre announced she already knows the spell.
 
 ## Related
 
@@ -78,7 +118,8 @@ Asha asked her directly during the research, and Genni answered without much res
 - [[Schmietta]] — the guild's other [[Endymion Empire]] refugee
 - [[Keystones]] — the power stones she learned magic on
 - [[Dolly]] — the receptionist who brought the party to her
-- [[Golden Chalice]] — the artifact she couldn't read, and half-solved anyway
+- [[Golden Chalice]] — the artifact she couldn't read, half-solved anyway, and finally reported on (Session 12)
+- [[Haine]] — the only WitchCrafter more senior than her
 - [[Pentamarone]] — her city
 
 ## First Appeared

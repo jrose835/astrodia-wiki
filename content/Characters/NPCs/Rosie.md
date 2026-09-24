@@ -2,7 +2,7 @@ A gnome member of the [[S.A.T.O.]] based at [[Lorehold College|Lorehold]], and a
 
 ## How the Party Knows Her
 
-In the [[Biblioplex]] (Session 3), Rosie — a gnome LARPer hunting for costumes — opened a chest that turned out to be a **mimic**, and the party fought it off to save her. Afterward, [[Harlan "Red" Reed|Red]] found a **black, oily substance** on the creature: it had been **tampered with**. [[Mavinda Sharpbeak|Professor Sharpbeak]] dismissed it as "leather conditioner," but the party saw through the lie. Rosie was the grateful student at the center of that still-unexplained incident — and, unbeknownst to the party, a future ally.
+In the [[Biblioplex]] (Session 3), Rosie — a gnome LARPer hunting for costumes — opened a chest that turned out to be a **mimic**, and the party fought it off to save her. Afterward, [[Harlan “Red” Reed|Red]] found a **black, oily substance** on the creature: it had been **tampered with**. [[Mavinda Sharpbeak|Professor Sharpbeak]] dismissed it as "leather conditioner," but the party saw through the lie. Rosie was the grateful student at the center of that still-unexplained incident — and, unbeknownst to the party, a future ally.
 
 ## Role in the S.A.T.O.
 

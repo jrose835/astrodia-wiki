@@ -37,6 +37,12 @@ Two more days of Satyr rolls in [[Pentamarone]], **two more failures.** Simone's
 
 The question about the **yellow speck on her map** — did the divine dot move north with the [[Golden Chalice]], or is it still sitting at the Academy? — **still has not been sent.** [[Tobin]] has absorbed both of the party's available Satyr slots ([[Hall of Oracles|the Oracle]], and before that the repo man), and the party discussed and **deliberately declined** to tell [[Myrna Nor|Myrna]] and [[Archibald]] where they are: if anyone comes hunting and the [[S.A.T.O.]] can't hold out, the party's location goes with them.
 
+## Session 12 — Someone Else Knows the Spell (September 23, 2026)
+
+Her **star-tablet** assignment was kept as **ongoing** in the party's new round of Satyr tasks. No result yet.
+
+More surprising: when [[Genni]] of the [[WitchCrafters]] proposed adapting **Simone's sand-map spell** to track the other [[The Seeker of the Sinful Spoils|Sinful Spoils]] and offered to contact her through the party, [[Madame Verre]] said it wasn't necessary. ***"I know the spell."*** How she knows it wasn't explained. Verre also confirmed that the [[Great Cataclysm]] began in the **northern mountains of the [[Endymion Empire]]** and travelled southeast, which matches the **green line** on Simone's map. See [[Session 12 Recap — Something from Nothing]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]].
