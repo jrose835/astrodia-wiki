@@ -45,7 +45,8 @@ Sessions/Session [0-9].md
 Sessions/Session [0-9][0-9].md
 
 # --- Images referenced only by secret notes (images bypass publish filters) ---
-Pasted image 20260202134910.png
+# (Úlfr's portrait, Pasted image 20260202134910.png, is intentionally NOT listed:
+#  it is public and embedded on the overrides/ Úlfr page.)
 Pasted image 20260419232353.png
 Pasted image 20260924100204.png
 Pasted image 20260729223217.png

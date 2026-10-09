@@ -4,6 +4,8 @@ tags:
   - pc
 ---
 
+![[Pasted image 20260202134910.png]]
+
 > [!note] Public character page
 > A spoiler-free, party-facing summary of Úlfr, maintained for the wiki. (Úlfr's
 > private backstory notes are kept out of the published site.)

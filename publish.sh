@@ -77,7 +77,7 @@ for d in "MyCharacters" "DM meetings"; do
 done
 
 # (d) Secret images must be absent (anywhere under content/ — images live in Images/)
-for img in "Pasted image 20260202134910.png" "Pasted image 20260419232353.png" "Pasted image 20260924100204.png" "Pasted image 20260729223217.png"; do
+for img in "Pasted image 20260419232353.png" "Pasted image 20260924100204.png" "Pasted image 20260729223217.png"; do
   if [ -n "$(find "$REPO_DIR/content" -name "$img" -print -quit)" ]; then echo "!! Secret image present: $img"; FAIL=1; fi
 done
 
