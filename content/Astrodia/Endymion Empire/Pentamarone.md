@@ -84,6 +84,14 @@ The gate guards' first question to armed strangers is *"Are you escaping their r
 - **The [[Temple of Venus]]** was the party's main outing: scripture on the Solemn and the [[Darklords|Dark Lords]], a priest who identified [[Dogmatika]]'s church, and a basement mural with a meteor tied to [[She Who Fell Before the First Fall]].
 - **The fireworks festival** was held that night, with the [[WitchCrafters]]' show and the guild out mingling with the town. **The competition's results weren't covered.**
 
+## Session 13 — Leaving (October 7, 2026)
+
+- **Back to business.** The morning after the festival, the guild hall was full of commoners again. The guild had **closed its public classes** during the chalice research.
+- **Parting gifts** from every WitchCrafter master. See [[WitchCrafters' Parting Gifts]].
+- **[[Genni]]'s past:** she was once **the Emperor's right-hand assistant**. She thinks she's safe here because Madame Verre protects the town and the Emperor has kept his agreement.
+- **The secret lab** behind the guild hall, and its small teleportation circle, is how [[The Fallen]] left the city, bound for the [[Temple of Nephthys]].
+- **The Sundered Watch never called** at the party's inn.
+
 ## Related
 
 - [[WitchCrafters]] — the witch guild that runs the city

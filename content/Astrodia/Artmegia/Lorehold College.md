@@ -7,4 +7,8 @@ Its campus is **[[Pillardrop]]**, a desert canyon city built from and around the
 - **[[Myrna Nor]]** — Lorehold student and researcher whose thesis was vindicated by [[Leith Chantos]]'s recovered journal and the Nath Loom.
 - **[[Rosie]]** — Lorehold student and member of the [[S.A.T.O.]].
 
+## Faculty
+
+- **[[Professor Astellar]]**: donated the [[White Forest]] **star tablet**. On sabbatical at [[Quandrix College]] this semester (Session 13).
+
 [[Asha Nyvani Korré|Asha]] studied at Lorehold before being expelled for researching forbidden knowledge related to the [[White Forest]].

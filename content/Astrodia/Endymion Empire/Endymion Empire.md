@@ -20,5 +20,13 @@ Notably, **[[Pentamarone]]** — founded by *another* Magistus, **[[Rellyona]]**
 
 - **The Empire enforces worship of [[Mars]], the Agent of Force** — found by [[Aren Greycloak|Aren]] in the [[Temple of Venus]] library. Neighboring [[Pentamarone]] worships **[[Venus]]**. The two powers have two different patron Agents.
 - **Organized resistance exists.** The adventurers who cornered [[Aleister the Invoker|Aleister]] in Pentamarone call themselves **[[The Sundered Watch]]** *(name as heard — unconfirmed)*: *"a group of resistance fighters against the Endymion Empire. So we kind of go from town to town."* They first met Aleister in a town **far to the north**, and lost two friends in **undead-infested ruins** there.
-- **The [[Great Cataclysm]] began here.** Per [[Madame Verre]], it started in the **northern mountain range of what is now the Endymion Empire** and **travelled southeast** across Astrodia — matching [[The Fourth Magic|the green line]] on Simone's map. She also let slip that the Cataclysm was a **portal to another world**, and that **the [[Magistus]] sealed the rift.** *(She didn't say which of them; the Emperor is one of the Magistus.)*
+- **The [[Great Cataclysm]] began here.** Per [[Madame Verre]], it started in the **northern mountain range of what is now the Endymion Empire** and **travelled southeast** across Astrodia — matching [[The Fourth Magic|the green line]] on Simone's map. She also let slip that the Cataclysm was a **portal to another world**, and that **the [[Magistus]] sealed the *thergy*** *(Verre's word, as heard; first recorded as "rift" and corrected by Tommy in Session 13)*. *(She didn't say which of them; the Emperor is one of the Magistus.)*
 - **Genni's account of the truce** — see above and [[Pentamarone]].
+
+## Session 13 — The Emperor's Former Right Hand (October 7, 2026)
+
+- **[[Genni]] was the Emperor's right-hand assistant.** [[Haine]] revealed it, and Genni confirmed the outline: raised in the Empire, she believed in the Emperor's work *"for the good of people and magic"* until *"some lines were crossed,"* and she fled. She doesn't know whether he knows where she is: *"I have a feeling. Just 'cause he knows a lot of things."* *"To his credit,"* he has kept his agreement never to touch [[Pentamarone]].
+- **A power stone for the road.** Genni gave the party an empty **[[Keystones|power stone]]**, which in Empire territory works **like a passport**. See [[WitchCrafters' Parting Gifts]].
+- **Exod's Cross** *(as heard)*, the northernmost and largest city of [[Artmegía|Artmegia]], is the crossing **everyone passes through between Artmegia and the Empire.**
+- **Correction to the Session 12 entry above:** per Tommy, Verre said the Magistus sealed **the *thergy*** *(as heard)*, not "the rift."
+- The [[Temple of Nephthys]] takes in travelers, apparently including people **fleeing the Empire** *(partly heard)*.

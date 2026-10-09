@@ -23,7 +23,7 @@ In a private audience, [[Madame Verre]] told [[Leif Kalanchoe|Leif]] something s
 At the fireworks festival Leif asked the follow-ups:
 
 - **Origin:** the **northern mountain range of what is now the [[Endymion Empire]]**, from where it **traveled southeast** across Astrodia, matching the green line on [[Simone]]'s map.
-- **Was the rift sealed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the rift."* She pursed her lips: *"Ooh. I don't think I was supposed to say that."*
+- **Was the rift sealed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the **thergy**."* *(Tommy's Session 13 correction: her word was "thergy", as heard and not yet spelled, not "rift", and he flagged it as important. What a "thergy" is, is unknown.)* She pursed her lips: *"Ooh. I don't think I was supposed to say that."*
 
 **At the [[Temple of Venus]]**, [[Drolta Amara Tzuentes|Drolta]] asked her patron **[[Nephthys]]** about a portal to another world and beings coming through it. After a silence:
 

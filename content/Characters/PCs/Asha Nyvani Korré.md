@@ -121,3 +121,10 @@ The report was blunt with her, too: *the copy is not your mother, has no connect
 *(An observation from the recap, not established: the **Solemn** in the mural is a heavily built man with a long white beard in pale robes, close to the man in Asha's Session 10 vision being attacked by the white-and-red-haired figure.)*
 
 *(Still carried forward: Asha's undisclosed dream and her two books remain unshared with the party. Next destination is open between the [[Nephthys]] temple and going **straight to the White Forest** for her mother.)*
+
+### Session 13
+*(Kenyaita appears to have been out; Asha was run at the table.)* See [[Session 13 Recap — Homecoming]].
+
+**Her star tablet finally has a donor.** [[Simone]]'s long-failing [[S.A.T.O.]] assignment came through on a 98: ***"Professor Astellar, Lorehold Professor, taking a sabbatical at Quandrix College this semester. She donated the tablet."*** That is the White Forest artifact Asha was studying when she was expelled. **[[Professor Astellar]]** may know a great deal about the forest. The party chose not to go back to [[Quandrix College]] for her yet, given the repo clock, and is heading for the [[White Forest]] by way of the [[Temple of Nephthys]].
+
+**In the fight** at the temple she ran inside to warn the priestesses (*"There's a vampire thing going on!"*), hit the **Fiendish Icons** that followed with **Shatter**, and turned one of two slams aside with **Shield.**

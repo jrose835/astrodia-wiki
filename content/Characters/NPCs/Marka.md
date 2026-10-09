@@ -42,6 +42,10 @@ Her theory: **power can be imparted into an object subconsciously**, by whoever 
 - **Her team's findings** (records, with [[Genni]], Aren, and [[Asha Nyvani Korré|Asha]]) went into the report on the [[Golden Chalice]]: the best match is a **white-dragon-worshipping clan's ritual object** from the Great Ravine of [[Caelwyrm]], fought over by rival clans and lost a few centuries ago.
 - **Her old school is now on Aren's list.** After a private audience with [[Madame Verre]], Aren wants to visit **[[Marseille]]**, possibly Marka's "Marcell", for *"interesting ways of magic."*
 
+## Session 13 (October 7, 2026)
+
+**Her gift: a Sealed Letter of Introduction** (calligraphy). It carries **Illusory Script**, so it can be made to look like **any document**, or to hide a secret message only chosen readers can see. See [[WitchCrafters' Parting Gifts]].
+
 ## Related
 
 - [[WitchCrafters]] — her guild · [[Madame Verre]] — her head

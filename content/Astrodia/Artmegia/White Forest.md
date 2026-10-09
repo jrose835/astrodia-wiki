@@ -66,3 +66,11 @@ Using Morgana's scrying pool, **[[Asha Nyvani Korré|Asha]] found her missing mo
 > She is **in the White Forest**, **tied to a tree** in a **clearing** near the forest's edge — alongside a second bound captive, a **woman dressed all in white with long blonde hair.** Both alive. Hundreds of miles away.
 
 The forest is no longer only a mystery to investigate. It is a **rescue**, and someone in there **takes prisoners.**
+
+## Session 13 — Next, After the Temple (October 7, 2026)
+
+- **The party is coming.** The plan out of [[Pentamarone]]: the **[[Temple of Nephthys]]**, which sits near the forest's edge, and **then the White Forest.** With about ten days before the Academy's repo man, they decided against a detour to [[Quandrix College]].
+- **The star tablet's donor** is **[[Professor Astellar]]**, a Lorehold professor on sabbatical at Quandrix. She is a possible source on the forest (via [[Simone]]).
+- The [[S.A.T.O.]] question on **magic that would stop someone entering the forest** came back with nothing.
+- **[[She Who Fell Before the First Fall]]?** The party linked [[Dia]]'s story of the one the forest *"is supposed to remember"* to the sect's fallen angel. Unconfirmed.
+- The [[WitchCrafters]] sent the party off with gifts, explicitly with the forest in mind: *"Who knows what's going on there?"* See [[WitchCrafters' Parting Gifts]].

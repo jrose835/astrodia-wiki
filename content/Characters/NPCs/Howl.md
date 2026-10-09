@@ -37,6 +37,10 @@ What Leif later shared with the party, in a private room with the water running:
 
 Leif had chosen to hold his private audience with [[Madame Verre]] **with Howl present**: *"I don't know enough about you yet, and I think it's time that we knew each other more."*
 
+## Session 13 (October 7, 2026)
+
+In the fight with [[Lady Nectaria]] at the [[Temple of Nephthys]], Howl harried the **Fiendish Icons** with the **Help** action, then flew over to hover above Nectaria herself.
+
 ## The Open Question
 
 Three separate threads now point at this owl:

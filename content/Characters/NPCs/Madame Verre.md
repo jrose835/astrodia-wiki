@@ -135,7 +135,7 @@ What Aren came out with after her own audience:
 At the fireworks festival Leif found her **in a very good mood** and asked the questions he'd forgotten:
 
 - **Where did the Cataclysm begin?** In the **northern mountain range of what is now the [[Endymion Empire]]**, travelling **southeast** across Astrodia — matching [[The Fourth Magic|the green line]] on Simone's map.
-- **Was the rift ever healed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the rift."* Then, pursing her lips: ***"Ooh. I don't think I was supposed to say that."***
+- **Was the rift ever healed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the **thergy**."* *(Corrected by Tommy in Session 13: the word was "thergy", as heard, not "rift", and it's an important word.)* Then, pursing her lips: ***"Ooh. I don't think I was supposed to say that."***
 - **Is the leftover green magic from the original leak?** Yes; to her knowledge it is still present across Astrodia.
 
 Her farewell:
@@ -149,6 +149,14 @@ She expects them to leave soon — for the [[White Forest]], *"by way of a templ
 
 - **How does she know all this?** [[Aren Greycloak|Aren]] suspects she was **a disciple of one of the [[Magistus]]**, most likely [[Rellyona]].
 - **A Spoil against [[Pluto]]?** If each [[The Seeker of the Sinful Spoils|Sinful Spoil]] mocks an Agent, one mocking Death might look like *unnatural, eternal life* — and Verre is *suspiciously* alive and **wears a white dress** (one of the Spoils is a gown). The party wondered whether she carries a Spoil, knowingly or not. Her own account to Aren — an accident, still aging — cuts somewhat against it.
+
+## Session 13 — Too Busy (October 7, 2026)
+
+She didn't see the party off. Her office was locked, and [[Dolly]] said business was booming after the festival. Her masters gave the gifts without her (see [[WitchCrafters' Parting Gifts]]).
+
+- **Her project has a workshop.** Behind the guild hall is a **secret lab** with a station for every master. [[Genni]] reminded the others that Verre had **specifically told them not to tell the party** what they're working on. **[[Haine]] is sewing enormous clothing cut for a woman**, too big even for [[Úlfr Kveld|Úlfr]]. It's the first physical clue to the goal she won't name.
+- **A message is on its way to her.** [[Leif Kalanchoe|Leif]] asked Genni to tell her that the creature in **[[The Orb]]** speaks **the same language as his patron**. If she wants to reach the party, *"she has her ways."*
+- **The word was "thergy."** At the start of Session 13 Tommy corrected her Session 12 line: the Magistus sealed **the *thergy*** *(as heard; spelling not given)*, not "the rift," and he flagged the word as important.
 
 ## Why She Matters
 

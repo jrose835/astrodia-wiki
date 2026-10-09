@@ -39,10 +39,16 @@ Sessions/Session 4.md
 Sessions/Session 5.md
 Sessions/Session 6.md
 Sessions/Session 7.md
+# Future-proof: any loose "Session N.md" (one or two digits). [0-9] matches exactly one
+# character, so these never match the "Session N Recap — Title.md" files.
+Sessions/Session [0-9].md
+Sessions/Session [0-9][0-9].md
 
 # --- Images referenced only by secret notes (images bypass publish filters) ---
 Pasted image 20260202134910.png
 Pasted image 20260419232353.png
+Pasted image 20260924100204.png
+Pasted image 20260729223217.png
 
 # --- rsync/editor temp leftovers (never real pages) ---
 *.tmp.*

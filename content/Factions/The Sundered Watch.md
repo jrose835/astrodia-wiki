@@ -35,6 +35,10 @@ Two further members were **killed by Aleister's summon** in the northern ruins.
 
 After the fight, the Watch **apologized for dragging the party into it.** The party gave them **the name of their inn** and said they'd be in town at least the week. Both sides agreed adventurers should stick together.
 
+### Session 13
+
+**They never came by.** The party had told them where they were staying, but the Watch never called at the inn before the party left [[Pentamarone]]. *"I guess they just didn't like us."* [[Genni]], who was once the Emperor's right-hand assistant, said that if they sought her out she *"may be able to answer some questions."*
+
 ## Related
 
 - [[Aleister the Invoker]] — the man they're hunting

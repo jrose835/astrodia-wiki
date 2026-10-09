@@ -17,6 +17,10 @@ The creature's language **matches the voices that [[Leif Kalanchoe|Leif]] secret
 
 Identified in Session 6 (May 31, 2026) and still carried — carefully — by the party. The creature remains imprisoned; the glass prison's 1 HP makes it fragile cargo.
 
+## Session 13 — Shown to Genni (October 7, 2026)
+
+[[Leif Kalanchoe|Leif]] showed the creature to **[[Genni]]** of the [[WitchCrafters]]. She had never seen anything like it (*"It even speaks"*), and it started talking in **the language only Leif recognizes.** She couldn't say what it is. Leif asked her to tell **[[Madame Verre]]** that it **speaks the same language as his patron**, [[The Whispering One|Sorath]]. Verre had never been asked about it directly. *(Leif had planned to ask her himself and forgot, twice.)*
+
 ## First Referenced
 
 Recovered from the [[Lost Library of Leith Chantos]].

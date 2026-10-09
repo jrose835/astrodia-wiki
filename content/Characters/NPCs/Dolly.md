@@ -7,6 +7,10 @@
 - Explained the guild's structure on the walk: **open classes for the townsfolk**, and advancement to study under a master witch once you show sufficient skill — though few ever reach that level.
 - Stayed in the library while the party experimented with the chalice, mostly telling [[Leif Kalanchoe|Leif]] not to touch the books — and discovered she is **allergic to cats** at roughly the same moment several appeared out of thin air.
 
+## Session 13 (October 7, 2026)
+
+Still at the front desk the morning after the fireworks festival. She told the party that Madame Verre was very busy now that the festival was over, and might not have time for them that day. Then [[Haine]] came out of her office and took over.
+
 ## Related
 
 - [[WitchCrafters]] · [[Pentamarone]] — her guild and city

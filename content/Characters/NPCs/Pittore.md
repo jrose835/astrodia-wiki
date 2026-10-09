@@ -9,6 +9,11 @@ She did not join the guild's night out and has not yet told the party her story.
 - **Fireworks:** she explained **the chemistry behind the colors** to [[Aren Greycloak|Aren]] and [[Asha Nyvani Korré|Asha]].
 - **Her team's findings** (with [[Haine]] and Leif) went into the report on the [[Golden Chalice]]: object copies are **100% physical duplicates, down to the imperfections**, carry **no magic**, and can reproduce details the drinker never noticed — provided the drinker has shared space with the original. A copy would pass inspection, and **can be enchanted afterward.**
 
+## Session 13 (October 7, 2026)
+
+- **Her gift: a Pocket Canvas** (painting). Paint what you want to become, and it casts **Disguise Self** once per day. See [[WitchCrafters' Parting Gifts]].
+- **She tipped the vote on the lab.** When [[Genni]] objected that Madame Verre had said not to tell the party what the guild was working on, Pittore pointed out that the party already knew they were working on *something*, so they could just use the circle.
+
 ## Related
 
 - [[Haine]] — her research partner

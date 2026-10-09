@@ -135,3 +135,20 @@ Leif was delighted. *"The shell is cracking."*
 **At the [[Temple of Venus]]** she read the entry-hall scriptures with Red, and when the priest described **[[She Who Fell Before the First Fall]]**, **Aren had heard of her before.** One or two believers turn up in many of the churches she's visited: an **angel, a woman**, exiled to earth for something that angered the gods, whose exile provoked the Morning Star's rebellion. When the temple library had nothing on her: *"You don't need to have evidence to have faith."*
 
 In the library she **read about Pluto's enemies**. It was mostly necromancers and things she already knew, with one exception: **[[The Prophecy Destroyer]]** *(as heard)*, an enemy of Pluto in some unknown capacity.
+
+### Session 13
+**Aren went to a temple of the Phoenix Queen and got her undead.** See [[Session 13 Recap — Homecoming]].
+
+**She stopped the party pushing [[Genni]].** When the table kept prying after [[Haine]] revealed Genni had been the Emperor's right-hand assistant: *"Not all stories are meant to be told at this time."* Genni thanked her, and then told them a little herself.
+
+**At the [[Temple of Nephthys]]** she studied the architecture against temples she knows and quietly **checked every entrance** for how vampires got in. On a strong Investigation she found **two doors leading into the mountainside** (unlikely entry points through rock), **no sign of forced entry**, and **graves** through a window. Her prayer for them: *"I hope that they are at peace within the afterlife."* She does want them to stay dead. To [[Ysmene]]: *"I admire the work you've done to recover from such devastation... It will not be done in vain."*
+
+**Her pendant, twice.** When [[Solenne]] and [[Nephthara]] returned, she checked: **no undead but Drolta.** At sunset, on a bad feeling, she checked again, and it **pinged outside**. **[[Lady Nectaria]]** was standing about a hundred feet away. *"There's an undead out there."* She went out to meet her, careful not to invite anything in.
+
+**[[Drolta Amara Tzuentes|Drolta]] was looking at Aren** when she relayed what [[Nephthara]] had told her: the undead are **bound by some sort of contract**, and certain relics, including **robes of [[Nephthys]]**, can **break those bonds.**
+
+**In the fight** she summoned **Spiritual Weapon** (a sword) and rolled max damage on her first strike. It destroyed two **Fiendish Icons**. She healed herself with Cure Wounds and spent her **Human inspiration** on a Guiding Bolt at Nectaria that missed.
+
+**A bell rang out of her.** When an icon's fiery eruption caught her, she used her reaction on a **new feature tied to her backstory**, a d20 roll on a table of effects *(name unclear on the recording)*. It came up 11: a sound like a **church bell tolling** and a flash of light, and **she and the icon were both stunned.** She had never seen it happen before.
+
+At session's end, undead were coming out of the woods. *"Y'all wanted undead."* She did not want *these*.

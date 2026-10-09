@@ -19,6 +19,10 @@ She joined the guild's night out at a [[Pentamarone]] dive bar with [[Seed]], [[
 
 **Her team's findings** (materials, with [[Schmietta]] and [[Úlfr Kveld|Úlfr]]) opened the guild's report on the [[Golden Chalice]]: **indestructible**, **pure gold that is *too* pure** — no imperfections at all — and **age undeterminable**, new or prehistoric. The dating she was assigned came back empty: the chalice shows no wear to date. Its likely origin came from the records team instead (see [[Caelwyrm]]).
 
+## Session 13 (October 7, 2026)
+
+**Her gift: a Clear-Sight Lens** (gems), a reskinned **Wand of Secrets**. It pulses and points to the nearest **hidden door or trap** within 30 feet. **It earned its keep the same day**: [[Úlfr Kveld|Úlfr]] used it to find the hidden vault door at the [[Temple of Nephthys]]. See [[WitchCrafters' Parting Gifts]].
+
 ## Related
 
 - [[Schmietta]] — her research partner on the chalice's materials

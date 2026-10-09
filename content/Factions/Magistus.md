@@ -29,7 +29,9 @@ A dockside sailor also passed along the rumor that **Rellyona and the Emperor "g
 
 **The slip.** At the fireworks festival, [[Leif Kalanchoe|Leif]] asked Verre whether the Cataclysm's rift, a **portal to another world** opened by mortals, was ever healed:
 
-> *"Oh, yes, the Magistus did what they had to do to **seal the rift**."*
+> *"Oh, yes, the Magistus did what they had to do to **seal the thergy**."*
+>
+> *(Tommy's Session 13 correction: the word was "thergy", as heard and not yet spelled, not "rift". He flagged it as important.)*
 > *"Ooh. I don't think I was supposed to say that."*
 
 So the Magistus did not merely stop a surge of energy; they **closed a door.** What "did what they had to do" involved, and whether it relates to the member who **never returned**, is unknown. The portal material is **kept within the party at Verre's request.**

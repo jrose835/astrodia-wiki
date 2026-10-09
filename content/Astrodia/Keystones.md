@@ -19,6 +19,18 @@ That last point is a live problem for **two** members of the party: [[Leif Kalan
 
 **[[Genni]] confirmed the symbol's meaning** the same session: the **triangle** on her staff is the mark of the power stones the Empire's magic engineers use. She **learned magic on them**, growing up near the Citadel, and has since moved to tapping her own magic instead.
 
+## Session 13 — The Party Gets One (October 7, 2026)
+
+**[[Genni]]** gave [[The Fallen]] a power stone as her parting gift: a **black circular stone bearing the triangle symbol**, **currently empty**.
+
+- **Any spell can be cast into it**, taking the spell's normal casting time. It **holds one spell at a time.**
+- **Anyone can use the stored spell later**, including someone who can't cast it. It works like a reusable spell scroll, and can be reloaded once used.
+- In Empire territory it works **like a passport**: carrying one shows you belong and have the means to cast legally.
+
+> *"These things have kind of a terrifying or uncomfortable history for me, but they are extremely useful. And you'll need one if you're getting into the Empire's territory at all."*
+
+The same morning, [[Haine]] revealed that Genni was once **the right-hand assistant of the current Emperor.** See [[WitchCrafters' Parting Gifts]].
+
 ## The Symbol
 
 Keystone magic carries a **distinct symbol** — recognized by [[Asha Nyvani Korré|Asha]] in Session 10 as *"the symbol of the magic the Endymion Empire uses."*

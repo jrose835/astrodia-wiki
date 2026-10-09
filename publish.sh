@@ -66,13 +66,18 @@ for f in \
   if [ -e "$REPO_DIR/content/$f" ]; then echo "!! Excluded file present: $f"; FAIL=1; fi
 done
 
+# (b2) No loose "Session N.md" notes (only the polished "Session N Recap — …" files publish)
+for f in "$REPO_DIR"/content/Sessions/Session\ [0-9].md "$REPO_DIR"/content/Sessions/Session\ [0-9][0-9].md; do
+  if [ -e "$f" ]; then echo "!! Loose session note present: ${f#$REPO_DIR/content/}"; FAIL=1; fi
+done
+
 # (c) Excluded directories must be absent
 for d in "MyCharacters" "DM meetings"; do
   if [ -e "$REPO_DIR/content/$d" ]; then echo "!! Excluded dir present: $d"; FAIL=1; fi
 done
 
 # (d) Secret images must be absent (anywhere under content/ — images live in Images/)
-for img in "Pasted image 20260202134910.png" "Pasted image 20260419232353.png"; do
+for img in "Pasted image 20260202134910.png" "Pasted image 20260419232353.png" "Pasted image 20260924100204.png" "Pasted image 20260729223217.png"; do
   if [ -n "$(find "$REPO_DIR/content" -name "$img" -print -quit)" ]; then echo "!! Secret image present: $img"; FAIL=1; fi
 done
 

@@ -23,6 +23,10 @@ Seed joined the guild's night out at a [[Pentamarone]] dive bar with [[Edel]], [
 - **Asked [[Asha Nyvani Korré|Asha]] about the copy** of the woman from the library. Asha confirmed it was her **mother**. Asha explained her own **expulsion** (magic she "shouldn't have been doing," and going into the [[White Forest]]); her mother **went missing after that**, and Asha believes she is **in the White Forest.** The guild offered **supplies for the forest.**
 - **Her team's findings** (living copies, with [[Ceramia]] and [[Drolta Amara Tzuentes|Drolta]]) went into the report on the [[Golden Chalice]]: hollow, bloodless, emotionless husks that evaporate when destroyed. **The cats were put down.** To Asha, directly: *the copy is not your mother, has no connection to your mother, and feels nothing.*
 
+## Session 13 (October 7, 2026)
+
+**Her gift: a Seed Pouch of Plenty** (botany). Once per day it produces a handful of berries that work as a full **Goodberry**. *"Maybe helpful if you're traveling."* See [[WitchCrafters' Parting Gifts]].
+
 ## Related
 
 - [[Ceramia]] — her research partner on the living copies

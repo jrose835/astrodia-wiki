@@ -44,6 +44,10 @@ The WitchCrafters themselves mostly honor Venus, understanding their crafts as c
 
 The party has asked a [[S.A.T.O.]] Satyr to research **Venus's enemies** *(results not yet reported)*.
 
+## Session 13 — Venus and the Phoenixes (October 7, 2026)
+
+Per [[Ysmene]] at the [[Temple of Nephthys]]: there is **some good faith between Venus and the Phoenixes**, since Venus governs creation and **the Phoenix re-creates itself every cycle.** The Venus-enemies question to the [[S.A.T.O.]] wasn't among the tasks rolled this session.
+
 ## Related
 
 - [[Agents]] · [[Solemn Pantheon]] — her place in the pantheon

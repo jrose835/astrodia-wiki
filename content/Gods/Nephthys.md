@@ -1,4 +1,4 @@
-The Phoenix Queen
+The Phoenix Queen. A higher being and [[Drolta Amara Tzuentes|Drolta]]'s patron. **She can take human form**, and the statue outside her temple shows her as a woman. Per Drolta (Session 13): *"She tends to be a bit elusive, except to those she's chosen... Just like the Phoenix, she burns bright and quick. But she always comes back."* Her temple is the **[[Temple of Nephthys]]**. Her male counterpart is the **[[Phoenix King]]**, whose worshippers, the Fire Kings, live on [[Fire King Island]].
 
 ## Session 6 — The Temple on the Route (May 31, 2026)
 
@@ -30,6 +30,21 @@ Two takeaways: the Dark Lords' war **came before Nephthys's time**, so even the 
 
 ### The Temple Still Waits
 
-The Nephthys temple remains **unvisited.** At the end of Session 12 the party's choice of road is between **the Temple of Nephthys** and **going straight to the [[White Forest]]**.
+The Nephthys temple remains **unvisited.** *(Reached in Session 13. See below.)* At the end of Session 12 the party's choice of road is between **the Temple of Nephthys** and **going straight to the [[White Forest]]**.
 
 Cross-references: [[Temple of Venus]], [[She Who Fell Before the First Fall]], [[Great Cataclysm]], [[Session 12 Recap — Something from Nothing]].
+
+## Session 13 — The Temple (October 7, 2026)
+
+The party reached the **[[Temple of Nephthys]]** at last, on the day a child, **[[Solenne]]**, was anointed its new high priestess. Learned there:
+
+- **The Phoenixes' relics.** [[Fire King Island]] houses relics of **both the Phoenix King and the Phoenix Queen**, kept for **when the Phoenixes are reborn** (per [[Petra]]).
+- **Robes of Nephthys** are among the relics powerful enough to **break the contracts that bind the undead**, and may be what [[Lady Nectaria]]'s vampires were after. Some are still on Fire King Island (per [[Nephthara]], via Drolta).
+- **The ashes** Drolta guarded were untouched in the attack.
+- **Venus and the Phoenixes:** there's *"some good faith"* between [[Venus]] and the Phoenixes, since the Phoenix re-creates itself every cycle (per [[Ysmene]]).
+- **The orders are divided.** Women aren't privy to the higher rites on Fire King Island because of the division between Nephthys's order and the Phoenix King's (per Petra).
+- **Her protection on Drolta's mind lapsed** during the anointing (a failed Wisdom save), and at sunset Nectaria's way into Drolta's mind was **thrown open.**
+
+Solenne's vow: *"I want to see her rise again from the ashes."*
+
+See [[Session 13 Recap — Homecoming]].

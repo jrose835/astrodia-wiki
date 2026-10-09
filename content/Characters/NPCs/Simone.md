@@ -43,6 +43,14 @@ Her **star-tablet** assignment was kept as **ongoing** in the party's new round 
 
 More surprising: when [[Genni]] of the [[WitchCrafters]] proposed adapting **Simone's sand-map spell** to track the other [[The Seeker of the Sinful Spoils|Sinful Spoils]] and offered to contact her through the party, [[Madame Verre]] said it wasn't necessary. ***"I know the spell."*** How she knows it wasn't explained. Verre also confirmed that the [[Great Cataclysm]] began in the **northern mountains of the [[Endymion Empire]]** and travelled southeast, which matches the **green line** on Simone's map. See [[Session 12 Recap — Something from Nothing]].
 
+## Session 13 — Finally (October 7, 2026)
+
+With five Satyr tasks outstanding, the party rolled them all at once (**30, 51, 14, 98, 17**). Only the 98 would produce an answer. A coin-flip d4 put it on **the star tablet**, and Simone's assignment came through for the first time:
+
+> ***"Professor Astellar, Lorehold Professor, taking a sabbatical at Quandrix College this semester. She donated the tablet."***
+
+**[[Professor Astellar]].** It wasn't one of the impossible tasks after all. The party chose not to go to [[Quandrix College]] for now, given the repo clock. See [[Session 13 Recap — Homecoming]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]].

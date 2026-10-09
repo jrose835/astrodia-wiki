@@ -70,6 +70,20 @@ Coming out of the [[WitchCrafters]]' chalice report, the party lined up a new ro
 
 **An outsider knows Simone's spell.** When [[Genni]] suggested adapting **Simone's sand-map spell** to hunt for other [[The Seeker of the Sinful Spoils|Sinful Spoils]] and offered to reach Simone through the party, [[Madame Verre]] cut in: *"That won't be necessary. **I know the spell.**"* The guild will try it themselves. Verre also confirmed that the [[Great Cataclysm]] began in the **northern mountains of the [[Endymion Empire]]** and travelled southeast, which matches the green line on Simone's map.
 
+### Session 13 Results (October 7, 2026)
+
+Tommy let the party roll all outstanding tasks at once and assign the results: **30, 51, 14, 98, 17.** Only a 98 would get an answer. It went to the star tablet on a coin-flip d4 over White Forest lore.
+
+| Student | Task | Result |
+|---|---|---|
+| **[[Simone]]** | Who donated the star tablet? | **Success, for the first time ever:** *"Professor Astellar, Lorehold Professor, taking a sabbatical at Quandrix College this semester. She donated the tablet."* See [[Professor Astellar]] |
+| **[[Ersmatok Rostch]]** | Is magic conserved? | No result |
+| **[[Myrna Nor]]** | History of [[Marseille]] | No result |
+| *(Satyr not recorded)* | [[White Forest]] lore / entry magic | No result |
+| **[[Tobin]]** | The Oracle ([[Hall of Oracles]]) | No result |
+
+*(The **Venus's enemies** question from Session 12 wasn't among the five rolled.)*
+
 ## Related
 
 - [[The Fourth Magic]] — the central mystery the S.A.T.O. is chasing

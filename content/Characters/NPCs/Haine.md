@@ -26,6 +26,14 @@ Haine folded and left it. **What Verre is chasing, and what the chalice is a lea
 - **Her team's findings** went into the guild's report on the [[Golden Chalice]]: object copies are **perfect physical duplicates, down to the imperfections, with no magic** — [[Leif Kalanchoe|Leif]]'s duplicate chalice is only gold, and would pass physical inspection. A copy **can** be enchanted afterward.
 - Whatever Verre is chasing, **the chalice is no longer part of it**: Verre returned it unused. Haine's knowledge of the goal remains the guild's best-kept secret.
 
+## Session 13 (October 7, 2026)
+
+- **She gathered the guild** to see the party off. She came out of her office with *"Oh, thank goodness. I thought you had left already."*
+- **Her gift: a Cloak of Protection** (textiles and weaving), +1 AC and +1 to saving throws. See [[WitchCrafters' Parting Gifts]].
+- **She told the party Genni's secret.** She took [[Genni]]'s hand and said it for her: Genni was **the right-hand assistant of the current Emperor.**
+- **In the secret lab** her station is making **enormous clothing, cut for a woman's body**, too big even for [[Úlfr Kveld|Úlfr]]. *"Oh, you'd be absolutely swimming in it."* She snatched it back: *"That's not for you."*
+- **She cast the teleport** to the [[Temple of Nephthys]], her first ever without a target circle, using Drolta's plume as the associated object. It landed on target. On the alternative, horses: *"The last horse we had here exploded in our library."*
+
 ## Related
 
 - [[Madame Verre]] — the person she manages, and argues with

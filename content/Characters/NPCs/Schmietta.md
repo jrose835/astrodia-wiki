@@ -24,6 +24,10 @@ She joined the guild's night out with [[Seed]], [[Edel]], and [[Marka]].
 - **Úlfr was back at her forge** (Athletics) on the final research day.
 - **Her team's findings** (materials, with [[Edel]] and Úlfr) led the report on the [[Golden Chalice]]: **indestructible**, age undeterminable, and gold **too pure** for any mine — as if someone **crafted it out of the *idea* of the pure essence of gold.** *"Too pure to be made of this earth."*
 
+## Session 13 (October 7, 2026)
+
+**Her gift: a Smithy's Whetstone** (smithing). Once per day, a non-magical **slashing** weapon sharpened with it counts as **magical** for the day, as *Magic Weapon*. The table approved of the accent she delivered it in. See [[WitchCrafters' Parting Gifts]].
+
 ## Related
 
 - [[Edel]] — her research partner

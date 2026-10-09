@@ -110,13 +110,43 @@ Before Verre gave her judgment, Genni made one more point:
 
 **Verre agreed**, and returned the chalice. In the Q&A Genni suggested adapting [[Simone]]'s sand-map spell to hunt for the other Spoils, and offered to contact Simone through the party — before Verre announced she already knows the spell.
 
+## Session 13 — The Emperor's Right Hand (October 7, 2026)
+
+### The Power Stone
+
+Her parting gift was **a black circular power stone bearing the triangle symbol**: one of the Empire's **[[Keystones]]**, currently empty. Any spell can be cast into it, it holds one spell at a time, and anyone can use the stored spell. In Empire territory it works **like a passport**.
+
+> *"These things have kind of a terrifying or uncomfortable history for me, but they are extremely useful. And you'll need one if you're getting into the Empire's territory at all."*
+
+### Who She Was
+
+The party pushed her to say more (Persuasion with Guidance, 16). She wouldn't, so **[[Haine]]** took her hand and said it for her:
+
+> *"She's not just a little librarian. She gave up a lot to be here, given that she was, at one point, **the right-hand assistant of the current Emperor.**"*
+
+[[Aren Greycloak|Aren]] stopped the party pushing further (*"Not all stories are meant to be told at this time"*). Genni thanked her, then said this much herself:
+
+> *"I was raised in the Empire, and for the longest time, I believed in what the Emperor was doing. I thought it was for the good of people and magic. But some lines were crossed that made me have to rethink a lot of things, and ultimately, I can't support the current Empire. So I fled and left my whole life behind."*
+
+- **Safe in [[Pentamarone]]?** *"I think so."* Madame Verre protects her and the town, and *"to his credit,"* the Emperor has kept his agreement.
+- **Does he know she's here?** *"I don't know. I have a feeling. Just 'cause he knows a lot of things."*
+- **[[The Sundered Watch]]?** *"If they sought me out, I may be able to answer some questions, but I try to just keep that part of my life behind me."*
+
+**This explains** her Session 10 line *"Yes. But I would know,"* and her Session 11 answer that she is *"not, technically,"* related to the Emperor. What the "lines crossed" were is still unknown.
+
+### The Lab and the Orb
+
+She objected to showing the party the guild's **secret lab**: Verre had said not to tell them what the guild is working on. She was outvoted. On the walk, [[Leif Kalanchoe|Leif]] showed her **the creature in [[The Orb]]**. She had never seen anything like it (*"It even speaks"*), and agreed to tell Verre that it **speaks the same language as Leif's patron**. Leif also mentioned that he wears [[Leith Chantos]]'s robes. *"Have y'all just become more and more interesting every day?"*
+
 ## Related
 
 - [[WitchCrafters]] — her guild
 - [[Madame Verre]] — her superior
 - [[Marka]] — her research partner on the chalice records
 - [[Schmietta]] — the guild's other [[Endymion Empire]] refugee
-- [[Keystones]] — the power stones she learned magic on
+- [[Keystones]] — the power stones she learned magic on, and gave the party one of (Session 13)
+- [[WitchCrafters' Parting Gifts]] — her power stone among them
+- [[Endymion Empire]] — whose Emperor she once served as right-hand assistant
 - [[Dolly]] — the receptionist who brought the party to her
 - [[Golden Chalice]] — the artifact she couldn't read, half-solved anyway, and finally reported on (Session 12)
 - [[Haine]] — the only WitchCrafter more senior than her

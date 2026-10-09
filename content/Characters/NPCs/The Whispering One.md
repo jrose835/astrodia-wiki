@@ -53,6 +53,12 @@ After a private audience with [[Madame Verre]] (held **with Howl present**, at L
 
 [[Aren Greycloak|Aren]] had never heard of an accidental, non-consensual pact; the party wondered whether that is a trait of the entity itself.
 
+## Session 13 — An Echo in Leif's Spells (October 7, 2026)
+
+When [[Leif Kalanchoe|Leif]] cast **Dissonant Whispers**, a spell from his pact, at the vampire **[[Lady Nectaria]]**, she resisted the spell itself. But behind Leif's words came **an echo in Sorath's language, in a voice that wasn't his**, and the echo did the damage. It happened again with **Mind Spike.** Nectaria was furious and **intrigued**: no one should be able to touch her mind like that.
+
+Leif also asked [[Genni]] to tell [[Madame Verre]] that the creature in **[[The Orb]]** speaks **the same language as his patron.**
+
 ## Related
 
 - [[Leif Kalanchoe]] — the warlock it reached

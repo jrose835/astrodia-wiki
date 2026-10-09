@@ -212,6 +212,10 @@ Genni argued it **shouldn't be used for what Verre wanted it for.** Verre agreed
 - **Tracking the other Spoils:** Verre knows [[Simone]]'s sand-map spell and the guild will look for hotspots — though if the other Spoils share this nondetection, it will be hard.
 - **Did [[Lucian Cugg]] set them up**, to watch how it's used? *(Speculation, raised at the inn.)*
 
+### Session 13
+
+Carried from [[Pentamarone]] to the [[Temple of Nephthys]] by the [[WitchCrafters]]' teleport. **The repossession clock stood at about ten days** that morning, which is why the party skipped a detour to [[Quandrix College]]. Not used.
+
 ### Untested
 
 - **Pouring something in and pouring it out**, without drinking.

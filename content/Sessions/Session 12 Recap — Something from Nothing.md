@@ -425,7 +425,7 @@ That night the city held its festival. Tommy showed the **WitchCrafters' show** 
 **Leif found Madame Verre**, in a very good mood, and asked the questions he'd forgotten:
 
 - **Where did the Cataclysm begin?** In the **northern mountain range of what is now the [[Endymion Empire]]**, from where it **traveled southeast** across Astrodia. This matches [[The Fourth Magic|the green line]] on Simone's map.
-- **Was the rift ever healed?** *"Oh, yes, the Magistus did what they had to do to seal the rift."* She pursed her lips. ***"Ooh. I don't think I was supposed to say that."***
+- **Was the rift ever healed?** *"Oh, yes, the Magistus did what they had to do to seal the thergy."* *(Tommy confirmed this word at the start of Session 13 and called it important. Spelling as heard.)* She pursed her lips. ***"Ooh. I don't think I was supposed to say that."***
 - **Is the leftover green magic from the original leak?** Yes. To her knowledge it is still present across Astrodia.
 
 Her farewell:
@@ -471,12 +471,12 @@ She asked how long they have before the Academy comes for it. After some checkin
 12. **Religions of the two powers:** the Empire enforces **[[Mars]] (Force)**; Pentamarone worships **Venus (Creation).**
 13. **[[Uranus]], the Agent of Entropy,** has blue hair and red eyes. Tommy says he has dropped a blue-haired figure *"a couple of times"* that the party missed.
 14. **[[The Sundered Watch]]**, anti-Empire resistance fighters on Aleister's trail. Their **undead-infested northern ruins** are a lead for Aren.
-15. **The Satyr questions** are out and unanswered: conservation of magic (Ersmatok), Marseille (Myrna), White Forest entry, Venus's enemies, the Oracle (Tobin), and the star tablet (Simone).
+15. **The Satyr questions** are out and unanswered: conservation of magic (Ersmatok), Marseille (Myrna), White Forest entry, Venus's enemies, the Oracle (Tobin), and the star tablet (Simone). *(Session 13: the star tablet came through at last. The donor is [[Professor Astellar]]. The rest failed.)*
 16. **Genni is still the one WitchCrafter who won't talk about her past.** She did tell Verre about the monster right away, and Úlfr apologized for doubting her.
 17. **Untested chalice experiments:** pouring something in and out without drinking, and **enchanting the duplicate** as a decoy.
 18. **The repossession clock: about 10 days.** The good news is that **the Academy can't scry whoever is carrying the chalice.**
 19. **An observation, not established:** the **Solemn** in the mural is a **heavily built man with a long white beard in pale robes**, close to the man in **[[Asha Nyvani Korré|Asha]]'s vision** being attacked by the white-and-red-haired figure (Session 10).
-20. **Where next?** The **[[Nephthys]] temple** (the original plan, still unvisited) or **straight to the [[White Forest]]** for [[Asha Nyvani Korré|Asha]]'s mother.
+20. **Where next?** The **[[Nephthys]] temple** (the original plan, still unvisited) or **straight to the [[White Forest]]** for [[Asha Nyvani Korré|Asha]]'s mother. *(Session 13: the [[Temple of Nephthys]], then the forest.)*
 
 *(Carrying forward: the repo man and the [[Hall of Oracles]], the [[Endymion Empire]] army's pincer north of town, [[The Orb]] and its prisoner, [[Morgana]]'s ties to Verre and/or [[Rellyona]], the Empire-marked [[Keystones|keystone]] safe under Genni's desk, the question of warlock casting under Empire law, and Úlfr's and Asha's undisclosed dreams.)*
 
@@ -488,6 +488,6 @@ The chalice is back in the party's hands. It is better understood and more frigh
 
 The party has about **ten days** before the Academy's repo man is due, a new name for Leif's patron, and a new theory about what the green magic is. They also have to choose between two roads: the **Temple of Nephthys**, or the **White Forest**.
 
-**Next session: Wednesday, October 7, 2026** *(assuming the usual two-week cadence; confirm with Tommy).*
+**Next session: Wednesday, October 7, 2026.** See [[Session 13 Recap — Homecoming]].
 
 ---

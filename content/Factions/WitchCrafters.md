@@ -21,7 +21,7 @@ The full roster of masters was convened in Session 11, and the party's first imp
 | Member | Craft / Post | Notes |
 |---|---|---|
 | **[[Madame Verre]]** | **Head of the guild** — glass | Effectively runs [[Pentamarone]], **inherited from [[Rellyona]]** herself. Appears as a little girl on a floating glass throne. **Glass staff** as arcane focus. Paralyzed the entire party in Session 10 and made a deal with them in Session 11. Her youth is **an accident of eternal-youth research** — not undead, still aging (Session 12) |
-| **[[Genni]]** | **Knowledge-seeker** — the guild's scholar; her study doubles as the guild **library** | Deduced the [[Golden Chalice]]'s nondetection is **self-generated.** Grew up near **the Citadel**; her staff and her safe bear the [[Endymion Empire]]'s magic symbol. **Second most senior.** Presented the chalice report (Session 12) |
+| **[[Genni]]** | **Knowledge-seeker** — the guild's scholar; her study doubles as the guild **library** | Deduced the [[Golden Chalice]]'s nondetection is **self-generated.** Grew up near **the Citadel**; her staff and her safe bear the [[Endymion Empire]]'s magic symbol. **Second most senior.** Presented the chalice report (Session 12). **Was once the Emperor's right-hand assistant** (Session 13) |
 | **[[Marka]]** | **Calligraphy, cartography, documentation** | Believes **how a spell is written** imbues magic of its own. Drafted the party's contract. Read **[[Snorri's notebook]]** and placed its language in the [[War Rock Mountains]] |
 | **[[Haine]]** | Master witch; **keeps Verre's schedule** | The guild's voice of reason. Openly argued against the deal. Knows what Verre is chasing. **Most senior** — about **a decade** directly under Verre |
 | **[[Edel]]** | **Gems, ornament, magic stones** | The only master with an easy backstory: *"I always just liked pretty things."* Verre found her |
@@ -126,6 +126,35 @@ Genni argued the chalice **shouldn't be used** for Verre's goal. **Verre agreed*
 
 The festival went ahead that night. The **WitchCrafters' show** played as an animated sequence, and the guild was out mingling with the town. **The competition's results weren't covered.** Verre, in a very good mood, **invited the party back** for when *"maybe we'll be done with our project."*
 
+## Session 13 — Parting Gifts and the Lab (October 7, 2026)
+
+### The Gifts
+
+The morning after the festival, with [[Madame Verre]] too busy to see anyone, **[[Haine]]** gathered the masters in the courtyard to give [[The Fallen]] **one made item each**. See [[WitchCrafters' Parting Gifts]]:
+
+| Master | Gift |
+|---|---|
+| [[Ceramia]] | **Unbreakable Flask**: purifies anything poured into it |
+| [[Seed]] | **Seed Pouch of Plenty**: Goodberry once a day |
+| [[Pittore]] | **Pocket Canvas**: Disguise Self once a day |
+| [[Schmietta]] | **Smithy's Whetstone**: a slashing weapon counts as magical for a day |
+| [[Haine]] | **Cloak of Protection**: +1 AC and saves |
+| [[Edel]] | **Clear-Sight Lens**: a Wand of Secrets |
+| [[Marka]] | **Sealed Letter of Introduction**: Illusory Script |
+| [[Genni]] | **An empty power stone**: stores one spell, and works as an Empire passport |
+
+### Genni's Past
+
+Haine told the party what Genni wouldn't: **Genni was once the right-hand assistant of the current Emperor.** Genni added that she believed in the Emperor's work until *"some lines were crossed,"* and fled. See [[Genni]].
+
+### The Lab
+
+Red caught the masters hiding **a faster way to travel**, and Úlfr's Bardic Inspiration carried Red's Persuasion. **Ceramia** blurted out *"Why don't we just take them to the lab?"* Over Genni's objection that Verre had said not to tell the party what they were working on, the guild took them to a **secret workshop**: an innocuous outbuilding behind the guild hall, with **a station for every master** and a project that needs **every one of their crafts**. [[Úlfr Kveld|Úlfr]] spotted **Haine sewing enormous clothing, cut for a woman's body**, too big even for him. She snatched it back: *"That's not for you."*
+
+**Haine teleported the party** from the lab's small circle to the [[Temple of Nephthys]], using Drolta's plume as the associated object. She had never done it without a target circle before, and it landed on target (91). *"Friends keep secrets. We'll keep this one for you."*
+
+This is the first physical clue to **what Verre's project is.**
+
 ## Structure & Access
 
 - **Open classes** are taught to the townsfolk of Pentamarone in each master's respective craft. Show **sufficient skill** and you can begin studying under a master witch — *"but not all are capable of getting to the level of skill that the witches require."*
@@ -164,7 +193,8 @@ The single largest unknown about this guild is now its head's motive. Overheard 
 - [[Rellyona]] · [[Magistus]] — the city's founder
 - [[Endymion Empire]] — the power that does *not* control them
 - [[Golden Chalice]] — the artifact the party brought to their door
+- [[WitchCrafters' Parting Gifts]] — what they gave the party on the way out (Session 13)
 
 ## First Appeared
 
-Discussed in **Session 7** (July 15, 2026). **Met in Session 10** (August 26, 2026), when [[The Fallen]] walked into the guild hall in [[Pentamarone]] asking for an appraisal. **The full roster of masters was met in Session 11** (September 9, 2026), and the party signed a research contract with the guild. **The report was delivered in Session 12** (September 23, 2026).
+Discussed in **Session 7** (July 15, 2026). **Met in Session 10** (August 26, 2026), when [[The Fallen]] walked into the guild hall in [[Pentamarone]] asking for an appraisal. **The full roster of masters was met in Session 11** (September 9, 2026), and the party signed a research contract with the guild. **The report was delivered in Session 12** (September 23, 2026). **The party left with a gift from every master, and saw the guild's secret lab, in Session 13** (October 7, 2026).

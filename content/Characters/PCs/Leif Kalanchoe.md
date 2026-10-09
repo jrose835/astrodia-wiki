@@ -96,6 +96,15 @@ He fought the rest of the encounter on **druid spells only** — a ruling that h
 
 **At the fireworks festival** he found Verre in a good mood and asked the follow-ups he'd been too stunned to ask (*"Listen, I was very stunned"*): the Cataclysm **began in the northern mountain range of what is now the [[Endymion Empire]]** and traveled southeast; the rift **was sealed by the [[Magistus]]**, which Verre let slip (*"Ooh. I don't think I was supposed to say that"*); and the leftover green magic **is from the original leak** and still present across Astrodia.
 
+### Session 13
+**Leif showed [[Genni]] the creature in [[The Orb]]**, partly to cheer her up after the party made her talk about her past. She'd never seen anything like it. He told her where it came from and that **his robes were [[Leith Chantos]]'s**, and asked her to pass a message to [[Madame Verre]]: *"Could you tell her that it speaks in the same insane language as my patron?"* See [[Session 13 Recap — Homecoming]].
+
+**He leaned into being a warlock.** At the [[Temple of Nephthys]], when the vault door turned out to be locked, his answer was **Suggestion**: *"It's time that I lean into being a proper warlock."* He whispered to [[Nephthara]], *"I need the key to the door by the temple entrance. Can you give it to me?"* She failed the save, led him to a chest in her quarters, and handed it over. On the way past [[Solenne]], mobbed by worshippers: *"Just be firm with them."* Then he felt bad (*"I feel kind of like a dick. Don't tell Drolta"*), especially once it turned out [[Ysmene]] had already offered to let them in. He **gave the key back** and **ended the spell** (*"I would feel really guilty if she was still charmed"*). [[Drolta Amara Tzuentes|Drolta]] wasn't pleased. *"No one told me no."*
+
+**Sorath's voice is in his spells now.** Against **[[Lady Nectaria]]**, he cast **Dissonant Whispers**, a spell from his pact. She saved (*"You can't touch me. You are nothing"*), but behind his words came **an echo in the language he can't understand, in a voice that wasn't his**, and that echo is what hurt her. His **Mind Spike** (22, with Úlfr's Battle Cry die) got through the same way. She was furious and **intrigued**. *"Yes, I have made a new enemy."* She answered by charming [[Úlfr Kveld|Úlfr]] while holding Leif's eyes: *"That is how you fuck with someone's mind."*
+
+He ended the session nearly out of spell slots.
+
 ## Leif's Patron — The Whispering One
 
 As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. *(Revealed in Session 12: its true name is ***Sorath*** — spelling as heard, unconfirmed.)* What is established:

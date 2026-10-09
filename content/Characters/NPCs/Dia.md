@@ -20,6 +20,10 @@ The party has connected these dots at the table, but **nothing in Morgana's pape
 
 Notably, the phrasing is not *"the forest remembers"* as metaphor — Morgana's own conclusion about the forest was that *"something in that forest is **reaching**."*
 
+## Session 13 — A Name for the Figure? (October 7, 2026)
+
+The party connected Dia's story to **[[She Who Fell Before the First Fall]]**, a figure a fringe sect believes was exiled from the [[Sanctuary in the Sky]] before the Morning Star's rebellion, and whose sign is a falling meteor (learned at the [[Temple of Venus]] in Session 12). *"Someone who fell before anyone else ever fell"* is close to the sect's name for her. **Still theory.**
+
 ## Related
 
 - [[Morgana]] — the child she told stories to

@@ -26,9 +26,19 @@ Asked through Drolta's communion, [[Nephthys]] said the battle *"was even before
 
 *(Speculation, not established.)* Someone at the table asked aloud what everyone was thinking: ***what if she's the Seeker of the Sinful Spoils?*** A fallen woman who makes things that mock the gods — and the [[Golden Chalice]], the one Spoil the party understands, is "sinful" precisely because it violates an Agent's domain ([[Venus]]'s). Unresolved.
 
+## Session 13 — The Forest Is Supposed to Remember (October 7, 2026)
+
+- At the [[Temple of Nephthys]], [[Drolta Amara Tzuentes|Drolta]] asked [[Ysmene]] about the meteor in the Venus mural. **Nothing came to mind.**
+- Back with the party, a player noted the phrase had sounded familiar, and that it matches the story **[[Dia]]** told the young **[[Morgana]]**, recorded in Morgana's papers (Session 9): *"someone who fell before anyone else ever fell, someone the forest itself is supposed to remember even if no one else does."* **The forest is the [[White Forest]].**
+- There was also some table confusion over whether she is the Morning Star. She isn't: his was the *first* fall, and hers came before it.
+
+**The link between the sect's figure and Dia's story is the table's, not established.** It would put her in the White Forest, which the party is heading for.
+
 ## Related
 
 - [[Darklords]] — the rebellion she may have caused
+- [[Dia]] · [[Morgana]] — Dia's tale of the one *"who fell before anyone else ever fell"* (linked at the table in Session 13)
+- [[White Forest]] — the forest *"supposed to remember"* her, if the two are the same figure
 - [[Sanctuary in the Sky]] — where she was exiled from
 - [[Temple of Venus]] — home of the mural
 - [[The Seeker of the Sinful Spoils]] — the party's theory

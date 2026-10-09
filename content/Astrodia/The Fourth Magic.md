@@ -45,7 +45,7 @@ The party's conclusion: **the fourth magic is otherworldly magic.** It runs alon
 That night at the fireworks festival, Leif asked Verre the follow-ups:
 
 - **Where did the Cataclysm begin?** In the **northern mountain range of what is now the [[Endymion Empire]]**, traveling **southeast** across Astrodia, matching the green line on [[Simone]]'s map.
-- **Was the rift ever healed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the rift."* *("Ooh. I don't think I was supposed to say that.")*
+- **Was the rift ever healed?** *"Oh, yes, the [[Magistus]] did what they had to do to seal the **thergy**."* *(Corrected in Session 13: "thergy", as heard, not "rift".)* *("Ooh. I don't think I was supposed to say that.")*
 - **Is the leftover green magic from the original leak?** **Yes.** To her knowledge it is **still present across Astrodia.**
 
 **Still open:** why the magic also appears in hotspots *off* the Cataclysm's path (including [[Pentamarone]]); how it came to power civilization; whether the seal holds. [[Ersmatok Rostch]] has been asked whether magic is conserved and whether, once it exists, it can change type *(results not yet reported)*. The party has also wondered whether [[Dogmatika]]'s new god and saints came through the rift too; that is speculation only.

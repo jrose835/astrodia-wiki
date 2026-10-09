@@ -6,6 +6,10 @@ Its campus is the one **closest to the [[White Forest]]** and the [[Endymion Emp
 
 [[Archibald]] teleported [[The Fallen]] here using **publicly available circles**, so they'd arrive looking like ordinary travelers (though teleporting still risks alerting the Academy). [[Asha Nyvani Korré|Asha]] used **Disguise Self** to avoid recognition. The party did **not** linger — they stepped out and immediately set off on the **~6-day overland journey to the [[Nephthys]] temple**. [[Simone]] provided the campus runes so they can return.
 
+## Session 13 — Professor Astellar (October 7, 2026)
+
+**[[Professor Astellar]]**, the [[Lorehold College|Lorehold]] professor who **donated the [[White Forest]] star tablet** that got [[Asha Nyvani Korré|Asha]] expelled, is **on sabbatical here this semester** (per the [[S.A.T.O.]]). The party chose not to come back for her yet, because of the repo clock on the [[Golden Chalice]].
+
 ## Related
 
 - [[The Academy of Arcane Arts]] — the parent institution

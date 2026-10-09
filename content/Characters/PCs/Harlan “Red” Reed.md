@@ -135,3 +135,12 @@ He also caught **5 damage from [[Leif Kalanchoe|Leif]]'s Ice Knife** on the way 
 **And he asked about home.** Red described the people back home carrying banners showing no Agent he recognized. The priest identified them as the **Church of [[Dogmatika]]** in the [[Closed Land]]: a new pantheon and deity separate from the Solemn, saints who perform miracles, exponential growth over the last couple of decades, and a founding about **a century or a bit more ago**, possibly around the [[Great Cataclysm]]. *"In times of great peril, people are always looking for hope."* The party's whispered follow-up: **what if Dogmatika's god and saints came through the rift too?**
 
 At the fireworks festival that night, Red showed up in the crowd **in lion form**.
+
+### Session 13
+See [[Session 13 Recap — Homecoming]].
+
+**He caught the WitchCrafters hiding something.** A **natural 20 on Perception** spotted the masters trading looks over a faster way to the temple. *"We're tired of walking."* With **[[Úlfr Kveld|Úlfr]]'s Bardic Inspiration** (*"You got this, Red"*), his Persuasion just got there, and [[Ceramia]] gave up the lab.
+
+**At the [[Temple of Nephthys]] he was the distraction.** He tried to pull [[Solenne]] away for a private blessing (*"High priestess! Will you come bless me?"*). It didn't work, so he kept at it: *"I need a blessing! I need a blessing!"* Introduced to [[Ysmene]]: *"Howdy. Name's Red."*
+
+**In the fight** he opened with **Moonbeam**, wild shaped into a **lion**, and **roared** to warn the temple. His **Arcana** read on the **Fiendish Icons**: **not undead, more like constructs**, possibly clay. *(Leif: "I'm a geologist.")* Caught in an icon's fiery eruption, he spent his reaction on *"what in tarnation"* as Aren's bell went off. He leaped across the field and raked **[[Lady Nectaria]]** twice for 9. She scoffed.

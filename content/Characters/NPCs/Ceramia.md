@@ -17,6 +17,11 @@ Whether the two share a condition, a bloodline, or nothing at all is completely 
 - **She really is a young girl** — *"unlike her boss."* She is the **newest** WitchCrafter, taken on because she *"showed a lot of promise"* and Verre took a liking to her.
 - **Her team's findings** (with [[Seed]] and [[Drolta Amara Tzuentes|Drolta]]) went into the report on the [[Golden Chalice]]: living copies are **physically real but hollow** — no pain, no blood, no emotion or self-preservation — and **evaporate without a trace** when destroyed. **The cats were put down**, since they aren't technically alive.
 
+## Session 13 (October 7, 2026)
+
+- **Her gift: an Unbreakable Flask** (ceramics). It's indestructible and purifies anything poured into it, as *Purify Food and Drink*. She meant it to go with Red's [[Alchemy Jug]]. See [[WitchCrafters' Parting Gifts]].
+- **She gave away the lab.** While the masters traded looks over whether to offer a faster way out, she said: *"Well, why don't we just take them to the lab?"* She led the way: *"This is my favorite place in the whole guild."*
+
 ## Related
 
 - [[Madame Verre]] — the guild's other apparent child (not actually one)

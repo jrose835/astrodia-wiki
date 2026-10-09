@@ -38,7 +38,7 @@ This fits the dockside truce rumor, and softens the "falling-out" theory: by Ver
 
 ### The Magistus Sealed the Rift
 
-At the fireworks festival Verre let slip that the [[Great Cataclysm]] was a **portal to another world**, and that ***"the Magistus did what they had to do to seal the rift"*** — then: *"Ooh. I don't think I was supposed to say that."* Rellyona, as one of the Magistus, was presumably party to it. *(Verre didn't name individuals.)*
+At the fireworks festival Verre let slip that the [[Great Cataclysm]] was a **portal to another world**, and that ***"the Magistus did what they had to do to seal the thergy"*** *(Tommy's Session 13 correction; "thergy" as heard, not "rift")* — then: *"Ooh. I don't think I was supposed to say that."* Rellyona, as one of the Magistus, was presumably party to it. *(Verre didn't name individuals.)*
 
 ### Was Verre Her Disciple? *(Speculation)*
 

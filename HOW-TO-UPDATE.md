@@ -71,8 +71,10 @@ by Kári) must never appear. Protection works at three layers:
    - `DM meetings/`
    - `Astrodia/War Rock Mountains.md` (contains secret analysis)
    - `Characters/NPCs/Kári.md`, `Characters/NPCs/Snorri.md`, `Objects/Snorri's notebook.md`
-   - The loose `Session N.md` notes (only the polished `Session N Recap` notes publish)
-   - Two secret images
+   - The loose `Session N.md` notes, matched by pattern so future sessions are covered too
+     (only the polished `Session N Recap` notes publish)
+   - Secret images (those embedded only in secret notes, e.g. Úlfr's dream images). **Images
+     bypass the note filters**, so a picture pasted into a secret note must be listed here by filename.
 2. **The safety gate in `publish.sh`** — scans for the secret before every push and aborts on a hit.
 3. **Quartz's `draft` filter** — any note with `draft: true` in its frontmatter is skipped.
 

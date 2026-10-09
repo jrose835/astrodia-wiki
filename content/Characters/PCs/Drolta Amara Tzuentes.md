@@ -12,6 +12,8 @@ She says she's protecting the world, but late at night, while she quietly prays 
 
 **[[Leif Kalanchoe|Leif]]** - Leif confronted Drolta about her fangs. She revealed her dhampir nature to him, and they agreed to keep it between them for now.
 
+**[[Ysmene]]** - A sister priestess from the [[Temple of Nephthys]], who saved many people the night of the attack. She was the first to embrace Drolta on her return in Session 13, and **she knows what Drolta is.** She believes something she did that night left Drolta *"between life and death."*
+
 ## Session Events
 
 ### Session 0
@@ -109,3 +111,37 @@ Then she asked about what [[Leif Kalanchoe|Leif]] had shared earlier that day: *
 > *"Of course, my child."*
 
 *(Her [[Nephthys]] temple homecoming is deferred for a fourth session. The temple is one of the party's two candidate next destinations, the other being the [[White Forest]].)*
+
+### Session 13
+**Drolta came home.** See [[Session 13 Recap — Homecoming]].
+
+**The breakfast meeting was hers.** She laid out the party's options (the [[White Forest]], the temple, [[The Fourth Magic]], [[The Sundered Watch]]) and steered the table back to the original plan. Her **plume**, the Phoenix Queen's feather, was the associated object again, this time for [[Haine]]'s teleport out of the [[WitchCrafters]]' lab. It landed them on target (91).
+
+**At the [[Temple of Nephthys]]** she saw it for the first time since the attack (*"I'm feeling... a lot of things... I just want to get inside"*) and explained the **statue of Nephthys in human form** out front: *"Just like the Phoenix, she burns bright and quick. But she always comes back."* She didn't disguise herself. The worshippers outside told her a new high priestess, **[[Solenne]]**, had just been anointed, and that the last one *"left after the attack... no one's really heard from her since."*
+
+**She walked into the anointing.** The sight caused her to **fail a Wisdom save**, a **lapse in the mental fortification** she's used to, and **a voice came into her head** *(delivered privately)*. **[[Nephthara]]** stopped mid-proclamation: *"Oh, my God. Drolta."* **[[Ysmene]]** ran to hug her. *"I have been protected by Nephthys. And that's all I can ask for."*
+
+**She sent the party after the vault**: a hidden door just inside the entrance, which [[Úlfr Kveld|Úlfr]] found with the Clear-Sight Lens. She said the key would be with a priestess and asked that nobody beat anyone up for it. She did **not** ask anyone to charm Nephthara, and when [[Leif Kalanchoe|Leif]] did, she said so: *"I didn't say to charm her or anything."* *("No one told me no.")*
+
+**Ysmene told her:**
+- A protective spell was bought for the temple after the attack, and **nobody knows whether it still holds**. Many worshippers left, and Solenne came about two years after Drolta did. Drolta questioned laying this on a child.
+- **The ashes she used to guard were untouched.**
+- The Fire Kings sent **[[Petra]]** to help rebuild.
+- The **vault** holds the belongings of the dead, and Ysmene would let her in.
+- ***"I'm sorry if what I did pushed you into this uncomfortable spot between life and death."*** Ysmene knows what she is, and holds no ill will. *"You did the best you could, as we all did."*
+
+**Petra told her** that [[Fire King Island]] keeps relics of **both Phoenixes** against their rebirth, that security there was raised after the attack, and that as a woman Petra isn't privy to the island's higher rites. Drolta told the party the island could be the place to learn more about the [[Great Cataclysm]].
+
+**She met her successor.** Solenne shook her hand and promised to make Nephthys proud. *"It is an honor, and also a heavy load to bear."*
+
+**Then she cornered Nephthara** (*"It was a long time coming"*) for a private talk, and came back looking at [[Aren Greycloak|Aren]]:
+- **The undead are bound under some sort of contract**, and certain **relics**, including **robes of [[Nephthys]]**, can **break those bonds**. That may be what the vampires came for. **Some are still on Fire King Island**, which hasn't been attacked.
+- **The vampires must have been let in.** *"Then who let them in here?" "That's the question, isn't it?"*
+
+**At sunset [[Lady Nectaria]] came.** The locked door in Drolta's mind, where she has felt knocking and tapping for years, **was thrown open**, and she saw **the woman who turned her.**
+
+> *"Brave of you to return to where your Phoenix Queen once failed you."*
+> *"She never fails me. I still stand here before you."*
+> *"Not for long."*
+
+In the fight against Nectaria's **Fiendish Icons** she cast **Mirror Image**, cut down a badly hurt icon with her **plume**'s dancing blades, moved her Hex, and closed on Nectaria for a plume hit with Hex damage. She ended the session nearly out of spell slots, with things coming out of the woods.
