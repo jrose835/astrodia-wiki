@@ -44,6 +44,18 @@ Tobin remains the most exposed Satyr — now investigating the most guarded thin
 
 When the party sent out a new round of Satyr tasks, Tobin's **Oracle** assignment was kept as **ongoing**. No new report. The repossession clock is now about **10 days**. See [[Session 12 Recap — Something from Nothing#Word to the Satyrs]].
 
+## Session 13 — Nothing Yet (October 7, 2026)
+
+His Oracle roll failed with the rest of the batch.
+
+## Session 14 — The Oracle Controls Constructs (October 21, 2026)
+
+The party chose his roll as one of the two passes. Over the [[Sending Stones]]:
+
+> ***"Oracle's power being used to control constructs. Experimental artificial intelligence."*** *(as heard)*
+
+That fits his Session 11 lead, that the **repo man** is an Academy experiment the **Oracle may be involved** in, and the table's guess at the time: **cogwork constructs.** See [[Hall of Oracles]] and [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Simone]] · [[Rosie]] · [[Ersmatok Rostch]] · [[Quintilius]] — see [[S.A.T.O.]]. Related: [[Hall of Oracles]] · [[Arcane Reclamation Initiative]] · [[Golden Chalice]].

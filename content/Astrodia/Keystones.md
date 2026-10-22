@@ -31,6 +31,10 @@ That last point is a live problem for **two** members of the party: [[Leif Kalan
 
 The same morning, [[Haine]] revealed that Genni was once **the right-hand assistant of the current Emperor.** See [[WitchCrafters' Parting Gifts]].
 
+## Session 14 — Loaded with Teleport (October 21, 2026)
+
+Tommy let the party **retroactively** have the [[WitchCrafters]] cast **Teleport** into the stone before they left [[Pentamarone]]. **It now holds Teleport.** His ruling on using it for the [[White Forest]]: it can carry the party to the **edge**, since [[Asha Nyvani Korré|Asha]] has been there, but not to any precise point **inside**. The table leaned toward **saving it as a way out.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## The Symbol
 
 Keystone magic carries a **distinct symbol** — recognized by [[Asha Nyvani Korré|Asha]] in Session 10 as *"the symbol of the magic the Endymion Empire uses."*

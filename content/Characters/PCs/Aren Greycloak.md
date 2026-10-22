@@ -9,7 +9,7 @@ She learned about [[The Academy of Arcane Arts|the Academy's]] College of Wither
 
 ## Allies
 
-**[[Drolta Amara Tzuentes|Drolta]]** - Aren's pendant detected a faint undead signature leading her to Drolta in a bustling city. After a tense confrontation, Drolta revealed her condition was involuntary and that she shares Aren's mission to destroy undead. They formed a cautious alliance. Both Aren and [[Leif Kalanchoe|Leif]] now know Drolta's true nature as a dhampir.
+**[[Drolta Amara Tzuentes|Drolta]]** - Aren's pendant detected a faint undead signature leading her to Drolta in a bustling city. After a tense confrontation, Drolta revealed her condition was involuntary and that she shares Aren's mission to destroy undead. They formed a cautious alliance. Both Aren and [[Leif Kalanchoe|Leif]] now know Drolta's true nature as a dhampir. *(As of Session 14 the whole party knows.)*
 
 ## Session Events
 
@@ -152,3 +152,18 @@ In the library she **read about Pluto's enemies**. It was mostly necromancers an
 **A bell rang out of her.** When an icon's fiery eruption caught her, she used her reaction on a **new feature tied to her backstory**, a d20 roll on a table of effects *(name unclear on the recording)*. It came up 11: a sound like a **church bell tolling** and a flash of light, and **she and the icon were both stunned.** She had never seen it happen before.
 
 At session's end, undead were coming out of the woods. *"Y'all wanted undead."* She did not want *these*.
+
+### Session 14
+*(Kat was out for her dad's birthday; Tommy ran Aren.)* **Aren nearly became one of the undead she hunts.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**In the fight** she kept her flying **Spiritual Weapon** on the vampire spawn, hit one with **Sacred Flame**, and landed a **Guiding Bolt** on **[[Lady Nectaria]] for 21**, the biggest hit anyone made on her all night. *"Get her, Drolta!"* Nectaria looked at her with hate as she felt the divine energy: *"I will bring you the death you seek."* *(as heard)*
+
+**Nectaria nearly did.** She walked up to Aren and dropped her with two **Grave Strikes**, then **bit her unconscious body**: 7 damage and **−18 maximum HP**, leaving Aren with a maximum of **13.** Another bite like that would have killed her outright. Nectaria's own wounds from the Guiding Bolt **closed as she fed.** She dropped Aren and whispered: ***"See you soon."***
+
+**[[Ysmene]] brought her back.** By then **black veins** were spreading across Aren's body from the necrotic damage. Ysmene **whispered something** and cast Healing Word, and Aren **gasped awake** at 9 hit points. *(Aren carries her own curse, from Session 1. Whether the veins have anything to do with it is unknown.)*
+
+**Then Nectaria spared her.** A spawn ran at Aren as she limped for the door and raised its claws, and Nectaria snapped: ***"No. Let them go."*** It lowered them, and Aren **dashed inside untouched.**
+
+**She ended it.** At midnight, with [[Petra]] possessed and about to invite Nectaria in, Aren cast **Hold Person** and froze her mid-word. Her pendant had already confirmed **Drolta was the only undead** among them. The other priestesses weren't locked away.
+
+*(Tommy, asked what would have happened if Kat came back to a dead character: "Aren becomes a vampire or some kind of undead." Kat still has a lot to catch up on, including her **bell** from Session 13.)*

@@ -144,3 +144,18 @@ See [[Session 13 Recap — Homecoming]].
 **At the [[Temple of Nephthys]] he was the distraction.** He tried to pull [[Solenne]] away for a private blessing (*"High priestess! Will you come bless me?"*). It didn't work, so he kept at it: *"I need a blessing! I need a blessing!"* Introduced to [[Ysmene]]: *"Howdy. Name's Red."*
 
 **In the fight** he opened with **Moonbeam**, wild shaped into a **lion**, and **roared** to warn the temple. His **Arcana** read on the **Fiendish Icons**: **not undead, more like constructs**, possibly clay. *(Leif: "I'm a geologist.")* Caught in an icon's fiery eruption, he spent his reaction on *"what in tarnation"* as Aren's bell went off. He leaped across the field and raked **[[Lady Nectaria]]** twice for 9. She scoffed.
+
+### Session 14
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**Nectaria fed on his lion.** She picked out the lion as *"the only thing that has damaged her,"* hit it with a **Grave Strike**, **grappled** it, and **bit.** He failed the save: **17 necrotic**, and **his maximum HP dropped by 17.** He tore free and ran, and the opportunity attack **knocked him out of lion form.** [[Nephthara]] healed him from the doorway.
+
+**He killed Damien.** He put **Moonbeam** on Nectaria (half damage, plus his Battle Cry die), gave Leif a **Healing Word**, and then **moved the beam onto the prone spawn** with its claws in Leif's ankle. It made the save, but it had about 3 hit points left, and **it burned to dust.** Nectaria later named it: **Damien.** He also healed Drolta for 6.
+
+**He broke the news to Drolta.** The party picked him as the most sincere, honest fellow they had. *"Remember how we couldn't figure out how they got in last time? Turns out there's some connection between you and Nectaria, and she's gonna take over you. And you're gonna open the door."* With her agreement he **Shillelagh'd her down** (hence the **Shillelagh Bros**: *"Shillelagh her down"*), cast his new cantrip **Spare the Dying**, and **tied her up with his rope.** His backup offer was to **turn into a giant toad and swallow her.** *(Pan's Labyrinth was invoked.)* He left his raven **Bama** in the vault as a **security camera.**
+
+**He fortified the temple.** His **[[Alchemy Jug]]** siphoned **real holy water** to douse every door, and he carved a **stake.** When Nectaria rapped on the door: *"Can I help you? We're closed. Come back in the morning."* Every instinct of his Southern hospitality said to open it. He didn't.
+
+**He caught Petra.** When [[Petra]] walked to the door in a trance, he **grabbed her** in a contested Athletics check (**23**, with advantage and Guidance) and got a **hand over her mouth** before she could issue the invitation. *"You're going in time out."* Once [[Aren Greycloak|Aren]] paralyzed her, he went **lion** and helped knock her out.
+
+**He made her a staff bro.** In the morning he gave Petra **his spare quarterstaff**: *"Whenever you find yourself losing control of yourself again, you just need something to remember yourself by. You can always just be a staff bro with us."* *"I'll be happy to be a staff bro."* *"Sorry for what I had to do." "No. You did the right thing."*

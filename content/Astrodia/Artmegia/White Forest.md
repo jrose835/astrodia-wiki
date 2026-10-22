@@ -74,3 +74,12 @@ The forest is no longer only a mystery to investigate. It is a **rescue**, and s
 - The [[S.A.T.O.]] question on **magic that would stop someone entering the forest** came back with nothing.
 - **[[She Who Fell Before the First Fall]]?** The party linked [[Dia]]'s story of the one the forest *"is supposed to remember"* to the sect's fallen angel. Unconfirmed.
 - The [[WitchCrafters]] sent the party off with gifts, explicitly with the forest in mind: *"Who knows what's going on there?"* See [[WitchCrafters' Parting Gifts]].
+
+## Session 14 — The Road In (October 21, 2026)
+
+- **Distance.** The forest's edge is about **three days on foot** from the [[Temple of Nephthys]]. There are no horses, and **no major settlements** in between. The nearest are **[[Freedale]]** to the south and **Exod's Cross** to the north, each a couple of days off. The priestesses had their own grim reaction when they heard where the party was going.
+- **A mega-dungeon.** Tommy, above the table: the White Forest will play like **a mega-dungeon about the size of half the continent**, which the party will have to navigate. *(Compare Session 7: the curse once reached about halfway into the continent before receding.)*
+- **Teleporting in.** [[WitchCrafters' Parting Gifts|Genni's power stone]] now holds **Teleport**. Because the place is so magical and unfamiliar, **even a perfect roll won't land them where they intend.** Because **[[Asha Nyvani Korré|Asha]] has been there**, though, the stone could skip the walk to the **edge**, and Tommy would roll to see how far in they get. The table leaned toward **walking and saving the Teleport** as a way out.
+- **Satyr lore.** The [[S.A.T.O.]] White Forest question finally came back (from "Matillius," most likely [[Quintilius]]): ***"Witch coven lived in forest. Ward stones protected their path."*** *(as heard)* That's a **fourth source** for the coven, and the first mention of **ward stones**.
+
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].

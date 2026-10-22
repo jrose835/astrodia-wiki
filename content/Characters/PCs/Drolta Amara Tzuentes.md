@@ -1,6 +1,6 @@
 ![[Pasted image 20260202134237.png]]
 
-Drolta Amara Tzuentes—the Crimson Priestess—is a dhampir warlock whose amber-gold eyes burn with divine fire and dangerous secrets. She was a High Priestess of [[Nephthys]] the Phoenix, reciting the prayers for her Goddess, healing the broken until ancient vampires led by **[[Lady Nectaria]]** attacked her temple seeking something still unknown, killing the children in her care—including a little girl she loved like a daughter. Drolta destroyed them with holy flame and nearly died herself, but Nephthys transformed her into something between living and dead, binding her to a mission, her Pact of the Blade.
+Drolta Amara Tzuentes—the Crimson Priestess—is a dhampir warlock whose amber-gold eyes burn with divine fire and dangerous secrets. She was a High Priestess of [[Nephthys]] the Phoenix, reciting the prayers for her Goddess, healing the broken until ancient vampires led by **[[Lady Nectaria]]** attacked her temple seeking something still unknown, killing the children in her care—including a little girl she loved like a daughter. *(Revealed in Session 14: that girl, a mason's five-year-old daughter, was the one Nectaria tricked into **inviting the vampires in.**)* Drolta destroyed them with holy flame and nearly died herself, but Nephthys transformed her into something between living and dead, binding her to a mission, her Pact of the Blade.
 
 Now she wanders [[Astrodia]] hunting vampires, wielding the power bestowed onto her by the Phoenix Queen. She carries a scar on her neck from the attack and occasionally feels a psychic "tapping"—possibly Lady Nectaria trying to reach her mind. Nephthys' protection may be blocking this connection.
 
@@ -12,7 +12,9 @@ She says she's protecting the world, but late at night, while she quietly prays 
 
 **[[Leif Kalanchoe|Leif]]** - Leif confronted Drolta about her fangs. She revealed her dhampir nature to him, and they agreed to keep it between them for now.
 
-**[[Ysmene]]** - A sister priestess from the [[Temple of Nephthys]], who saved many people the night of the attack. She was the first to embrace Drolta on her return in Session 13, and **she knows what Drolta is.** She believes something she did that night left Drolta *"between life and death."*
+**[[Ysmene]]** - A sister priestess from the [[Temple of Nephthys]], who saved many people the night of the attack. She was the first to embrace Drolta on her return in Session 13, and **she knows what Drolta is.** She believes something she did that night left Drolta *"between life and death."* Per [[Lady Nectaria]] (Session 14), Ysmene **kept her from succumbing.**
+
+**[[The Fallen]]** - As of Session 14 the whole party knows she is a dhampir. With her agreement, they knocked her out and locked her in a vault to keep Nectaria from using her.
 
 ## Session Events
 
@@ -59,7 +61,7 @@ The party reached **Level 3**.
 - Still intends to seek out the vampire dean **[[Professor Valentine]]** at [[Witherbloom College]] as a source on vampires and the [[Severance]] — deferred for now.
 
 ### Session 8
-- At the Level 3 reintroductions, Drolta re-told her origin — orphan, **High Priestess of [[Nephthys]]**, the vampire massacre, her rebirth as a **dhampir** — and confirmed she now wields **celestial-patron warlock** healing. **Only [[Aren Greycloak|Aren]] and [[Leif Kalanchoe|Leif]] know her true nature**; [[Úlfr Kveld|Úlfr]] still does not.
+- At the Level 3 reintroductions, Drolta re-told her origin — orphan, **High Priestess of [[Nephthys]]**, the vampire massacre, her rebirth as a **dhampir** — and confirmed she now wields **celestial-patron warlock** healing. **Only [[Aren Greycloak|Aren]] and [[Leif Kalanchoe|Leif]] know her true nature**; [[Úlfr Kveld|Úlfr]] still does not. *(As of Session 14 the whole party knows. See below.)*
 - Her **[[Drolta Amara Tzuentes|history roll]]** identified the midway town of **[[Freedale]]** and its devastation by the [[White Forest]] curse.
 - In the **bandit ambush**, she worked **Inflict Wounds, Hex, and Mind Sliver**, taking heavy dagger damage but finishing the **Muscle** alongside Úlfr; [[Aren Greycloak|Aren]] repeatedly healed her (*"sisters in arms"*).
 - **A haunting dream:** someone she **deeply loved at the [[Nephthys]] temple**, now with **blood-red eyes and fangs.** She confided to [[Leif Kalanchoe|Leif]] her fear that **vampires may still hold the temple** they're approaching, and that the homecoming will be *"a little rough."* She resolved to warn the group, and to ask [[Nephthys]] about Leif's [[The Whispering One|patron]].
@@ -145,3 +147,46 @@ Then she asked about what [[Leif Kalanchoe|Leif]] had shared earlier that day: *
 > *"Not for long."*
 
 In the fight against Nectaria's **Fiendish Icons** she cast **Mirror Image**, cut down a badly hurt icon with her **plume**'s dancing blades, moved her Hex, and closed on Nectaria for a plume hit with Hex damage. She ended the session nearly out of spell slots, with things coming out of the woods.
+
+### Session 14
+**The night Drolta learned who let the vampires in.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**In the fight** her **Mirror Image** soaked hit after hit from the two vampire spawn. She went after [[Lady Nectaria]] (*"she's been talking shit in my ear"*) and missed, spent her **Lucky** points, and **still missed**, while Nectaria cackled. The spawn got through her duplicates and nearly dropped her. Tommy pointed out that **the vampires never once tried to bite her.** She finally landed a hit on a spawn, healed a little from it, and disengaged toward the temple.
+
+**At the door** she answered Nectaria for the temple:
+
+> *"What is it with you and my priestesses?"*
+> *"You're quite the abomination, aren't you?"*
+> *"I am what I am. I have your kind to thank for it, so if I'm an abomination, what does that make you?"*
+
+Nectaria said it was really **[[Ysmene]]**'s fault, for **keeping Drolta from succumbing.** *"She did her best."* Then Drolta told Nectaria that this time was different: *"We have all of these new people here. Myself, my comrades, our new high priestess... **We are ready this time.**"* *("Such a brave little half-blood.")*
+
+**She talked [[Solenne]] out of giving herself up.** *"You only help them by going with them. Sacrificing yourself is not what we need right now."*
+
+**Nectaria spoke to her privately** *(played in a private channel)*. Drolta came back certain of two things: Nectaria **could get in**, and what she really wants is **[[Nephthys]]'s dress** from her human form, kept in the Fire Kings' temple on **[[Fire King Island]]**. The dress is said to **break chains and destroy unjust hierarchies**, including a vampire's bond to its sire. The demand for Solenne was **"a test of love."**
+
+**Then the party realized she was the door.** [[Asha Nyvani Korré|Asha]] worked out that Nectaria's connection to Drolta would let Nectaria **take her over** and have her open the temple. [[Harlan “Red” Reed|Red]] broke it to her. She understood at once:
+
+> ***"I think you have to knock me unconscious."***
+
+Red **Shillelagh'd her down** and cast **Spare the Dying**, and the party tied her with rope and **locked her alone in the vault**, with Red's raven Bama watching. She slept through the midnight siege. As it turned out, it was **[[Petra]]** whose mind had been seeded, not hers.
+
+**She told the party the truth.** In the morning:
+
+> *"I'm sure there's many questions that you all have. There's a few things that I have not been honest with you about, and I apologize, but I just didn't know how to tell you."*
+
+Asha said it plainly: *"You are, if not one hundred percent, one of them."* With Nectaria calling her a half-blood in front of everyone, **the whole party now knows what she is.**
+
+**And she learned who let them in.** A journal from the vault showed that **a five-year-old girl**, the daughter of a mason at the temple, had been befriended by Nectaria and **invited her inside.** It was the girl Drolta had loved as her own.
+
+> *"She was only five. How was she supposed to know?"*
+> ***"She was like my child. Her death is the reason why I hadn't been back. Until now."***
+> *"They got to her, and... I tried to do everything I could to stop the bleeding and to revive her, and her mother was next to me, screaming and crying. But I couldn't save her. I lost her."*
+
+Ysmene gave her a quiet hug. *(The girl's name was heard as "Santa"; unconfirmed. Drolta's **Session 8 dream** showed someone she loved at the temple with red eyes and fangs. Whether that was this girl is unknown.)*
+
+**Nectaria told her Nephthys has been tested before**, and ***"failed the test the first time,"*** and that **the Phoenix Queen knows more than she has shared.** Drolta is holding true, but wants to dig into **Nephthys's history**, especially from before she was a goddess. [[Nephthara]] told her she is **the first person Nephthys has spoken to in centuries.**
+
+**She blessed her successor** (*"I think you're ready... You'll be you"*) and promised to come back sooner this time. *"Thank you all so much for being willing to come here and support me and my family."* *"We are family, too."* *"Oh, little one."*
+
+**Going forward**, the party will **keep an eye on her** and have **Hold Person** ready, because Nectaria can come back and take her.

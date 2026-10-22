@@ -14,7 +14,13 @@ The island is home to the **Fire Kings**, the **male worshippers of the [[Phoeni
 
 Per [[Nephthara]], some of those relics, including **robes of [[Nephthys]]**, have the power to **break the contracts that bind the undead**, and may be what vampires are hunting. **The island has not been attacked.** Drolta named it as a possible next destination for learning more about the Cataclysm.
 
+## Session 14 — Nephthys's Dress Is Here (October 21, 2026)
+
+What [[Lady Nectaria]]'s vampires actually want is **on this island**, in the Fire Kings' temple: **the dress [[Nephthys]] wore in her human form.** It is said to **break chains and destroy unjust hierarchies**, including the bond that chains a vampire to its **sire.** **Nectaria knows it isn't at the [[Temple of Nephthys]].** Drolta asked [[Petra]] to make sure it is protected.
+
+Petra, it turned out, had been **seeded by Nectaria** and tried to let her into the temple at midnight. She has left the temple and says she **won't return to the island** anytime soon, for fear of bringing the vampires with her. See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Related
 
 - [[Phoenix King]] · [[Nephthys]] · [[Petra]] · [[Temple of Nephthys]] · [[Lady Nectaria]]
-- [[Session 13 Recap — Homecoming]]
+- [[Session 13 Recap — Homecoming]] · [[Session 14 Recap — Invitation Only (Shillelagh her down)]]

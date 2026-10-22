@@ -23,6 +23,32 @@ That evening she **shook Drolta's hand**:
 
 **When [[Lady Nectaria]] attacked**, Solenne **ran straight at the Fiendish Icons** that had gotten inside, with Nephthara shouting *"Solenne, no, don't!"*, and fought them with radiant flame and **Fire Bolt.** When one hit back, Nephthara burned it to nothing. *"Thank you."*
 
+## Session 14 — The Siege (October 21, 2026)
+
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**She tried to run out into the fight**, and [[Nephthara]] grabbed her and held her back. From the doorway she fired over her elders' heads at a vampire spawn clawing Drolta: ***"Hands off our high priestess!"***
+
+**[[Lady Nectaria]] came for her.** At the temple door: ***"All we want is the girl. Solenne, if that's her name."*** Her reason, she said, didn't matter. **Drolta later concluded that Solenne wasn't the real target.** The demand was a **"test of love"** to see whether the temple would give someone up, and what Nectaria really wants is **Nephthys's dress.**
+
+**She offered to go.** *"I'll go with her."*
+
+> *"No. You're too young, and you're too important."*
+> *"But if it's me or the temple, it's my duty as the high priestess to protect the temple."*
+> *"The temple needs you here, now more than ever... You only help them by going with them. Sacrificing yourself is not what we need right now."*
+
+She crossed her arms, made a puppy face, and said: ***"Fine."***
+
+[[Ysmene]] covered her eyes while the party knocked Drolta unconscious.
+
+**Before Drolta left**, she put her hands on Solenne's shoulders:
+
+> *"I wasn't too sure about this. But I think you're ready."*
+> *"I'll try. I heard a lot about you, and when they said I had what it takes to be the next high priestess, all I wanted was to be someone half as good a priestess as you were. After everything you did. I hope that I can do that."*
+> *"You will. You'll be you."*
+
+Nephthara hopes Nephthys will make herself known to Solenne, as she did to Drolta.
+
 ## Related
 
 - [[Nephthara]] — her mentor · [[Ysmene]] — who chose her path

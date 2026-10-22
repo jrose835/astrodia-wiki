@@ -29,12 +29,13 @@ It is the first answer the party has had to the problem [[Leif Kalanchoe|Leif]] 
 ## In Use
 
 - **Session 13:** [[Úlfr Kveld|Úlfr]] used the **Clear-Sight Lens** to find the hidden **vault door** at the [[Temple of Nephthys]], after his own Investigation check failed.
+- **Session 14:** the **power stone** now holds **Teleport**, which Tommy let the party have the WitchCrafters load **retroactively.** It can reach the [[White Forest]]'s edge (Asha has been there) but **won't place them accurately inside.** The table leaned toward saving it as an escape.
 
 ## Related
 
 - [[WitchCrafters]] · [[Pentamarone]]
 - [[Keystones]] — the power stone
-- [[Session 13 Recap — Homecoming]]
+- [[Session 13 Recap — Homecoming]] · [[Session 14 Recap — Invitation Only (Shillelagh her down)]]
 
 ## First Appeared
 

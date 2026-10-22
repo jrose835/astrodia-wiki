@@ -123,8 +123,21 @@ The report was blunt with her, too: *the copy is not your mother, has no connect
 *(Still carried forward: Asha's undisclosed dream and her two books remain unshared with the party. Next destination is open between the [[Nephthys]] temple and going **straight to the White Forest** for her mother.)*
 
 ### Session 13
-*(Kenyaita appears to have been out; Asha was run at the table.)* See [[Session 13 Recap — Homecoming]].
+*(Kenyaita was out; Tommy ran Asha, as he confirmed in Session 14.)* See [[Session 13 Recap — Homecoming]].
 
 **Her star tablet finally has a donor.** [[Simone]]'s long-failing [[S.A.T.O.]] assignment came through on a 98: ***"Professor Astellar, Lorehold Professor, taking a sabbatical at Quandrix College this semester. She donated the tablet."*** That is the White Forest artifact Asha was studying when she was expelled. **[[Professor Astellar]]** may know a great deal about the forest. The party chose not to go back to [[Quandrix College]] for her yet, given the repo clock, and is heading for the [[White Forest]] by way of the [[Temple of Nephthys]].
 
 **In the fight** at the temple she ran inside to warn the priestesses (*"There's a vampire thing going on!"*), hit the **Fiendish Icons** that followed with **Shatter**, and turned one of two slams aside with **Shield.**
+
+### Session 14
+**Asha was the smart one, and she read the journal.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**In the fight** she ran out with **Fire Bolt**s at the vampire spawn on Leif's back and at **[[Lady Nectaria]]**, using the advantage from Aren's Guiding Bolt. [[Ysmene]] ran out and **grabbed her hand** to pull her back toward the temple. From the doorway she **healed [[Leif Kalanchoe|Leif]] for 12** and kept firing.
+
+**She saw it coming.** She had noticed **a connection between Drolta and Nectaria** outside, and that Drolta had failed the Wisdom save. Before anyone else, she said Nectaria would **take Drolta over** to open the door. Tommy's flat Intelligence check came back **18** for her (with Guidance), and the private answer he gave her was **what she had already said.** *(Table: "When you said rope, I thought we were going to be tying up the priestess. I didn't know it was Drolta.")* Leif linked minds with her by **Awakened Mind** so the party could plan without Drolta hearing.
+
+**She found the journal.** Her Investigation was the best in the vault, among the belongings of those who died in the first attack. **It was a little girl's journal.** She **read it aloud** as the bells rang midnight and Nectaria rapped on the door. Partway through, [[Petra]] got up in a trance and went for the door. *"I feel like all of them need to go in a room, because I can't trust any of them."* The journal showed how Nectaria befriended a five-year-old and got her to say ***"Of course you can. Come on in."*** Asha first read it as Drolta having known the woman. Tommy clarified that **Drolta wasn't a vampire yet** and **the girl invited Nectaria in.**
+
+**She said it to Drolta's face.** In the morning, when Drolta apologized for what she'd kept from them: *"It's very clear that, if not one hundred percent, you are one of them."* Then she walked Drolta through the journal, and Drolta realized the girl was the child she had loved.
+
+**The White Forest.** Genni's **power stone** now holds **Teleport**, and Tommy ruled that because **Asha has been to the forest**, it could carry the party to its edge, though not to any precise point inside. The forest will play like **a mega-dungeon about half the size of the continent.** Her mother is still in there.

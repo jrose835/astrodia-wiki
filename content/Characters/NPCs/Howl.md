@@ -41,6 +41,12 @@ Leif had chosen to hold his private audience with [[Madame Verre]] **with Howl p
 
 In the fight with [[Lady Nectaria]] at the [[Temple of Nephthys]], Howl harried the **Fiendish Icons** with the **Help** action, then flew over to hover above Nectaria herself.
 
+## Session 14 — Killed Again (October 21, 2026)
+
+Howl spent the fight circling **[[Lady Nectaria]]** and the vampire spawn, using **Help** to give the party advantage. As the party fled into the temple, Leif hit Nectaria with an Eldritch Blast over his shoulder. She tilted her head, annoyed, and **swatted Howl out of the air.** Six damage was enough. **Howl died**, for the second time in the campaign.
+
+Leif **re-summoned her during the short rest**, and brought her into the vault with everyone else so she couldn't be **bewitched into opening the door.** She sat beside [[Harlan “Red” Reed|Red]]'s raven Bama. See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## The Open Question
 
 Three separate threads now point at this owl:
@@ -63,4 +69,4 @@ Leif's own reaction, in the guild hall, was the right one: *"You been holding ba
 
 ## First Appeared
 
-Session 0, with [[Leif Kalanchoe|Leif]]. **Killed by a bandit's scimitar in Session 1** and re-summoned. Became a plot thread in **Session 8**, and a much larger one in **Session 11** (September 9, 2026). Revealed as Sorath's servant in **Session 12** (September 23, 2026).
+Session 0, with [[Leif Kalanchoe|Leif]]. **Killed by a bandit's scimitar in Session 1** and re-summoned. **Killed by [[Lady Nectaria]] in Session 14** (October 21, 2026) and re-summoned. Became a plot thread in **Session 8**, and a much larger one in **Session 11** (September 9, 2026). Revealed as Sorath's servant in **Session 12** (September 23, 2026).

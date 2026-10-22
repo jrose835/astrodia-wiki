@@ -12,6 +12,14 @@ Neither knew then that they'd meet again in the [[Lathen]] safehouse, where Quin
 
 As a [[Prismari]] student steeped in drama and dead languages, Quintilius brings performance, presentation, and a scholar's ear for old texts to the group — useful skills for a cohort trying to decode forbidden history and keep its activities quiet. His specific contributions to the group's work are still emerging.
 
+## Session 14 — White Forest Lore (October 21, 2026)
+
+In Session 14 Tommy named the Satyr on the **[[White Forest]] lore** task as **"Matillius"** *(as heard)*, most likely Quintilius. *(Earlier recaps didn't record who had that task.)* Session 7 also lists him among the party's sources on the forest. His roll was one of the two the party chose to pass:
+
+> ***"Witch coven lived in forest. Ward stones protected their path."*** *(as heard; the first words are unclear on the recording)*
+
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Fellow Satyrs
 
 [[Myrna Nor]] · [[Simone]] · [[Tobin]] · [[Rosie]] · [[Ersmatok Rostch]] — see [[S.A.T.O.]].

@@ -18,6 +18,14 @@ The party's read: **the repo man may not be a man.** The table's leading theory 
 
 That was the best answer a near-perfect roll could produce, which the party took as a warning in itself. **[[Tobin]]'s standing assignment is now the Oracle**: *send all you can.*
 
+## Session 14 — Constructs (October 21, 2026)
+
+Tobin's Oracle task finally came back:
+
+> ***"Oracle's power being used to control constructs. Experimental artificial intelligence."*** *(as heard)*
+
+That fits the table's Session 11 guess: the **repo man** is an Academy **experiment**, the **Oracle** is involved, and the likeliest form is **cogwork constructs**, now apparently run by the Oracle's power. With about **eight or nine days** left on the [[Golden Chalice]]'s repossession clock, it may be what comes for the chalice. *(At the table: "AI comes for us all.")* See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Related
 
 - [[The Academy of Arcane Arts]] — the school it powers

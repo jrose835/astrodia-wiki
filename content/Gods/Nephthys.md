@@ -48,3 +48,14 @@ The party reached the **[[Temple of Nephthys]]** at last, on the day a child, **
 Solenne's vow: *"I want to see her rise again from the ashes."*
 
 See [[Session 13 Recap — Homecoming]].
+
+## Session 14 — The Dress, and the Test (October 21, 2026)
+
+- **Her dress.** The relic [[Lady Nectaria]] wants is **the dress Nephthys wore in her human form**, said to **break chains and destroy unjust hierarchies**, including a vampire's bond to its **sire**. It is kept in the Fire Kings' temple on **[[Fire King Island]]**.
+- **"A test of love."** Nectaria told Drolta privately that her siege of the temple was a test, and that **this has happened before**: Nephthys has been **tested** like this.
+- ***"Nephthys failed the test the first time."*** Drolta doesn't know whether that means the first attack on the temple, or something from **before Nephthys became what she is**, when she still wore the dress.
+- **"The Phoenix Queen knows more than she has shared,"** Nectaria insisted, even with Drolta. Drolta is holding true, but wants to **dig into Nephthys's history.**
+- **Nectaria's contempt.** Her parting words through the temple door: ***"And once again, your goddess did nothing."***
+- **Her silence.** Per [[Nephthara]], the temple has *"prayed for years to a voice that has not spoken back."* Until she chose Drolta, Nephthys had not made herself known to any of them **in centuries, if not more.** Nephthara hopes she will speak to [[Solenne]] too.
+
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].

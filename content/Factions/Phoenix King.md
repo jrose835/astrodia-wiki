@@ -10,6 +10,10 @@ The **Fire Kings** are the **male worshippers of the Phoenix King**, and they li
 - After [[Lady Nectaria]]'s attack on the [[Temple of Nephthys]], the Fire Kings **sent one priestess**, Petra, to help rebuild, and **raised security on the island**. There has been little contact between the island and the temple since.
 - Some of these relics, including **robes of Nephthys**, may be able to **break the contracts that bind the undead** (per [[Nephthara]]).
 
+## Session 14 — The Dress (October 21, 2026)
+
+The relic [[Lady Nectaria]] is after, **Nephthys's dress** from her human form, is kept in **the Fire Kings' temple** on Fire King Island. It is said to break the chains that bind vampires to their sires. **[[Petra]]**, the Fire Kings' envoy to the Temple of Nephthys, was found to be under Nectaria's influence and **won't be going home.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Related
 
 - [[Nephthys]] · [[Fire King Island]] · [[Temple of Nephthys]] · [[Petra]]

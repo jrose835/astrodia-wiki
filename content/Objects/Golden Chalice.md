@@ -216,9 +216,13 @@ Genni argued it **shouldn't be used for what Verre wanted it for.** Verre agreed
 
 Carried from [[Pentamarone]] to the [[Temple of Nephthys]] by the [[WitchCrafters]]' teleport. **The repossession clock stood at about ten days** that morning, which is why the party skipped a detour to [[Quandrix College]]. Not used.
 
+### Session 14
+
+Not used. **[[Tobin]]'s Oracle report** came back: ***"Oracle's power being used to control constructs. Experimental artificial intelligence."*** *(as heard)* That fits the Session 11 theory that the **repo man** coming for the chalice is an Oracle-directed construct. See [[Hall of Oracles]].
+
 ### Untested
 
 - **Pouring something in and pouring it out**, without drinking.
 - **Enchanting the duplicate** as a decoy.
 
-**Repossession clock: about 10 days** — though the Academy **cannot scry whoever is carrying it.**
+**Repossession clock: about 8 or 9 days** as of Session 14 — though the Academy **cannot scry whoever is carrying it.**

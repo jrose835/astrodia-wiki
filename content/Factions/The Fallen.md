@@ -54,6 +54,17 @@ See [[Session 12 Recap — Something from Nothing]].
 - **New questions out** to the [[S.A.T.O.]]: see [[S.A.T.O.#Session 12 Assignments (September 23, 2026)|Session 12 Assignments]].
 - **Next destination is undecided:** the **[[Nephthys]] temple** (the original plan, still unvisited) or **straight to the [[White Forest]]** for [[Asha Nyvani Korré|Asha]]'s mother. Verre expects them to go to the forest "by way of a temple or two."
 
+### As of Session 14 (October 21, 2026)
+
+See [[Session 13 Recap — Homecoming]] and [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+- **They went to the temple.** The [[WitchCrafters]] sent them off with [[WitchCrafters' Parting Gifts|a gift from each master]] and teleported them to the **[[Temple of Nephthys]]**. There **[[Lady Nectaria]]** besieged them for a night. They **lost the fight** but **kept her out**, by knocking out Drolta and stopping a possessed [[Petra]] from inviting her in.
+- **The whole party now knows Drolta is a dhampir**, and that Nectaria **can take her over.** The plan is to watch her and keep **Hold Person** ready.
+- **What Nectaria wants** is **[[Nephthys]]'s dress**, kept on **[[Fire King Island]]**.
+- **New gear:** four potions of healing, and **Genni's power stone, now holding Teleport.**
+- **Next destination: the [[White Forest]]**, about **three days on foot**, with no horses. It will play like a **mega-dungeon**.
+- **The repossession clock is about 8 or 9 days.** [[Tobin]] reports that the **Oracle is controlling constructs**, which fits the theory that the repo man is one.
+
 
 ## First Appeared
 

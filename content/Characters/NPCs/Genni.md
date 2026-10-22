@@ -118,6 +118,8 @@ Her parting gift was **a black circular power stone bearing the triangle symbol*
 
 > *"These things have kind of a terrifying or uncomfortable history for me, but they are extremely useful. And you'll need one if you're getting into the Empire's territory at all."*
 
+*(Session 14: Tommy let the party retroactively have the guild load it with **Teleport** before they left. See [[Keystones]].)*
+
 ### Who She Was
 
 The party pushed her to say more (Persuasion with Guidance, 16). She wouldn't, so **[[Haine]]** took her hand and said it for her:

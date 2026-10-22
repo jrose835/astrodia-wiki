@@ -1,6 +1,6 @@
 **Campaign:** Astrodia
 **DM:** Tommy
-**Players:** Jim, Kat, Emily, Yemko, Roy *(Kenyaita was expected to miss the session, and [[Asha Nyvani Korré|Asha]] appears to have been run at the table; confirm)*
+**Players:** Jim, Kat, Emily, Yemko, Roy *(Kenyaita missed the session; Tommy ran [[Asha Nyvani Korré|Asha]], confirmed in Session 14)*
 **Date:** October 7, 2026 (Session 13)
 
 ---
@@ -366,6 +366,8 @@ Drolta came back looking at **Aren** as she told them:
 > *"Then who let them in here?"*
 > *"That's the question, isn't it?"*
 
+*(Answered in Session 14: a five-year-old girl at the temple, befriended by Nectaria, invited her in. See [[Session 14 Recap — Invitation Only (Shillelagh her down)#The Little Girl's Journal]].)*
+
 Nephthys and the Phoenix King aren't the only higher beings with powerful old relics, so there may be other targets too.
 
 Drolta also went back over **[[She Who Fell Before the First Fall]]** from the Temple of Venus. There was some confusion about whether she is the Morning Star (she isn't: the Morning Star's was the *first* fall, and hers came before it). A player pointed out that the phrase had sounded familiar and that it shows up in **[[Morgana]]'s papers**: the old story **[[Dia]]** told about *"someone who fell before anyone else ever fell, someone the forest itself is supposed to remember."* The forest in question is the [[White Forest]].
@@ -461,7 +463,7 @@ Things came out of **the woods behind her.**
 
 ![[Pasted image 20261007232802.png]]
 
-From the table: *"Those are spa—"* *(most likely vampire spawn; to be confirmed next session)*. *"Holy fuck."*
+From the table: *"Those are spa—"* *(confirmed in Session 14: two vampire spawn)*. *"Holy fuck."*
 
 Aren got the undead she wanted, and she is furious about it. Leif and Drolta are nearly out of spell slots. Úlfr is still charmed.
 
@@ -492,12 +494,12 @@ Aren got the undead she wanted, and she is furious about it. Leif and Drolta are
 
 ## Open Threads
 
-1. **[[Lady Nectaria]] is here.** She's the one who **turned Drolta**, and the knocking at the door in Drolta's mind is now **a door thrown open.** She lost her icons and called in **reinforcements from the woods.** **The fight continues next session.**
-2. **"Who let them in?"** Nephthara believes the vampires **had to be invited** into the sanctuary five years ago. The temple's protective spell **may have lapsed**, since there's been no money to recast it.
-3. **Relics that break undead contracts.** The undead are **bound by some sort of contract**, and certain relics, **robes of Nephthys** among them, can break those bonds. That may be what the attack was for. **Some are still on [[Fire King Island]]**, which hasn't been attacked. Drolta was looking at **Aren** when she said it.
-4. **The vault** is still unopened. It holds the **belongings of those who died** in the attack. Ysmene will let them in.
-5. **What did Ysmene do that night?** *"I'm sorry if what I did pushed you into this uncomfortable spot between life and death."* **She knows what Drolta is.**
-6. **The voice in Drolta's head** during the anointing, after her failed Wisdom save, was delivered privately. Nephthys's protection lapsed in that moment.
+1. **[[Lady Nectaria]] is here.** She's the one who **turned Drolta**, and the knocking at the door in Drolta's mind is now **a door thrown open.** She lost her icons and called in **reinforcements from the woods.** **The fight continues next session.** *(Session 14: two vampire spawn. Nectaria won the fight but couldn't get into the temple.)*
+2. **"Who let them in?"** Nephthara believes the vampires **had to be invited** into the sanctuary five years ago. The temple's protective spell **may have lapsed**, since there's been no money to recast it. *(Answered in Session 14: a five-year-old girl Drolta loved, tricked by Nectaria.)*
+3. **Relics that break undead contracts.** The undead are **bound by some sort of contract**, and certain relics, **robes of Nephthys** among them, can break those bonds. That may be what the attack was for. **Some are still on [[Fire King Island]]**, which hasn't been attacked. Drolta was looking at **Aren** when she said it. *(Session 14: the relic is **Nephthys's dress** from her human form, and it is on the island.)*
+4. **The vault** is still unopened. It holds the **belongings of those who died** in the attack. Ysmene will let them in. *(Session 14: opened. Asha found the girl's journal there, and it held Drolta overnight.)*
+5. **What did Ysmene do that night?** *"I'm sorry if what I did pushed you into this uncomfortable spot between life and death."* **She knows what Drolta is.** *(Session 14: Nectaria says Ysmene **kept Drolta from succumbing**.)*
+6. **The voice in Drolta's head** during the anointing, after her failed Wisdom save, was delivered privately. Nephthys's protection lapsed in that moment. *(Session 14: Asha cited a failed Wisdom save, and a connection she saw between Drolta and Nectaria outside, as the reason Nectaria could take Drolta over.)*
 7. **[[Solenne]]**, an orphan child, is now **high priestess.** Drolta has misgivings about putting this on a child.
 8. **[[Fire King Island]]** keeps relics of **both Phoenixes** for their **rebirth.** Security there was raised after the attack and may have slackened since. A **division between the orders** keeps women from the higher rites. "Garunix" was heard and is unconfirmed.
 9. **[[Genni]] was the Emperor's right-hand assistant.** She left because *"some lines were crossed."* She thinks the Emperor may know where she is (*"he knows a lot of things"*). She might answer the **Sundered Watch**'s questions if they came to her.
@@ -520,6 +522,6 @@ Aren got the undead she wanted, and she is furious about it. Leif and Drolta are
 
 The sun is down at the **[[Temple of Nephthys]]**. A vampire lord stands at the tree line, things are coming out of the woods, Úlfr is charmed, and the party's two warlocks are nearly out of spells. Inside, a child who became high priestess this morning is fighting next to the women who raised her.
 
-**Next session: Wednesday, October 21, 2026** *(assuming the usual two-week cadence; confirm with Tommy)*.
+**Next session: Wednesday, October 21, 2026.** See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
 
 ---

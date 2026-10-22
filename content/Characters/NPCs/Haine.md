@@ -34,6 +34,10 @@ Haine folded and left it. **What Verre is chasing, and what the chalice is a lea
 - **In the secret lab** her station is making **enormous clothing, cut for a woman's body**, too big even for [[Úlfr Kveld|Úlfr]]. *"Oh, you'd be absolutely swimming in it."* She snatched it back: *"That's not for you."*
 - **She cast the teleport** to the [[Temple of Nephthys]], her first ever without a target circle, using Drolta's plume as the associated object. It landed on target. On the alternative, horses: *"The last horse we had here exploded in our library."*
 
+## Session 14 (October 21, 2026)
+
+Tommy's opening recap went out of its way to mention **the garment for a very, very large woman** again: *"Not exactly sure what that was for."* *(Not connected at the table: the same session revealed that the relic [[Lady Nectaria]] wants is **a dress [[Nephthys]] wore in her human form**, and **a dress** is one of the four [[The Seeker of the Sinful Spoils|Sinful Spoils]].)* See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Related
 
 - [[Madame Verre]] — the person she manages, and argues with

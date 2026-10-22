@@ -105,6 +105,21 @@ He fought the rest of the encounter on **druid spells only** — a ruling that h
 
 He ended the session nearly out of spell slots.
 
+### Session 14
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**A vampire spawn went for the orc.** It dashed at *"this large orc,"* clawed him, **grappled** him, and climbed onto his back for his neck. He **passed the bite save** (DC 14). *("That's okay, because I took War Caster.")* He broke the grapple (DC 13), was **grappled again** later, and passed a second bite save on a 14. *"Damn, I'm so glad I took an extra point in Constitution."*
+
+**He drained a spawn to heal Úlfr.** He used his ring *(heard as "ring of landzade")*, adding his Battle Cry die: 8 necrotic on a successful save, and **[[Úlfr Kveld|Úlfr]] got 11 hit points** from it.
+
+**Staff bros.** With no melee spells, he swung his quarterstaff at the prone spawn (***"Staff bros!"***) and missed. He ran, its claw caught him, and **it grabbed his ankle** and held on until [[Harlan “Red” Reed|Red]]'s Moonbeam burned it to dust. On the final run for the door he hit **[[Lady Nectaria]]** with an Eldritch Blast over his shoulder. She swatted **[[Howl]]** dead in reply. He re-summoned Howl during the short rest and brought her into the vault so she couldn't be bewitched into opening the door.
+
+**He opened an Awakened Mind link to [[Asha Nyvani Korré|Asha]]** so the party could plan around Drolta without her hearing. The plan was to knock Drolta out and lock her away before Nectaria could take her over. He wished he had **Sleep**.
+
+**He tried Suggestion on [[Petra]]** at midnight: *go to sleep, and don't wake up until I tell you to.* (*"And no sleep talking."*) He reached for her mind and found **something else already in it.** She was possessed. He decided against trying Detect Thoughts on her, in case whatever had her could reach him through it.
+
+**He was the one the priestesses told.** Leif saw [[Ysmene]] crying over Asha's reading of the journal and asked what was wrong. She and [[Nephthara]] explained that the girl in it was a mason's daughter, close to Drolta, who **died in the attack** and had **invited Nectaria in.**
+
 ## Leif's Patron — The Whispering One
 
 As of Session 7, Leif's patron is known within [[The Fallen]] by the name **[[The Whispering One]]**, coined by [[Úlfr Kveld|Úlfr]]. *(Revealed in Session 12: its true name is ***Sorath*** — spelling as heard, unconfirmed.)* What is established:

@@ -33,6 +33,10 @@ Two complications for the Initiative's stated plan, both from Session 10:
 
 Tobin has been **reassigned to the Oracle itself.** Meanwhile the [[Golden Chalice]] is not merely still out of the Initiative's reach — it is **under contract to the [[WitchCrafters]] of [[Pentamarone]]**, being taken apart by a guild of witches several hundred miles outside Academy jurisdiction.
 
+## Session 14 — The Oracle Runs Constructs (October 21, 2026)
+
+Tobin's Oracle assignment came back: ***"Oracle's power being used to control constructs. Experimental artificial intelligence."*** *(as heard)* That fits the Session 11 theory that the **repo man is a construct** directed by the Oracle. **Clock: about eight or nine days.** See [[Hall of Oracles]] and [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Connections
 
 - [[The Academy of Arcane Arts]] — the program's parent institution.

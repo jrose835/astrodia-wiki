@@ -84,6 +84,19 @@ Tommy let the party roll all outstanding tasks at once and assign the results: *
 
 *(The **Venus's enemies** question from Session 12 wasn't among the five rolled.)*
 
+### Session 14 Results (October 21, 2026)
+
+Four tasks were rolled: **64, 99, 54, 40.** Tommy said **two would pass** and let the party choose. They picked the Oracle and the White Forest.
+
+| Student | Task | Result |
+|---|---|---|
+| **[[Tobin]]** | The Oracle ([[Hall of Oracles]]) | **Success:** *"Oracle's power being used to control constructs. Experimental artificial intelligence."* *(as heard)* |
+| **"Matillius"** *(as heard; most likely [[Quintilius]])* | [[White Forest]] lore | **Success:** *"Witch coven lived in forest. Ward stones protected their path."* *(as heard)* |
+| **[[Myrna Nor]]** | History of [[Marseille]] | Not chosen |
+| **[[Ersmatok Rostch]]** | Is magic conserved? | Not chosen |
+
+*(This is the first time the White Forest task has been attributed to a Satyr. See [[Session 14 Recap — Invitation Only (Shillelagh her down)#Word from the Satyrs]].)*
+
 ## Related
 
 - [[The Fourth Magic]] — the central mystery the S.A.T.O. is chasing

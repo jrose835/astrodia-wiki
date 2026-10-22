@@ -69,6 +69,10 @@ The count doesn't match: **nine Agents, only four known Spoils** — the party s
 
 **An observation, not established:** the **Solemn** in that temple's mural is a **heavily built man with a long white beard in pale robes**, close to the man Asha saw the Seeker attacking in her Session 10 vision.
 
+### Session 14 — Another Dress *(not connected at the table)*
+
+At the [[Temple of Nephthys]], the party learned that [[Lady Nectaria]]'s vampires are after **the dress [[Nephthys]] wore in her human form**, which is kept on **[[Fire King Island]]** and said to **break chains and destroy unjust hierarchies.** Nobody at the table linked it to the **dress** among the Spoils, and nothing says the two are the same. **[[Haine]]**'s oversized woman's garment, which Tommy brought up again in his recap, is a third dress in play. See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Connections
 
 - [[Golden Chalice]] — likely one of the Sinful Spoils.

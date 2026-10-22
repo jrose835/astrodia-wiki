@@ -26,6 +26,10 @@ It doesn't make anything. Per [[Genni]] of the [[WitchCrafters]], in the guild's
 
 That makes it the guild's example of **ordinary magic obeying the rules** — and the contrast that exposed the [[Golden Chalice]], which **doesn't siphon from anywhere.** It makes **something from nothing**, and that is what the guild believes makes it *sinful.*
 
+## Holy Water (Session 14, October 21, 2026)
+
+Besieged by vampires at the [[Temple of Nephthys]], Red used the jug to siphon **real holy water**, since it pulls genuine liquid from elsewhere, and **doused every door and entryway** before midnight. *"Any liquid?"* The table floated blood transfusions. Red uses it primarily for beer. *(Mayonnaise came up again.)* See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
 ## Related
 
 - [[Harlan “Red” Reed]] — its owner

@@ -1,4 +1,4 @@
-**Ysmene** *(heard at the table as "Yasmin"; spelling from the map token)* is a **priestess of [[Nephthys]]** at the **[[Temple of Nephthys]]** and one of **[[Drolta Amara Tzuentes|Drolta]]'s sisters** from before the attack. She was there that night and **saved a lot of people.** She was the first to run to Drolta when Drolta came home, and **she knows what Drolta is.** She wears **blue** ceremonial dress.
+**Ysmene** *(heard at the table as "Yasmin"; spelling from the map token)* is a **priestess of [[Nephthys]]** at the **[[Temple of Nephthys]]** and one of **[[Drolta Amara Tzuentes|Drolta]]'s sisters** from before the attack. She was there that night and **saved a lot of people.** She was the first to run to Drolta when Drolta came home, and **she knows what Drolta is.** Per [[Lady Nectaria]], she is **the one who kept Drolta from succumbing** that night. She wears **blue** ceremonial dress.
 
 ## Session 13 — Homecoming (October 7, 2026)
 
@@ -33,6 +33,22 @@ Ysmene **knows Drolta is a dhampir**, and believes **something she did that nigh
 She can't speak for the temple now that it has a new high priestess, but she told Drolta that **she and her comrades are welcome.** She met the party, including [[Úlfr Kveld|Úlfr]] disguised as "Gertrude." [[Aren Greycloak|Aren]] praised the rebuilding: *"It will not be done in vain."*
 
 When [[Lady Nectaria]] attacked at sunset, Ysmene fought the **Fiendish Icons** that got inside.
+
+## Session 14 — The Siege (October 21, 2026)
+
+See [[Session 14 Recap — Invitation Only (Shillelagh her down)]].
+
+**She held the door.** She stood in the temple doorway firing radiant flame at the icons and vampire spawn and screaming at everyone to ***get inside.*** She **ran out and grabbed [[Asha Nyvani Korré|Asha]]'s hand** to pull her back in. When [[Lady Nectaria]] dropped [[Aren Greycloak|Aren]] and bit her, Ysmene **stepped outside and cast Healing Word.** Black veins were spreading across Aren's body. Ysmene **whispered something**, and Aren gasped awake.
+
+**Nectaria blamed her** for what Drolta is:
+
+> *"I think it's really... **your** fault. Aren't you the one who **kept her from succumbing**?"*
+> *"I did. I tried to save her."*
+> *"Oh, and you did such a good job, didn't you?"*
+
+That matches her own apology in Session 13 for pushing Drolta *"between life and death."* What she did that night still hasn't been said. Nectaria credits it with keeping Drolta from succumbing.
+
+When Drolta was knocked out and locked in the vault, Ysmene **covered [[Solenne]]'s eyes.** During the night she heard [[Asha Nyvani Korré|Asha]] read the journal from the vault and **started crying.** She recognized the girl in it: **the young daughter of a mason who worked at the temple**, a child **Drolta was very close to**, who died in the attack. She was the one who invited Nectaria in. When Drolta heard it the next morning, Ysmene came over and **gave her a quiet hug.**
 
 ## Related
 
